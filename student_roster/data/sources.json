@@ -1,0 +1,389 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "source": "115高一編班公告.pdf",
+      "profile": "grade1",
+      "sha256": "be36eac4196756a2c459d0074747be7f481f1add85ed95e5f3a0a1b015c9a57c",
+      "rule": "保留來源班級",
+      "total": 678,
+      "classes": {
+        "101": 35,
+        "102": 35,
+        "103": 35,
+        "104": 35,
+        "105": 35,
+        "106": 35,
+        "107": 35,
+        "108": 35,
+        "109": 35,
+        "110": 35,
+        "111": 35,
+        "112": 35,
+        "113": 35,
+        "114": 35,
+        "115": 34,
+        "116": 34,
+        "117": 34,
+        "118": 34,
+        "119": 28,
+        "120": 24
+      },
+      "pages": [
+        {
+          "page": 1,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 2,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 3,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 4,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 5,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 6,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 7,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 8,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 9,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 10,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 11,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 12,
+          "students": 46,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 13,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 14,
+          "students": 45,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 15,
+          "students": 41,
+          "ignored_lines": 2,
+          "issues": 0
+        }
+      ],
+      "issues": [],
+      "name_corrections": []
+    },
+    {
+      "source": "115高二編班公告.pdf",
+      "profile": "grade2",
+      "sha256": "7d165ec305982d27e6cca55234a0dcff86281ff8dabbe163fb94f3a907b9bfdc",
+      "rule": "保留來源班級",
+      "total": 689,
+      "classes": {
+        "201": 35,
+        "202": 36,
+        "203": 35,
+        "204": 36,
+        "205": 36,
+        "206": 37,
+        "207": 38,
+        "208": 37,
+        "209": 37,
+        "210": 38,
+        "211": 34,
+        "212": 35,
+        "213": 35,
+        "214": 34,
+        "215": 35,
+        "216": 35,
+        "217": 34,
+        "218": 34,
+        "219": 27,
+        "220": 21
+      },
+      "pages": [
+        {
+          "page": 1,
+          "students": 44,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 2,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 3,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 4,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 5,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 6,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 7,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 8,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 9,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 10,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 11,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 12,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 13,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 14,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 15,
+          "students": 45,
+          "ignored_lines": 1,
+          "issues": 0
+        },
+        {
+          "page": 16,
+          "students": 15,
+          "ignored_lines": 1,
+          "issues": 0
+        }
+      ],
+      "issues": [],
+      "name_corrections": []
+    },
+    {
+      "source": "115高三編班公告.pdf",
+      "profile": "grade3",
+      "sha256": "4f4e5c6af7fcf832e8a66fac1a6bc190498e3cd067636490317c3e63af7c8c33",
+      "rule": "2xx → 3xx；3xx 保留",
+      "total": 662,
+      "classes": {
+        "301": 31,
+        "302": 31,
+        "303": 31,
+        "304": 31,
+        "305": 34,
+        "306": 36,
+        "307": 36,
+        "308": 37,
+        "309": 36,
+        "310": 36,
+        "311": 37,
+        "312": 41,
+        "313": 41,
+        "314": 41,
+        "315": 41,
+        "316": 40,
+        "317": 41,
+        "318": 41
+      },
+      "pages": [
+        {
+          "page": 1,
+          "students": 44,
+          "ignored_lines": 2,
+          "issues": 0
+        },
+        {
+          "page": 2,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 3,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 4,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 5,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 6,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 7,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 8,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 9,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 10,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 11,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 12,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 13,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 14,
+          "students": 46,
+          "ignored_lines": 0,
+          "issues": 0
+        },
+        {
+          "page": 15,
+          "students": 20,
+          "ignored_lines": 0,
+          "issues": 0
+        }
+      ],
+      "issues": [],
+      "name_corrections": [
+        {
+          "student_id": "310481",
+          "name": "魏OO",
+          "extracted_name": "",
+          "page": 12,
+          "line": 36,
+          "reason": "使用者明確提供；來源姓名無法擷取"
+        }
+      ]
+    }
+  ],
+  "total": 2029,
+  "issues": []
+}

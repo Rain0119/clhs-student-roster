@@ -1,0 +1,12176 @@
+[
+  {
+    "student_id": "510001",
+    "name": "王O涵",
+    "class": "101",
+    "seat": 1
+  },
+  {
+    "student_id": "510002",
+    "name": "余O螢",
+    "class": "101",
+    "seat": 2
+  },
+  {
+    "student_id": "510003",
+    "name": "余O珏",
+    "class": "101",
+    "seat": 3
+  },
+  {
+    "student_id": "510004",
+    "name": "吳O瑄",
+    "class": "101",
+    "seat": 4
+  },
+  {
+    "student_id": "510005",
+    "name": "呂O恩",
+    "class": "101",
+    "seat": 5
+  },
+  {
+    "student_id": "510006",
+    "name": "林O希",
+    "class": "101",
+    "seat": 6
+  },
+  {
+    "student_id": "510007",
+    "name": "袁O怡",
+    "class": "101",
+    "seat": 7
+  },
+  {
+    "student_id": "510008",
+    "name": "袁O涵",
+    "class": "101",
+    "seat": 8
+  },
+  {
+    "student_id": "510009",
+    "name": "康O嘉",
+    "class": "101",
+    "seat": 9
+  },
+  {
+    "student_id": "510010",
+    "name": "張O媗",
+    "class": "101",
+    "seat": 10
+  },
+  {
+    "student_id": "510011",
+    "name": "黃O妤",
+    "class": "101",
+    "seat": 11
+  },
+  {
+    "student_id": "510012",
+    "name": "楊O珣",
+    "class": "101",
+    "seat": 12
+  },
+  {
+    "student_id": "510013",
+    "name": "楊O渝",
+    "class": "101",
+    "seat": 13
+  },
+  {
+    "student_id": "510014",
+    "name": "劉O心",
+    "class": "101",
+    "seat": 14
+  },
+  {
+    "student_id": "510015",
+    "name": "羅O瑄",
+    "class": "101",
+    "seat": 15
+  },
+  {
+    "student_id": "510016",
+    "name": "王O燁",
+    "class": "101",
+    "seat": 16
+  },
+  {
+    "student_id": "510017",
+    "name": "呂O豪",
+    "class": "101",
+    "seat": 17
+  },
+  {
+    "student_id": "510018",
+    "name": "李O白",
+    "class": "101",
+    "seat": 18
+  },
+  {
+    "student_id": "510019",
+    "name": "邱O加",
+    "class": "101",
+    "seat": 19
+  },
+  {
+    "student_id": "510020",
+    "name": "徐O翔",
+    "class": "101",
+    "seat": 20
+  },
+  {
+    "student_id": "510021",
+    "name": "秦O",
+    "class": "101",
+    "seat": 21
+  },
+  {
+    "student_id": "510022",
+    "name": "袁O志",
+    "class": "101",
+    "seat": 22
+  },
+  {
+    "student_id": "510023",
+    "name": "張O毅",
+    "class": "101",
+    "seat": 23
+  },
+  {
+    "student_id": "510024",
+    "name": "張O睿",
+    "class": "101",
+    "seat": 24
+  },
+  {
+    "student_id": "510025",
+    "name": "許O嘉",
+    "class": "101",
+    "seat": 25
+  },
+  {
+    "student_id": "510026",
+    "name": "郭O廷",
+    "class": "101",
+    "seat": 26
+  },
+  {
+    "student_id": "510027",
+    "name": "陳O光",
+    "class": "101",
+    "seat": 27
+  },
+  {
+    "student_id": "510028",
+    "name": "陳O瑜",
+    "class": "101",
+    "seat": 28
+  },
+  {
+    "student_id": "510029",
+    "name": "廖O希",
+    "class": "101",
+    "seat": 29
+  },
+  {
+    "student_id": "510030",
+    "name": "廖O呈",
+    "class": "101",
+    "seat": 30
+  },
+  {
+    "student_id": "510031",
+    "name": "蔡O祐",
+    "class": "101",
+    "seat": 31
+  },
+  {
+    "student_id": "510032",
+    "name": "鄭O浩",
+    "class": "101",
+    "seat": 32
+  },
+  {
+    "student_id": "510033",
+    "name": "鄭O尹",
+    "class": "101",
+    "seat": 33
+  },
+  {
+    "student_id": "510034",
+    "name": "蕭O亘",
+    "class": "101",
+    "seat": 34
+  },
+  {
+    "student_id": "510035",
+    "name": "簡O宇",
+    "class": "101",
+    "seat": 35
+  },
+  {
+    "student_id": "510036",
+    "name": "王O菲",
+    "class": "102",
+    "seat": 1
+  },
+  {
+    "student_id": "510037",
+    "name": "余O芯",
+    "class": "102",
+    "seat": 2
+  },
+  {
+    "student_id": "510038",
+    "name": "吳O蓁",
+    "class": "102",
+    "seat": 3
+  },
+  {
+    "student_id": "510039",
+    "name": "吳O蓉",
+    "class": "102",
+    "seat": 4
+  },
+  {
+    "student_id": "510040",
+    "name": "吳O霓",
+    "class": "102",
+    "seat": 5
+  },
+  {
+    "student_id": "510041",
+    "name": "邱O綾",
+    "class": "102",
+    "seat": 6
+  },
+  {
+    "student_id": "510042",
+    "name": "施O婷",
+    "class": "102",
+    "seat": 7
+  },
+  {
+    "student_id": "510043",
+    "name": "范O琳",
+    "class": "102",
+    "seat": 8
+  },
+  {
+    "student_id": "510044",
+    "name": "翁O怡",
+    "class": "102",
+    "seat": 9
+  },
+  {
+    "student_id": "510045",
+    "name": "張O茵",
+    "class": "102",
+    "seat": 10
+  },
+  {
+    "student_id": "510046",
+    "name": "莊O穎",
+    "class": "102",
+    "seat": 11
+  },
+  {
+    "student_id": "510047",
+    "name": "陳O霈",
+    "class": "102",
+    "seat": 12
+  },
+  {
+    "student_id": "510048",
+    "name": "曾O媛",
+    "class": "102",
+    "seat": 13
+  },
+  {
+    "student_id": "510049",
+    "name": "黃O云",
+    "class": "102",
+    "seat": 14
+  },
+  {
+    "student_id": "510050",
+    "name": "藍O柔",
+    "class": "102",
+    "seat": 15
+  },
+  {
+    "student_id": "510051",
+    "name": "吳O晅",
+    "class": "102",
+    "seat": 16
+  },
+  {
+    "student_id": "510052",
+    "name": "李O軒",
+    "class": "102",
+    "seat": 17
+  },
+  {
+    "student_id": "510053",
+    "name": "林O宸",
+    "class": "102",
+    "seat": 18
+  },
+  {
+    "student_id": "510054",
+    "name": "林O瑜",
+    "class": "102",
+    "seat": 19
+  },
+  {
+    "student_id": "510055",
+    "name": "唐O平",
+    "class": "102",
+    "seat": 20
+  },
+  {
+    "student_id": "510056",
+    "name": "高O衡",
+    "class": "102",
+    "seat": 21
+  },
+  {
+    "student_id": "510057",
+    "name": "張O毅",
+    "class": "102",
+    "seat": 22
+  },
+  {
+    "student_id": "510058",
+    "name": "張O凱",
+    "class": "102",
+    "seat": 23
+  },
+  {
+    "student_id": "510059",
+    "name": "許O硯",
+    "class": "102",
+    "seat": 24
+  },
+  {
+    "student_id": "510060",
+    "name": "陳O晟",
+    "class": "102",
+    "seat": 25
+  },
+  {
+    "student_id": "510061",
+    "name": "陳O維",
+    "class": "102",
+    "seat": 26
+  },
+  {
+    "student_id": "510062",
+    "name": "陳O榆",
+    "class": "102",
+    "seat": 27
+  },
+  {
+    "student_id": "510063",
+    "name": "陳O霖",
+    "class": "102",
+    "seat": 28
+  },
+  {
+    "student_id": "510064",
+    "name": "黃O齊",
+    "class": "102",
+    "seat": 29
+  },
+  {
+    "student_id": "510065",
+    "name": "黃O恩",
+    "class": "102",
+    "seat": 30
+  },
+  {
+    "student_id": "510066",
+    "name": "廖O棋",
+    "class": "102",
+    "seat": 31
+  },
+  {
+    "student_id": "510067",
+    "name": "鄭O鈞",
+    "class": "102",
+    "seat": 32
+  },
+  {
+    "student_id": "510068",
+    "name": "鄭O文",
+    "class": "102",
+    "seat": 33
+  },
+  {
+    "student_id": "510069",
+    "name": "蕭O恩",
+    "class": "102",
+    "seat": 34
+  },
+  {
+    "student_id": "510070",
+    "name": "謝O皓",
+    "class": "102",
+    "seat": 35
+  },
+  {
+    "student_id": "510071",
+    "name": "伍O心",
+    "class": "103",
+    "seat": 1
+  },
+  {
+    "student_id": "510072",
+    "name": "池O臻",
+    "class": "103",
+    "seat": 2
+  },
+  {
+    "student_id": "510073",
+    "name": "吳O穎",
+    "class": "103",
+    "seat": 3
+  },
+  {
+    "student_id": "510074",
+    "name": "吳O玫",
+    "class": "103",
+    "seat": 4
+  },
+  {
+    "student_id": "510075",
+    "name": "吳O攸",
+    "class": "103",
+    "seat": 5
+  },
+  {
+    "student_id": "510076",
+    "name": "呂O妮",
+    "class": "103",
+    "seat": 6
+  },
+  {
+    "student_id": "510077",
+    "name": "宋O嵐",
+    "class": "103",
+    "seat": 7
+  },
+  {
+    "student_id": "510078",
+    "name": "李O珉",
+    "class": "103",
+    "seat": 8
+  },
+  {
+    "student_id": "510079",
+    "name": "洪O彣",
+    "class": "103",
+    "seat": 9
+  },
+  {
+    "student_id": "510080",
+    "name": "倪O媞",
+    "class": "103",
+    "seat": 10
+  },
+  {
+    "student_id": "510081",
+    "name": "張O喬",
+    "class": "103",
+    "seat": 11
+  },
+  {
+    "student_id": "510082",
+    "name": "張O予",
+    "class": "103",
+    "seat": 12
+  },
+  {
+    "student_id": "510083",
+    "name": "黃O瑀",
+    "class": "103",
+    "seat": 13
+  },
+  {
+    "student_id": "510084",
+    "name": "詹O妍",
+    "class": "103",
+    "seat": 14
+  },
+  {
+    "student_id": "510085",
+    "name": "韓O棋",
+    "class": "103",
+    "seat": 15
+  },
+  {
+    "student_id": "510086",
+    "name": "王O親",
+    "class": "103",
+    "seat": 16
+  },
+  {
+    "student_id": "510087",
+    "name": "李O睿",
+    "class": "103",
+    "seat": 17
+  },
+  {
+    "student_id": "510088",
+    "name": "林O傑",
+    "class": "103",
+    "seat": 18
+  },
+  {
+    "student_id": "510089",
+    "name": "林O書",
+    "class": "103",
+    "seat": 19
+  },
+  {
+    "student_id": "510090",
+    "name": "夏O哲",
+    "class": "103",
+    "seat": 20
+  },
+  {
+    "student_id": "510091",
+    "name": "徐O家",
+    "class": "103",
+    "seat": 21
+  },
+  {
+    "student_id": "510092",
+    "name": "康O碩",
+    "class": "103",
+    "seat": 22
+  },
+  {
+    "student_id": "510093",
+    "name": "張O綸",
+    "class": "103",
+    "seat": 23
+  },
+  {
+    "student_id": "510094",
+    "name": "莊O淳",
+    "class": "103",
+    "seat": 24
+  },
+  {
+    "student_id": "510095",
+    "name": "許O崴",
+    "class": "103",
+    "seat": 25
+  },
+  {
+    "student_id": "510096",
+    "name": "許O硯",
+    "class": "103",
+    "seat": 26
+  },
+  {
+    "student_id": "510097",
+    "name": "陳O任",
+    "class": "103",
+    "seat": 27
+  },
+  {
+    "student_id": "510098",
+    "name": "陳O綸",
+    "class": "103",
+    "seat": 28
+  },
+  {
+    "student_id": "510099",
+    "name": "陳O瀚",
+    "class": "103",
+    "seat": 29
+  },
+  {
+    "student_id": "510100",
+    "name": "蔡O叡",
+    "class": "103",
+    "seat": 30
+  },
+  {
+    "student_id": "510101",
+    "name": "鄭O",
+    "class": "103",
+    "seat": 31
+  },
+  {
+    "student_id": "510102",
+    "name": "盧O睿",
+    "class": "103",
+    "seat": 32
+  },
+  {
+    "student_id": "510103",
+    "name": "謝O格",
+    "class": "103",
+    "seat": 33
+  },
+  {
+    "student_id": "510104",
+    "name": "簡O倫",
+    "class": "103",
+    "seat": 34
+  },
+  {
+    "student_id": "510105",
+    "name": "羅O崵",
+    "class": "103",
+    "seat": 35
+  },
+  {
+    "student_id": "510106",
+    "name": "甘O瑜",
+    "class": "104",
+    "seat": 1
+  },
+  {
+    "student_id": "510107",
+    "name": "江O芯",
+    "class": "104",
+    "seat": 2
+  },
+  {
+    "student_id": "510108",
+    "name": "吳O嬡",
+    "class": "104",
+    "seat": 3
+  },
+  {
+    "student_id": "510109",
+    "name": "李O紜",
+    "class": "104",
+    "seat": 4
+  },
+  {
+    "student_id": "510110",
+    "name": "李O妍",
+    "class": "104",
+    "seat": 5
+  },
+  {
+    "student_id": "510111",
+    "name": "邱O晴",
+    "class": "104",
+    "seat": 6
+  },
+  {
+    "student_id": "510112",
+    "name": "邱O莉",
+    "class": "104",
+    "seat": 7
+  },
+  {
+    "student_id": "510113",
+    "name": "邵O瑜",
+    "class": "104",
+    "seat": 8
+  },
+  {
+    "student_id": "510114",
+    "name": "莊O伊",
+    "class": "104",
+    "seat": 9
+  },
+  {
+    "student_id": "510115",
+    "name": "許O衫",
+    "class": "104",
+    "seat": 10
+  },
+  {
+    "student_id": "510116",
+    "name": "陳O淇",
+    "class": "104",
+    "seat": 11
+  },
+  {
+    "student_id": "510117",
+    "name": "賀O卉",
+    "class": "104",
+    "seat": 12
+  },
+  {
+    "student_id": "510118",
+    "name": "黃O晴",
+    "class": "104",
+    "seat": 13
+  },
+  {
+    "student_id": "510119",
+    "name": "廖O語",
+    "class": "104",
+    "seat": 14
+  },
+  {
+    "student_id": "510120",
+    "name": "簡O琦",
+    "class": "104",
+    "seat": 15
+  },
+  {
+    "student_id": "510121",
+    "name": "王O權",
+    "class": "104",
+    "seat": 16
+  },
+  {
+    "student_id": "510122",
+    "name": "吳O諺",
+    "class": "104",
+    "seat": 17
+  },
+  {
+    "student_id": "510123",
+    "name": "沈O宗",
+    "class": "104",
+    "seat": 18
+  },
+  {
+    "student_id": "510124",
+    "name": "施O恩",
+    "class": "104",
+    "seat": 19
+  },
+  {
+    "student_id": "510125",
+    "name": "范O恆",
+    "class": "104",
+    "seat": 20
+  },
+  {
+    "student_id": "510126",
+    "name": "馬O承",
+    "class": "104",
+    "seat": 21
+  },
+  {
+    "student_id": "510127",
+    "name": "張O宇",
+    "class": "104",
+    "seat": 22
+  },
+  {
+    "student_id": "510128",
+    "name": "張O謙",
+    "class": "104",
+    "seat": 23
+  },
+  {
+    "student_id": "510129",
+    "name": "許O澤",
+    "class": "104",
+    "seat": 24
+  },
+  {
+    "student_id": "510130",
+    "name": "許O睿",
+    "class": "104",
+    "seat": 25
+  },
+  {
+    "student_id": "510131",
+    "name": "陳O辰",
+    "class": "104",
+    "seat": 26
+  },
+  {
+    "student_id": "510132",
+    "name": "陳O瀚",
+    "class": "104",
+    "seat": 27
+  },
+  {
+    "student_id": "510133",
+    "name": "陳O睿",
+    "class": "104",
+    "seat": 28
+  },
+  {
+    "student_id": "510134",
+    "name": "黃O洋",
+    "class": "104",
+    "seat": 29
+  },
+  {
+    "student_id": "510135",
+    "name": "歐O宇",
+    "class": "104",
+    "seat": 30
+  },
+  {
+    "student_id": "510136",
+    "name": "鄭O騏",
+    "class": "104",
+    "seat": 31
+  },
+  {
+    "student_id": "510137",
+    "name": "賴O佑",
+    "class": "104",
+    "seat": 32
+  },
+  {
+    "student_id": "510138",
+    "name": "謝O諭",
+    "class": "104",
+    "seat": 33
+  },
+  {
+    "student_id": "510139",
+    "name": "羅O宸",
+    "class": "104",
+    "seat": 34
+  },
+  {
+    "student_id": "510140",
+    "name": "蘇O",
+    "class": "104",
+    "seat": 35
+  },
+  {
+    "student_id": "510141",
+    "name": "王O瑄",
+    "class": "105",
+    "seat": 1
+  },
+  {
+    "student_id": "510142",
+    "name": "王O萱",
+    "class": "105",
+    "seat": 2
+  },
+  {
+    "student_id": "510143",
+    "name": "李O愉",
+    "class": "105",
+    "seat": 3
+  },
+  {
+    "student_id": "510144",
+    "name": "李O筠",
+    "class": "105",
+    "seat": 4
+  },
+  {
+    "student_id": "510145",
+    "name": "林O芯",
+    "class": "105",
+    "seat": 5
+  },
+  {
+    "student_id": "510146",
+    "name": "林O華",
+    "class": "105",
+    "seat": 6
+  },
+  {
+    "student_id": "510147",
+    "name": "邱O妍",
+    "class": "105",
+    "seat": 7
+  },
+  {
+    "student_id": "510148",
+    "name": "許O禎",
+    "class": "105",
+    "seat": 8
+  },
+  {
+    "student_id": "510149",
+    "name": "連O昕",
+    "class": "105",
+    "seat": 9
+  },
+  {
+    "student_id": "510150",
+    "name": "陳O柔",
+    "class": "105",
+    "seat": 10
+  },
+  {
+    "student_id": "510151",
+    "name": "葉O恩",
+    "class": "105",
+    "seat": 11
+  },
+  {
+    "student_id": "510152",
+    "name": "廖O葳",
+    "class": "105",
+    "seat": 12
+  },
+  {
+    "student_id": "510153",
+    "name": "劉O妤",
+    "class": "105",
+    "seat": 13
+  },
+  {
+    "student_id": "510154",
+    "name": "簡O妍",
+    "class": "105",
+    "seat": 14
+  },
+  {
+    "student_id": "510155",
+    "name": "顏O羽",
+    "class": "105",
+    "seat": 15
+  },
+  {
+    "student_id": "510156",
+    "name": "王O凱",
+    "class": "105",
+    "seat": 16
+  },
+  {
+    "student_id": "510157",
+    "name": "王O霏",
+    "class": "105",
+    "seat": 17
+  },
+  {
+    "student_id": "510158",
+    "name": "朱O維",
+    "class": "105",
+    "seat": 18
+  },
+  {
+    "student_id": "510159",
+    "name": "汪O崙",
+    "class": "105",
+    "seat": 19
+  },
+  {
+    "student_id": "510160",
+    "name": "柯O駿",
+    "class": "105",
+    "seat": 20
+  },
+  {
+    "student_id": "510161",
+    "name": "洪O宇",
+    "class": "105",
+    "seat": 21
+  },
+  {
+    "student_id": "510162",
+    "name": "徐O",
+    "class": "105",
+    "seat": 22
+  },
+  {
+    "student_id": "510163",
+    "name": "張O靖",
+    "class": "105",
+    "seat": 23
+  },
+  {
+    "student_id": "510164",
+    "name": "張O瑞",
+    "class": "105",
+    "seat": 24
+  },
+  {
+    "student_id": "510165",
+    "name": "莊O博",
+    "class": "105",
+    "seat": 25
+  },
+  {
+    "student_id": "510166",
+    "name": "陳O丞",
+    "class": "105",
+    "seat": 26
+  },
+  {
+    "student_id": "510167",
+    "name": "陳O騏",
+    "class": "105",
+    "seat": 27
+  },
+  {
+    "student_id": "510168",
+    "name": "黃O庸",
+    "class": "105",
+    "seat": 28
+  },
+  {
+    "student_id": "510169",
+    "name": "葉O羲",
+    "class": "105",
+    "seat": 29
+  },
+  {
+    "student_id": "510170",
+    "name": "劉O仁",
+    "class": "105",
+    "seat": 30
+  },
+  {
+    "student_id": "510171",
+    "name": "蔡O桂",
+    "class": "105",
+    "seat": 31
+  },
+  {
+    "student_id": "510172",
+    "name": "盧O楷",
+    "class": "105",
+    "seat": 32
+  },
+  {
+    "student_id": "510173",
+    "name": "謝O丞",
+    "class": "105",
+    "seat": 33
+  },
+  {
+    "student_id": "510174",
+    "name": "謝O叡",
+    "class": "105",
+    "seat": 34
+  },
+  {
+    "student_id": "510175",
+    "name": "羅O翔",
+    "class": "105",
+    "seat": 35
+  },
+  {
+    "student_id": "510176",
+    "name": "王O蓉",
+    "class": "106",
+    "seat": 1
+  },
+  {
+    "student_id": "510177",
+    "name": "李O玫",
+    "class": "106",
+    "seat": 2
+  },
+  {
+    "student_id": "510178",
+    "name": "林O容",
+    "class": "106",
+    "seat": 3
+  },
+  {
+    "student_id": "510179",
+    "name": "林O霏",
+    "class": "106",
+    "seat": 4
+  },
+  {
+    "student_id": "510180",
+    "name": "邵O芸",
+    "class": "106",
+    "seat": 5
+  },
+  {
+    "student_id": "510181",
+    "name": "徐O湘",
+    "class": "106",
+    "seat": 6
+  },
+  {
+    "student_id": "510182",
+    "name": "許O甯",
+    "class": "106",
+    "seat": 7
+  },
+  {
+    "student_id": "510183",
+    "name": "許O雯",
+    "class": "106",
+    "seat": 8
+  },
+  {
+    "student_id": "510184",
+    "name": "陳O丞",
+    "class": "106",
+    "seat": 9
+  },
+  {
+    "student_id": "510185",
+    "name": "陳O妮",
+    "class": "106",
+    "seat": 10
+  },
+  {
+    "student_id": "510186",
+    "name": "陳O潔",
+    "class": "106",
+    "seat": 11
+  },
+  {
+    "student_id": "510187",
+    "name": "温O瑤",
+    "class": "106",
+    "seat": 12
+  },
+  {
+    "student_id": "510188",
+    "name": "葉O璐",
+    "class": "106",
+    "seat": 13
+  },
+  {
+    "student_id": "510189",
+    "name": "蔡O融",
+    "class": "106",
+    "seat": 14
+  },
+  {
+    "student_id": "510190",
+    "name": "鍾O函",
+    "class": "106",
+    "seat": 15
+  },
+  {
+    "student_id": "510191",
+    "name": "王O予",
+    "class": "106",
+    "seat": 16
+  },
+  {
+    "student_id": "510192",
+    "name": "王O佑",
+    "class": "106",
+    "seat": 17
+  },
+  {
+    "student_id": "510193",
+    "name": "向O",
+    "class": "106",
+    "seat": 18
+  },
+  {
+    "student_id": "510194",
+    "name": "李O鋒",
+    "class": "106",
+    "seat": 19
+  },
+  {
+    "student_id": "510195",
+    "name": "林O希",
+    "class": "106",
+    "seat": 20
+  },
+  {
+    "student_id": "510196",
+    "name": "柯O成",
+    "class": "106",
+    "seat": 21
+  },
+  {
+    "student_id": "510197",
+    "name": "徐O又",
+    "class": "106",
+    "seat": 22
+  },
+  {
+    "student_id": "510198",
+    "name": "徐O瑋",
+    "class": "106",
+    "seat": 23
+  },
+  {
+    "student_id": "510199",
+    "name": "張O熙",
+    "class": "106",
+    "seat": 24
+  },
+  {
+    "student_id": "510200",
+    "name": "張O緒",
+    "class": "106",
+    "seat": 25
+  },
+  {
+    "student_id": "510201",
+    "name": "張O程",
+    "class": "106",
+    "seat": 26
+  },
+  {
+    "student_id": "510202",
+    "name": "陳O軒",
+    "class": "106",
+    "seat": 27
+  },
+  {
+    "student_id": "510203",
+    "name": "陳O哲",
+    "class": "106",
+    "seat": 28
+  },
+  {
+    "student_id": "510204",
+    "name": "陳O",
+    "class": "106",
+    "seat": 29
+  },
+  {
+    "student_id": "510205",
+    "name": "鄒O麟",
+    "class": "106",
+    "seat": 30
+  },
+  {
+    "student_id": "510206",
+    "name": "劉O睿",
+    "class": "106",
+    "seat": 31
+  },
+  {
+    "student_id": "510207",
+    "name": "鄭O雋",
+    "class": "106",
+    "seat": 32
+  },
+  {
+    "student_id": "510208",
+    "name": "謝O君",
+    "class": "106",
+    "seat": 33
+  },
+  {
+    "student_id": "510209",
+    "name": "謝O群",
+    "class": "106",
+    "seat": 34
+  },
+  {
+    "student_id": "510210",
+    "name": "羅O程",
+    "class": "106",
+    "seat": 35
+  },
+  {
+    "student_id": "510211",
+    "name": "方O恩",
+    "class": "107",
+    "seat": 1
+  },
+  {
+    "student_id": "510212",
+    "name": "王O婕",
+    "class": "107",
+    "seat": 2
+  },
+  {
+    "student_id": "510213",
+    "name": "王O戀",
+    "class": "107",
+    "seat": 3
+  },
+  {
+    "student_id": "510214",
+    "name": "汪O彤",
+    "class": "107",
+    "seat": 4
+  },
+  {
+    "student_id": "510215",
+    "name": "邱O潔",
+    "class": "107",
+    "seat": 5
+  },
+  {
+    "student_id": "510216",
+    "name": "邵O庭",
+    "class": "107",
+    "seat": 6
+  },
+  {
+    "student_id": "510217",
+    "name": "張O淇",
+    "class": "107",
+    "seat": 7
+  },
+  {
+    "student_id": "510218",
+    "name": "陳O妤",
+    "class": "107",
+    "seat": 8
+  },
+  {
+    "student_id": "510219",
+    "name": "陳O心",
+    "class": "107",
+    "seat": 9
+  },
+  {
+    "student_id": "510220",
+    "name": "陳O琳",
+    "class": "107",
+    "seat": 10
+  },
+  {
+    "student_id": "510221",
+    "name": "陳O吟",
+    "class": "107",
+    "seat": 11
+  },
+  {
+    "student_id": "510222",
+    "name": "陳O心",
+    "class": "107",
+    "seat": 12
+  },
+  {
+    "student_id": "510223",
+    "name": "黃O閑",
+    "class": "107",
+    "seat": 13
+  },
+  {
+    "student_id": "510224",
+    "name": "蔡O君",
+    "class": "107",
+    "seat": 14
+  },
+  {
+    "student_id": "510225",
+    "name": "蕭O恩",
+    "class": "107",
+    "seat": 15
+  },
+  {
+    "student_id": "510226",
+    "name": "王O文",
+    "class": "107",
+    "seat": 16
+  },
+  {
+    "student_id": "510227",
+    "name": "朱O齊",
+    "class": "107",
+    "seat": 17
+  },
+  {
+    "student_id": "510228",
+    "name": "池O哲",
+    "class": "107",
+    "seat": 18
+  },
+  {
+    "student_id": "510229",
+    "name": "何O宥",
+    "class": "107",
+    "seat": 19
+  },
+  {
+    "student_id": "510230",
+    "name": "吳O軒",
+    "class": "107",
+    "seat": 20
+  },
+  {
+    "student_id": "510231",
+    "name": "沈O佑",
+    "class": "107",
+    "seat": 21
+  },
+  {
+    "student_id": "510232",
+    "name": "林O民",
+    "class": "107",
+    "seat": 22
+  },
+  {
+    "student_id": "510233",
+    "name": "林O薪",
+    "class": "107",
+    "seat": 23
+  },
+  {
+    "student_id": "510234",
+    "name": "邱O禎",
+    "class": "107",
+    "seat": 24
+  },
+  {
+    "student_id": "510235",
+    "name": "徐O喆",
+    "class": "107",
+    "seat": 25
+  },
+  {
+    "student_id": "510236",
+    "name": "張O誌",
+    "class": "107",
+    "seat": 26
+  },
+  {
+    "student_id": "510237",
+    "name": "張O軒",
+    "class": "107",
+    "seat": 27
+  },
+  {
+    "student_id": "510238",
+    "name": "陳O紘",
+    "class": "107",
+    "seat": 28
+  },
+  {
+    "student_id": "510239",
+    "name": "彭O澤",
+    "class": "107",
+    "seat": 29
+  },
+  {
+    "student_id": "510240",
+    "name": "黃O謙",
+    "class": "107",
+    "seat": 30
+  },
+  {
+    "student_id": "510241",
+    "name": "詹O順",
+    "class": "107",
+    "seat": 31
+  },
+  {
+    "student_id": "510242",
+    "name": "趙O樂",
+    "class": "107",
+    "seat": 32
+  },
+  {
+    "student_id": "510243",
+    "name": "蔡O峰",
+    "class": "107",
+    "seat": 33
+  },
+  {
+    "student_id": "510244",
+    "name": "謝O文",
+    "class": "107",
+    "seat": 34
+  },
+  {
+    "student_id": "510245",
+    "name": "魏O愷",
+    "class": "107",
+    "seat": 35
+  },
+  {
+    "student_id": "510246",
+    "name": "呂O瑀",
+    "class": "108",
+    "seat": 1
+  },
+  {
+    "student_id": "510247",
+    "name": "沈O榆",
+    "class": "108",
+    "seat": 2
+  },
+  {
+    "student_id": "510248",
+    "name": "周O純",
+    "class": "108",
+    "seat": 3
+  },
+  {
+    "student_id": "510249",
+    "name": "林O喬",
+    "class": "108",
+    "seat": 4
+  },
+  {
+    "student_id": "510250",
+    "name": "邱O瑄",
+    "class": "108",
+    "seat": 5
+  },
+  {
+    "student_id": "510251",
+    "name": "胡O語",
+    "class": "108",
+    "seat": 6
+  },
+  {
+    "student_id": "510252",
+    "name": "郭O萱",
+    "class": "108",
+    "seat": 7
+  },
+  {
+    "student_id": "510253",
+    "name": "陳O潔",
+    "class": "108",
+    "seat": 8
+  },
+  {
+    "student_id": "510254",
+    "name": "陳O欣",
+    "class": "108",
+    "seat": 9
+  },
+  {
+    "student_id": "510255",
+    "name": "陳O湘",
+    "class": "108",
+    "seat": 10
+  },
+  {
+    "student_id": "510256",
+    "name": "傅O心",
+    "class": "108",
+    "seat": 11
+  },
+  {
+    "student_id": "510257",
+    "name": "陽O禹",
+    "class": "108",
+    "seat": 12
+  },
+  {
+    "student_id": "510258",
+    "name": "盧O霏",
+    "class": "108",
+    "seat": 13
+  },
+  {
+    "student_id": "510259",
+    "name": "蕭O雩",
+    "class": "108",
+    "seat": 14
+  },
+  {
+    "student_id": "510260",
+    "name": "欒O珊",
+    "class": "108",
+    "seat": 15
+  },
+  {
+    "student_id": "510261",
+    "name": "王O浩",
+    "class": "108",
+    "seat": 16
+  },
+  {
+    "student_id": "510262",
+    "name": "甘O倫",
+    "class": "108",
+    "seat": 17
+  },
+  {
+    "student_id": "510263",
+    "name": "江O緯",
+    "class": "108",
+    "seat": 18
+  },
+  {
+    "student_id": "510264",
+    "name": "吳O炫",
+    "class": "108",
+    "seat": 19
+  },
+  {
+    "student_id": "510265",
+    "name": "吳O勳",
+    "class": "108",
+    "seat": 20
+  },
+  {
+    "student_id": "510266",
+    "name": "邱O",
+    "class": "108",
+    "seat": 21
+  },
+  {
+    "student_id": "510267",
+    "name": "胡O皓",
+    "class": "108",
+    "seat": 22
+  },
+  {
+    "student_id": "510268",
+    "name": "徐O騰",
+    "class": "108",
+    "seat": 23
+  },
+  {
+    "student_id": "510269",
+    "name": "徐O桔",
+    "class": "108",
+    "seat": 24
+  },
+  {
+    "student_id": "510270",
+    "name": "張O震",
+    "class": "108",
+    "seat": 25
+  },
+  {
+    "student_id": "510271",
+    "name": "許O銘",
+    "class": "108",
+    "seat": 26
+  },
+  {
+    "student_id": "510272",
+    "name": "陳O諺",
+    "class": "108",
+    "seat": 27
+  },
+  {
+    "student_id": "510273",
+    "name": "陳O丞",
+    "class": "108",
+    "seat": 28
+  },
+  {
+    "student_id": "510274",
+    "name": "彭O硯",
+    "class": "108",
+    "seat": 29
+  },
+  {
+    "student_id": "510275",
+    "name": "葉O承",
+    "class": "108",
+    "seat": 30
+  },
+  {
+    "student_id": "510276",
+    "name": "蔡O恩",
+    "class": "108",
+    "seat": 31
+  },
+  {
+    "student_id": "510277",
+    "name": "謝O恩",
+    "class": "108",
+    "seat": 32
+  },
+  {
+    "student_id": "510278",
+    "name": "藍O鴻",
+    "class": "108",
+    "seat": 33
+  },
+  {
+    "student_id": "510279",
+    "name": "藍O皪",
+    "class": "108",
+    "seat": 34
+  },
+  {
+    "student_id": "510280",
+    "name": "蘇O瑀",
+    "class": "108",
+    "seat": 35
+  },
+  {
+    "student_id": "510281",
+    "name": "田O仁",
+    "class": "109",
+    "seat": 1
+  },
+  {
+    "student_id": "510282",
+    "name": "李O",
+    "class": "109",
+    "seat": 2
+  },
+  {
+    "student_id": "510283",
+    "name": "林O嬪",
+    "class": "109",
+    "seat": 3
+  },
+  {
+    "student_id": "510284",
+    "name": "范O婕",
+    "class": "109",
+    "seat": 4
+  },
+  {
+    "student_id": "510285",
+    "name": "許O慈",
+    "class": "109",
+    "seat": 5
+  },
+  {
+    "student_id": "510286",
+    "name": "陳O瑜",
+    "class": "109",
+    "seat": 6
+  },
+  {
+    "student_id": "510287",
+    "name": "陳O穎",
+    "class": "109",
+    "seat": 7
+  },
+  {
+    "student_id": "510288",
+    "name": "曾O媛",
+    "class": "109",
+    "seat": 8
+  },
+  {
+    "student_id": "510289",
+    "name": "黃O芸",
+    "class": "109",
+    "seat": 9
+  },
+  {
+    "student_id": "510290",
+    "name": "楊O箴",
+    "class": "109",
+    "seat": 10
+  },
+  {
+    "student_id": "510291",
+    "name": "溫O帆",
+    "class": "109",
+    "seat": 11
+  },
+  {
+    "student_id": "510292",
+    "name": "蔡O琳",
+    "class": "109",
+    "seat": 12
+  },
+  {
+    "student_id": "510293",
+    "name": "賴O渝",
+    "class": "109",
+    "seat": 13
+  },
+  {
+    "student_id": "510294",
+    "name": "譚O沂",
+    "class": "109",
+    "seat": 14
+  },
+  {
+    "student_id": "510295",
+    "name": "蘇O恩",
+    "class": "109",
+    "seat": 15
+  },
+  {
+    "student_id": "510296",
+    "name": "孔O宥",
+    "class": "109",
+    "seat": 16
+  },
+  {
+    "student_id": "510297",
+    "name": "王O丞",
+    "class": "109",
+    "seat": 17
+  },
+  {
+    "student_id": "510298",
+    "name": "王O銓",
+    "class": "109",
+    "seat": 18
+  },
+  {
+    "student_id": "510299",
+    "name": "白O庭",
+    "class": "109",
+    "seat": 19
+  },
+  {
+    "student_id": "510300",
+    "name": "吳O瑋",
+    "class": "109",
+    "seat": 20
+  },
+  {
+    "student_id": "510301",
+    "name": "林O惟",
+    "class": "109",
+    "seat": 21
+  },
+  {
+    "student_id": "510302",
+    "name": "施O毅",
+    "class": "109",
+    "seat": 22
+  },
+  {
+    "student_id": "510303",
+    "name": "奚O恩",
+    "class": "109",
+    "seat": 23
+  },
+  {
+    "student_id": "510304",
+    "name": "張O農",
+    "class": "109",
+    "seat": 24
+  },
+  {
+    "student_id": "510305",
+    "name": "張O勗",
+    "class": "109",
+    "seat": 25
+  },
+  {
+    "student_id": "510306",
+    "name": "許O嘉",
+    "class": "109",
+    "seat": 26
+  },
+  {
+    "student_id": "510307",
+    "name": "陳O越",
+    "class": "109",
+    "seat": 27
+  },
+  {
+    "student_id": "510308",
+    "name": "黃O章",
+    "class": "109",
+    "seat": 28
+  },
+  {
+    "student_id": "510309",
+    "name": "葉O良",
+    "class": "109",
+    "seat": 29
+  },
+  {
+    "student_id": "510310",
+    "name": "葉O賢",
+    "class": "109",
+    "seat": 30
+  },
+  {
+    "student_id": "510311",
+    "name": "葉O廷",
+    "class": "109",
+    "seat": 31
+  },
+  {
+    "student_id": "510312",
+    "name": "潘O德",
+    "class": "109",
+    "seat": 32
+  },
+  {
+    "student_id": "510313",
+    "name": "盧O辰",
+    "class": "109",
+    "seat": 33
+  },
+  {
+    "student_id": "510314",
+    "name": "鍾O桓",
+    "class": "109",
+    "seat": 34
+  },
+  {
+    "student_id": "510315",
+    "name": "簡O丞",
+    "class": "109",
+    "seat": 35
+  },
+  {
+    "student_id": "510316",
+    "name": "王O佳",
+    "class": "110",
+    "seat": 1
+  },
+  {
+    "student_id": "510317",
+    "name": "何O綾",
+    "class": "110",
+    "seat": 2
+  },
+  {
+    "student_id": "510318",
+    "name": "呂O茹",
+    "class": "110",
+    "seat": 3
+  },
+  {
+    "student_id": "510319",
+    "name": "李O穎",
+    "class": "110",
+    "seat": 4
+  },
+  {
+    "student_id": "510320",
+    "name": "沈O",
+    "class": "110",
+    "seat": 5
+  },
+  {
+    "student_id": "510321",
+    "name": "張O卉",
+    "class": "110",
+    "seat": 6
+  },
+  {
+    "student_id": "510322",
+    "name": "陳O璿",
+    "class": "110",
+    "seat": 7
+  },
+  {
+    "student_id": "510323",
+    "name": "陳O柔",
+    "class": "110",
+    "seat": 8
+  },
+  {
+    "student_id": "510324",
+    "name": "陳O禾",
+    "class": "110",
+    "seat": 9
+  },
+  {
+    "student_id": "510325",
+    "name": "童O瑀",
+    "class": "110",
+    "seat": 10
+  },
+  {
+    "student_id": "510326",
+    "name": "黃O涵",
+    "class": "110",
+    "seat": 11
+  },
+  {
+    "student_id": "510327",
+    "name": "蔣O誼",
+    "class": "110",
+    "seat": 12
+  },
+  {
+    "student_id": "510328",
+    "name": "賴O岑",
+    "class": "110",
+    "seat": 13
+  },
+  {
+    "student_id": "510329",
+    "name": "魏O于",
+    "class": "110",
+    "seat": 14
+  },
+  {
+    "student_id": "510330",
+    "name": "魏O涵",
+    "class": "110",
+    "seat": 15
+  },
+  {
+    "student_id": "510331",
+    "name": "王O成",
+    "class": "110",
+    "seat": 16
+  },
+  {
+    "student_id": "510332",
+    "name": "王O允",
+    "class": "110",
+    "seat": 17
+  },
+  {
+    "student_id": "510333",
+    "name": "古O同",
+    "class": "110",
+    "seat": 18
+  },
+  {
+    "student_id": "510334",
+    "name": "吳O立",
+    "class": "110",
+    "seat": 19
+  },
+  {
+    "student_id": "510335",
+    "name": "宋O安",
+    "class": "110",
+    "seat": 20
+  },
+  {
+    "student_id": "510336",
+    "name": "李O澤",
+    "class": "110",
+    "seat": 21
+  },
+  {
+    "student_id": "510337",
+    "name": "段O愷",
+    "class": "110",
+    "seat": 22
+  },
+  {
+    "student_id": "510338",
+    "name": "胡O安",
+    "class": "110",
+    "seat": 23
+  },
+  {
+    "student_id": "510339",
+    "name": "范O綸",
+    "class": "110",
+    "seat": 24
+  },
+  {
+    "student_id": "510340",
+    "name": "康O恩",
+    "class": "110",
+    "seat": 25
+  },
+  {
+    "student_id": "510341",
+    "name": "陳O洋",
+    "class": "110",
+    "seat": 26
+  },
+  {
+    "student_id": "510342",
+    "name": "陳O睿",
+    "class": "110",
+    "seat": 27
+  },
+  {
+    "student_id": "510343",
+    "name": "陳O尹",
+    "class": "110",
+    "seat": 28
+  },
+  {
+    "student_id": "510344",
+    "name": "黃O緯",
+    "class": "110",
+    "seat": 29
+  },
+  {
+    "student_id": "510345",
+    "name": "葉O誠",
+    "class": "110",
+    "seat": 30
+  },
+  {
+    "student_id": "510346",
+    "name": "褚O赫",
+    "class": "110",
+    "seat": 31
+  },
+  {
+    "student_id": "510347",
+    "name": "賴O湛",
+    "class": "110",
+    "seat": 32
+  },
+  {
+    "student_id": "510348",
+    "name": "鍾O軒",
+    "class": "110",
+    "seat": 33
+  },
+  {
+    "student_id": "510349",
+    "name": "簡O叡",
+    "class": "110",
+    "seat": 34
+  },
+  {
+    "student_id": "510350",
+    "name": "羅O恩",
+    "class": "110",
+    "seat": 35
+  },
+  {
+    "student_id": "510351",
+    "name": "李O恩",
+    "class": "111",
+    "seat": 1
+  },
+  {
+    "student_id": "510352",
+    "name": "李O璇",
+    "class": "111",
+    "seat": 2
+  },
+  {
+    "student_id": "510353",
+    "name": "沈O芸",
+    "class": "111",
+    "seat": 3
+  },
+  {
+    "student_id": "510354",
+    "name": "林O喬",
+    "class": "111",
+    "seat": 4
+  },
+  {
+    "student_id": "510355",
+    "name": "張O潔",
+    "class": "111",
+    "seat": 5
+  },
+  {
+    "student_id": "510356",
+    "name": "陳O晴",
+    "class": "111",
+    "seat": 6
+  },
+  {
+    "student_id": "510357",
+    "name": "陳O螢",
+    "class": "111",
+    "seat": 7
+  },
+  {
+    "student_id": "510358",
+    "name": "黃O容",
+    "class": "111",
+    "seat": 8
+  },
+  {
+    "student_id": "510359",
+    "name": "黃O瑜",
+    "class": "111",
+    "seat": 9
+  },
+  {
+    "student_id": "510360",
+    "name": "劉O媛",
+    "class": "111",
+    "seat": 10
+  },
+  {
+    "student_id": "510361",
+    "name": "劉O渝",
+    "class": "111",
+    "seat": 11
+  },
+  {
+    "student_id": "510362",
+    "name": "蔡O彤",
+    "class": "111",
+    "seat": 12
+  },
+  {
+    "student_id": "510363",
+    "name": "簡O育",
+    "class": "111",
+    "seat": 13
+  },
+  {
+    "student_id": "510364",
+    "name": "魏O甯",
+    "class": "111",
+    "seat": 14
+  },
+  {
+    "student_id": "510365",
+    "name": "羅O姍",
+    "class": "111",
+    "seat": 15
+  },
+  {
+    "student_id": "510366",
+    "name": "王O傑",
+    "class": "111",
+    "seat": 16
+  },
+  {
+    "student_id": "510367",
+    "name": "何O宇",
+    "class": "111",
+    "seat": 17
+  },
+  {
+    "student_id": "510368",
+    "name": "吳O臻",
+    "class": "111",
+    "seat": 18
+  },
+  {
+    "student_id": "510369",
+    "name": "李O叡",
+    "class": "111",
+    "seat": 19
+  },
+  {
+    "student_id": "510370",
+    "name": "林O樑",
+    "class": "111",
+    "seat": 20
+  },
+  {
+    "student_id": "510371",
+    "name": "柯O恩",
+    "class": "111",
+    "seat": 21
+  },
+  {
+    "student_id": "510372",
+    "name": "洪O佑",
+    "class": "111",
+    "seat": 22
+  },
+  {
+    "student_id": "510373",
+    "name": "范O倫",
+    "class": "111",
+    "seat": 23
+  },
+  {
+    "student_id": "510374",
+    "name": "翁O㨗",
+    "class": "111",
+    "seat": 24
+  },
+  {
+    "student_id": "510375",
+    "name": "陳O佑",
+    "class": "111",
+    "seat": 25
+  },
+  {
+    "student_id": "510376",
+    "name": "陳O睿",
+    "class": "111",
+    "seat": 26
+  },
+  {
+    "student_id": "510377",
+    "name": "黃O崴",
+    "class": "111",
+    "seat": 27
+  },
+  {
+    "student_id": "510378",
+    "name": "黃O瑋",
+    "class": "111",
+    "seat": 28
+  },
+  {
+    "student_id": "510379",
+    "name": "楊O綱",
+    "class": "111",
+    "seat": 29
+  },
+  {
+    "student_id": "510380",
+    "name": "葉O青",
+    "class": "111",
+    "seat": 30
+  },
+  {
+    "student_id": "510381",
+    "name": "葉O澄",
+    "class": "111",
+    "seat": 31
+  },
+  {
+    "student_id": "510382",
+    "name": "詹O庭",
+    "class": "111",
+    "seat": 32
+  },
+  {
+    "student_id": "510383",
+    "name": "賴O諺",
+    "class": "111",
+    "seat": 33
+  },
+  {
+    "student_id": "510384",
+    "name": "賴O淵",
+    "class": "111",
+    "seat": 34
+  },
+  {
+    "student_id": "510385",
+    "name": "謝O恩",
+    "class": "111",
+    "seat": 35
+  },
+  {
+    "student_id": "510386",
+    "name": "吳O絜",
+    "class": "112",
+    "seat": 1
+  },
+  {
+    "student_id": "510387",
+    "name": "宋O暄",
+    "class": "112",
+    "seat": 2
+  },
+  {
+    "student_id": "510388",
+    "name": "李O蓁",
+    "class": "112",
+    "seat": 3
+  },
+  {
+    "student_id": "510389",
+    "name": "林O芯",
+    "class": "112",
+    "seat": 4
+  },
+  {
+    "student_id": "510390",
+    "name": "紀O琳",
+    "class": "112",
+    "seat": 5
+  },
+  {
+    "student_id": "510391",
+    "name": "陳O希",
+    "class": "112",
+    "seat": 6
+  },
+  {
+    "student_id": "510392",
+    "name": "温O芳",
+    "class": "112",
+    "seat": 7
+  },
+  {
+    "student_id": "510393",
+    "name": "黃O愉",
+    "class": "112",
+    "seat": 8
+  },
+  {
+    "student_id": "510394",
+    "name": "葉O廷",
+    "class": "112",
+    "seat": 9
+  },
+  {
+    "student_id": "510395",
+    "name": "劉O羚",
+    "class": "112",
+    "seat": 10
+  },
+  {
+    "student_id": "510396",
+    "name": "蔡O伊",
+    "class": "112",
+    "seat": 11
+  },
+  {
+    "student_id": "510397",
+    "name": "鍾O蓉",
+    "class": "112",
+    "seat": 12
+  },
+  {
+    "student_id": "510398",
+    "name": "簡O羚",
+    "class": "112",
+    "seat": 13
+  },
+  {
+    "student_id": "510399",
+    "name": "藍O穎",
+    "class": "112",
+    "seat": 14
+  },
+  {
+    "student_id": "510400",
+    "name": "顏O亨",
+    "class": "112",
+    "seat": 15
+  },
+  {
+    "student_id": "510401",
+    "name": "余O侖",
+    "class": "112",
+    "seat": 16
+  },
+  {
+    "student_id": "510402",
+    "name": "李O逵",
+    "class": "112",
+    "seat": 17
+  },
+  {
+    "student_id": "510403",
+    "name": "周O承",
+    "class": "112",
+    "seat": 18
+  },
+  {
+    "student_id": "510404",
+    "name": "官O佑",
+    "class": "112",
+    "seat": 19
+  },
+  {
+    "student_id": "510405",
+    "name": "林O甫",
+    "class": "112",
+    "seat": 20
+  },
+  {
+    "student_id": "510406",
+    "name": "洪O昕",
+    "class": "112",
+    "seat": 21
+  },
+  {
+    "student_id": "510407",
+    "name": "陳O宇",
+    "class": "112",
+    "seat": 22
+  },
+  {
+    "student_id": "510408",
+    "name": "陳O喆",
+    "class": "112",
+    "seat": 23
+  },
+  {
+    "student_id": "510409",
+    "name": "陳O惟",
+    "class": "112",
+    "seat": 24
+  },
+  {
+    "student_id": "510410",
+    "name": "游O諺",
+    "class": "112",
+    "seat": 25
+  },
+  {
+    "student_id": "510411",
+    "name": "黃O霖",
+    "class": "112",
+    "seat": 26
+  },
+  {
+    "student_id": "510412",
+    "name": "黃O睿",
+    "class": "112",
+    "seat": 27
+  },
+  {
+    "student_id": "510413",
+    "name": "楊O樂",
+    "class": "112",
+    "seat": 28
+  },
+  {
+    "student_id": "510414",
+    "name": "楊O嘉",
+    "class": "112",
+    "seat": 29
+  },
+  {
+    "student_id": "510415",
+    "name": "葉O暢",
+    "class": "112",
+    "seat": 30
+  },
+  {
+    "student_id": "510416",
+    "name": "蒲O科",
+    "class": "112",
+    "seat": 31
+  },
+  {
+    "student_id": "510417",
+    "name": "劉O宸",
+    "class": "112",
+    "seat": 32
+  },
+  {
+    "student_id": "510418",
+    "name": "蔡O謙",
+    "class": "112",
+    "seat": 33
+  },
+  {
+    "student_id": "510419",
+    "name": "戴O崴",
+    "class": "112",
+    "seat": 34
+  },
+  {
+    "student_id": "510420",
+    "name": "欒O杰",
+    "class": "112",
+    "seat": 35
+  },
+  {
+    "student_id": "510421",
+    "name": "丘O臻",
+    "class": "113",
+    "seat": 1
+  },
+  {
+    "student_id": "510422",
+    "name": "呂O怡",
+    "class": "113",
+    "seat": 2
+  },
+  {
+    "student_id": "510423",
+    "name": "李O萱",
+    "class": "113",
+    "seat": 3
+  },
+  {
+    "student_id": "510424",
+    "name": "柳O心",
+    "class": "113",
+    "seat": 4
+  },
+  {
+    "student_id": "510425",
+    "name": "洪O恩",
+    "class": "113",
+    "seat": 5
+  },
+  {
+    "student_id": "510426",
+    "name": "張O妮",
+    "class": "113",
+    "seat": 6
+  },
+  {
+    "student_id": "510427",
+    "name": "陳O沂",
+    "class": "113",
+    "seat": 7
+  },
+  {
+    "student_id": "510428",
+    "name": "温O妍",
+    "class": "113",
+    "seat": 8
+  },
+  {
+    "student_id": "510429",
+    "name": "黃O真",
+    "class": "113",
+    "seat": 9
+  },
+  {
+    "student_id": "510430",
+    "name": "楊O淅",
+    "class": "113",
+    "seat": 10
+  },
+  {
+    "student_id": "510431",
+    "name": "楊O捷",
+    "class": "113",
+    "seat": 11
+  },
+  {
+    "student_id": "510432",
+    "name": "董O妤",
+    "class": "113",
+    "seat": 12
+  },
+  {
+    "student_id": "510433",
+    "name": "潘O宜",
+    "class": "113",
+    "seat": 13
+  },
+  {
+    "student_id": "510434",
+    "name": "鄭O晴",
+    "class": "113",
+    "seat": 14
+  },
+  {
+    "student_id": "510435",
+    "name": "謝O頤",
+    "class": "113",
+    "seat": 15
+  },
+  {
+    "student_id": "510436",
+    "name": "石O叡",
+    "class": "113",
+    "seat": 16
+  },
+  {
+    "student_id": "510437",
+    "name": "吳O宇",
+    "class": "113",
+    "seat": 17
+  },
+  {
+    "student_id": "510438",
+    "name": "李O珵",
+    "class": "113",
+    "seat": 18
+  },
+  {
+    "student_id": "510439",
+    "name": "林O洋",
+    "class": "113",
+    "seat": 19
+  },
+  {
+    "student_id": "510440",
+    "name": "林O賦",
+    "class": "113",
+    "seat": 20
+  },
+  {
+    "student_id": "510441",
+    "name": "段O謙",
+    "class": "113",
+    "seat": 21
+  },
+  {
+    "student_id": "510442",
+    "name": "洪O桓",
+    "class": "113",
+    "seat": 22
+  },
+  {
+    "student_id": "510443",
+    "name": "徐O謙",
+    "class": "113",
+    "seat": 23
+  },
+  {
+    "student_id": "510444",
+    "name": "陳O瑜",
+    "class": "113",
+    "seat": 24
+  },
+  {
+    "student_id": "510445",
+    "name": "曾O暢",
+    "class": "113",
+    "seat": 25
+  },
+  {
+    "student_id": "510446",
+    "name": "黃O澔",
+    "class": "113",
+    "seat": 26
+  },
+  {
+    "student_id": "510447",
+    "name": "黃O誠",
+    "class": "113",
+    "seat": 27
+  },
+  {
+    "student_id": "510448",
+    "name": "楊O諺",
+    "class": "113",
+    "seat": 28
+  },
+  {
+    "student_id": "510449",
+    "name": "楊O崴",
+    "class": "113",
+    "seat": 29
+  },
+  {
+    "student_id": "510450",
+    "name": "葉O逸",
+    "class": "113",
+    "seat": 30
+  },
+  {
+    "student_id": "510451",
+    "name": "葉O愷",
+    "class": "113",
+    "seat": 31
+  },
+  {
+    "student_id": "510452",
+    "name": "蔡O研",
+    "class": "113",
+    "seat": 32
+  },
+  {
+    "student_id": "510453",
+    "name": "蕭O辰",
+    "class": "113",
+    "seat": 33
+  },
+  {
+    "student_id": "510454",
+    "name": "賴O瑞",
+    "class": "113",
+    "seat": 34
+  },
+  {
+    "student_id": "510455",
+    "name": "霍O楷",
+    "class": "113",
+    "seat": 35
+  },
+  {
+    "student_id": "510456",
+    "name": "王O竹",
+    "class": "114",
+    "seat": 1
+  },
+  {
+    "student_id": "510457",
+    "name": "呂O嘉",
+    "class": "114",
+    "seat": 2
+  },
+  {
+    "student_id": "510458",
+    "name": "李O家",
+    "class": "114",
+    "seat": 3
+  },
+  {
+    "student_id": "510459",
+    "name": "林O恩",
+    "class": "114",
+    "seat": 4
+  },
+  {
+    "student_id": "510460",
+    "name": "邱O萱",
+    "class": "114",
+    "seat": 5
+  },
+  {
+    "student_id": "510461",
+    "name": "邱O涵",
+    "class": "114",
+    "seat": 6
+  },
+  {
+    "student_id": "510462",
+    "name": "張O潔",
+    "class": "114",
+    "seat": 7
+  },
+  {
+    "student_id": "510463",
+    "name": "張O萱",
+    "class": "114",
+    "seat": 8
+  },
+  {
+    "student_id": "510464",
+    "name": "梁O妤",
+    "class": "114",
+    "seat": 9
+  },
+  {
+    "student_id": "510465",
+    "name": "陳O妍",
+    "class": "114",
+    "seat": 10
+  },
+  {
+    "student_id": "510466",
+    "name": "陳O昕",
+    "class": "114",
+    "seat": 11
+  },
+  {
+    "student_id": "510467",
+    "name": "詹O婷",
+    "class": "114",
+    "seat": 12
+  },
+  {
+    "student_id": "510468",
+    "name": "賴O芯",
+    "class": "114",
+    "seat": 13
+  },
+  {
+    "student_id": "510469",
+    "name": "駱O彤",
+    "class": "114",
+    "seat": 14
+  },
+  {
+    "student_id": "510470",
+    "name": "羅O清",
+    "class": "114",
+    "seat": 15
+  },
+  {
+    "student_id": "510471",
+    "name": "甘O源",
+    "class": "114",
+    "seat": 16
+  },
+  {
+    "student_id": "510472",
+    "name": "江O洋",
+    "class": "114",
+    "seat": 17
+  },
+  {
+    "student_id": "510473",
+    "name": "呂O寬",
+    "class": "114",
+    "seat": 18
+  },
+  {
+    "student_id": "510474",
+    "name": "林O喆",
+    "class": "114",
+    "seat": 19
+  },
+  {
+    "student_id": "510475",
+    "name": "姜O瑋",
+    "class": "114",
+    "seat": 20
+  },
+  {
+    "student_id": "510476",
+    "name": "唐O駿",
+    "class": "114",
+    "seat": 21
+  },
+  {
+    "student_id": "510477",
+    "name": "孫O哲",
+    "class": "114",
+    "seat": 22
+  },
+  {
+    "student_id": "510478",
+    "name": "翁O成",
+    "class": "114",
+    "seat": 23
+  },
+  {
+    "student_id": "510479",
+    "name": "高O喬",
+    "class": "114",
+    "seat": 24
+  },
+  {
+    "student_id": "510480",
+    "name": "張O健",
+    "class": "114",
+    "seat": 25
+  },
+  {
+    "student_id": "510481",
+    "name": "張O幃",
+    "class": "114",
+    "seat": 26
+  },
+  {
+    "student_id": "510482",
+    "name": "陳O瑋",
+    "class": "114",
+    "seat": 27
+  },
+  {
+    "student_id": "510483",
+    "name": "陳O浚",
+    "class": "114",
+    "seat": 28
+  },
+  {
+    "student_id": "510484",
+    "name": "游O宸",
+    "class": "114",
+    "seat": 29
+  },
+  {
+    "student_id": "510485",
+    "name": "費O嵐",
+    "class": "114",
+    "seat": 30
+  },
+  {
+    "student_id": "510486",
+    "name": "黃O蔚",
+    "class": "114",
+    "seat": 31
+  },
+  {
+    "student_id": "510487",
+    "name": "楊O杰",
+    "class": "114",
+    "seat": 32
+  },
+  {
+    "student_id": "510488",
+    "name": "萬O廷",
+    "class": "114",
+    "seat": 33
+  },
+  {
+    "student_id": "510489",
+    "name": "劉O志",
+    "class": "114",
+    "seat": 34
+  },
+  {
+    "student_id": "510490",
+    "name": "賴O博",
+    "class": "114",
+    "seat": 35
+  },
+  {
+    "student_id": "510491",
+    "name": "于O如",
+    "class": "115",
+    "seat": 1
+  },
+  {
+    "student_id": "510492",
+    "name": "王O菲",
+    "class": "115",
+    "seat": 2
+  },
+  {
+    "student_id": "510493",
+    "name": "何O蓁",
+    "class": "115",
+    "seat": 3
+  },
+  {
+    "student_id": "510494",
+    "name": "吳O竺",
+    "class": "115",
+    "seat": 4
+  },
+  {
+    "student_id": "510495",
+    "name": "邱O云",
+    "class": "115",
+    "seat": 5
+  },
+  {
+    "student_id": "510496",
+    "name": "張O悅",
+    "class": "115",
+    "seat": 6
+  },
+  {
+    "student_id": "510497",
+    "name": "黃O硯",
+    "class": "115",
+    "seat": 7
+  },
+  {
+    "student_id": "510498",
+    "name": "楊O縈",
+    "class": "115",
+    "seat": 8
+  },
+  {
+    "student_id": "510499",
+    "name": "楊O婷",
+    "class": "115",
+    "seat": 9
+  },
+  {
+    "student_id": "510500",
+    "name": "楊O如",
+    "class": "115",
+    "seat": 10
+  },
+  {
+    "student_id": "510501",
+    "name": "褚O恩",
+    "class": "115",
+    "seat": 11
+  },
+  {
+    "student_id": "510502",
+    "name": "鄭O云",
+    "class": "115",
+    "seat": 12
+  },
+  {
+    "student_id": "510503",
+    "name": "蕭O芸",
+    "class": "115",
+    "seat": 13
+  },
+  {
+    "student_id": "510504",
+    "name": "賴O蓁",
+    "class": "115",
+    "seat": 14
+  },
+  {
+    "student_id": "510505",
+    "name": "吳O豪",
+    "class": "115",
+    "seat": 15
+  },
+  {
+    "student_id": "510506",
+    "name": "呂O東",
+    "class": "115",
+    "seat": 16
+  },
+  {
+    "student_id": "510507",
+    "name": "李O中",
+    "class": "115",
+    "seat": 17
+  },
+  {
+    "student_id": "510508",
+    "name": "杜O淮",
+    "class": "115",
+    "seat": 18
+  },
+  {
+    "student_id": "510509",
+    "name": "周O恩",
+    "class": "115",
+    "seat": 19
+  },
+  {
+    "student_id": "510510",
+    "name": "林O樂",
+    "class": "115",
+    "seat": 20
+  },
+  {
+    "student_id": "510511",
+    "name": "林O寬",
+    "class": "115",
+    "seat": 21
+  },
+  {
+    "student_id": "510512",
+    "name": "林O恩",
+    "class": "115",
+    "seat": 22
+  },
+  {
+    "student_id": "510513",
+    "name": "邱O玥",
+    "class": "115",
+    "seat": 23
+  },
+  {
+    "student_id": "510514",
+    "name": "張O晏",
+    "class": "115",
+    "seat": 24
+  },
+  {
+    "student_id": "510515",
+    "name": "陳O銓",
+    "class": "115",
+    "seat": 25
+  },
+  {
+    "student_id": "510516",
+    "name": "彭O一",
+    "class": "115",
+    "seat": 26
+  },
+  {
+    "student_id": "510517",
+    "name": "曾O華",
+    "class": "115",
+    "seat": 27
+  },
+  {
+    "student_id": "510518",
+    "name": "游O恩",
+    "class": "115",
+    "seat": 28
+  },
+  {
+    "student_id": "510519",
+    "name": "馮O銘",
+    "class": "115",
+    "seat": 29
+  },
+  {
+    "student_id": "510520",
+    "name": "黃O璟",
+    "class": "115",
+    "seat": 30
+  },
+  {
+    "student_id": "510521",
+    "name": "楊O丞",
+    "class": "115",
+    "seat": 31
+  },
+  {
+    "student_id": "510522",
+    "name": "葉O睿",
+    "class": "115",
+    "seat": 32
+  },
+  {
+    "student_id": "510523",
+    "name": "劉O聿",
+    "class": "115",
+    "seat": 33
+  },
+  {
+    "student_id": "510524",
+    "name": "歐O澄",
+    "class": "115",
+    "seat": 34
+  },
+  {
+    "student_id": "510525",
+    "name": "王O翎",
+    "class": "116",
+    "seat": 1
+  },
+  {
+    "student_id": "510526",
+    "name": "王O希",
+    "class": "116",
+    "seat": 2
+  },
+  {
+    "student_id": "510527",
+    "name": "江O樂",
+    "class": "116",
+    "seat": 3
+  },
+  {
+    "student_id": "510528",
+    "name": "邱O歆",
+    "class": "116",
+    "seat": 4
+  },
+  {
+    "student_id": "510529",
+    "name": "張O如",
+    "class": "116",
+    "seat": 5
+  },
+  {
+    "student_id": "510530",
+    "name": "陳O佳",
+    "class": "116",
+    "seat": 6
+  },
+  {
+    "student_id": "510531",
+    "name": "黃O甯",
+    "class": "116",
+    "seat": 7
+  },
+  {
+    "student_id": "510532",
+    "name": "黃O媛",
+    "class": "116",
+    "seat": 8
+  },
+  {
+    "student_id": "510533",
+    "name": "楊O忻",
+    "class": "116",
+    "seat": 9
+  },
+  {
+    "student_id": "510534",
+    "name": "楊O寍",
+    "class": "116",
+    "seat": 10
+  },
+  {
+    "student_id": "510535",
+    "name": "葉O馨",
+    "class": "116",
+    "seat": 11
+  },
+  {
+    "student_id": "510536",
+    "name": "劉O祺",
+    "class": "116",
+    "seat": 12
+  },
+  {
+    "student_id": "510537",
+    "name": "盧O佑",
+    "class": "116",
+    "seat": 13
+  },
+  {
+    "student_id": "510538",
+    "name": "賴O羽",
+    "class": "116",
+    "seat": 14
+  },
+  {
+    "student_id": "510539",
+    "name": "王O鈞",
+    "class": "116",
+    "seat": 15
+  },
+  {
+    "student_id": "510540",
+    "name": "宋O齊",
+    "class": "116",
+    "seat": 16
+  },
+  {
+    "student_id": "510541",
+    "name": "巫O緯",
+    "class": "116",
+    "seat": 17
+  },
+  {
+    "student_id": "510542",
+    "name": "杜O竑",
+    "class": "116",
+    "seat": 18
+  },
+  {
+    "student_id": "510543",
+    "name": "林O睿",
+    "class": "116",
+    "seat": 19
+  },
+  {
+    "student_id": "510544",
+    "name": "林O承",
+    "class": "116",
+    "seat": 20
+  },
+  {
+    "student_id": "510545",
+    "name": "林O言",
+    "class": "116",
+    "seat": 21
+  },
+  {
+    "student_id": "510546",
+    "name": "武O詠",
+    "class": "116",
+    "seat": 22
+  },
+  {
+    "student_id": "510547",
+    "name": "高O晉",
+    "class": "116",
+    "seat": 23
+  },
+  {
+    "student_id": "510548",
+    "name": "張O琛",
+    "class": "116",
+    "seat": 24
+  },
+  {
+    "student_id": "510549",
+    "name": "陳O寰",
+    "class": "116",
+    "seat": 25
+  },
+  {
+    "student_id": "510550",
+    "name": "傅O祐",
+    "class": "116",
+    "seat": 26
+  },
+  {
+    "student_id": "510551",
+    "name": "湯O杰",
+    "class": "116",
+    "seat": 27
+  },
+  {
+    "student_id": "510552",
+    "name": "黃O騰",
+    "class": "116",
+    "seat": 28
+  },
+  {
+    "student_id": "510553",
+    "name": "黃O哲",
+    "class": "116",
+    "seat": 29
+  },
+  {
+    "student_id": "510554",
+    "name": "黃O晏",
+    "class": "116",
+    "seat": 30
+  },
+  {
+    "student_id": "510555",
+    "name": "葉O澔",
+    "class": "116",
+    "seat": 31
+  },
+  {
+    "student_id": "510556",
+    "name": "劉O岑",
+    "class": "116",
+    "seat": 32
+  },
+  {
+    "student_id": "510557",
+    "name": "鄭O謙",
+    "class": "116",
+    "seat": 33
+  },
+  {
+    "student_id": "510558",
+    "name": "鄭O謙",
+    "class": "116",
+    "seat": 34
+  },
+  {
+    "student_id": "510559",
+    "name": "王O涵",
+    "class": "117",
+    "seat": 1
+  },
+  {
+    "student_id": "510560",
+    "name": "王O綸",
+    "class": "117",
+    "seat": 2
+  },
+  {
+    "student_id": "510561",
+    "name": "古O伶",
+    "class": "117",
+    "seat": 3
+  },
+  {
+    "student_id": "510562",
+    "name": "余O渝",
+    "class": "117",
+    "seat": 4
+  },
+  {
+    "student_id": "510563",
+    "name": "吳O瑄",
+    "class": "117",
+    "seat": 5
+  },
+  {
+    "student_id": "510564",
+    "name": "李O樂",
+    "class": "117",
+    "seat": 6
+  },
+  {
+    "student_id": "510565",
+    "name": "邱O甯",
+    "class": "117",
+    "seat": 7
+  },
+  {
+    "student_id": "510566",
+    "name": "胡O綺",
+    "class": "117",
+    "seat": 8
+  },
+  {
+    "student_id": "510567",
+    "name": "高O欣",
+    "class": "117",
+    "seat": 9
+  },
+  {
+    "student_id": "510568",
+    "name": "游O璇",
+    "class": "117",
+    "seat": 10
+  },
+  {
+    "student_id": "510569",
+    "name": "游O昀",
+    "class": "117",
+    "seat": 11
+  },
+  {
+    "student_id": "510570",
+    "name": "葉O真",
+    "class": "117",
+    "seat": 12
+  },
+  {
+    "student_id": "510571",
+    "name": "劉O瑄",
+    "class": "117",
+    "seat": 13
+  },
+  {
+    "student_id": "510572",
+    "name": "劉O妘",
+    "class": "117",
+    "seat": 14
+  },
+  {
+    "student_id": "510573",
+    "name": "李O洋",
+    "class": "117",
+    "seat": 15
+  },
+  {
+    "student_id": "510574",
+    "name": "李O葳",
+    "class": "117",
+    "seat": 16
+  },
+  {
+    "student_id": "510575",
+    "name": "李O興",
+    "class": "117",
+    "seat": 17
+  },
+  {
+    "student_id": "510576",
+    "name": "李O恩",
+    "class": "117",
+    "seat": 18
+  },
+  {
+    "student_id": "510577",
+    "name": "林O毅",
+    "class": "117",
+    "seat": 19
+  },
+  {
+    "student_id": "510578",
+    "name": "林O岑",
+    "class": "117",
+    "seat": 20
+  },
+  {
+    "student_id": "510579",
+    "name": "徐O翰",
+    "class": "117",
+    "seat": 21
+  },
+  {
+    "student_id": "510580",
+    "name": "莊O澈",
+    "class": "117",
+    "seat": 22
+  },
+  {
+    "student_id": "510581",
+    "name": "許O凱",
+    "class": "117",
+    "seat": 23
+  },
+  {
+    "student_id": "510582",
+    "name": "陳O恩",
+    "class": "117",
+    "seat": 24
+  },
+  {
+    "student_id": "510583",
+    "name": "陳O勛",
+    "class": "117",
+    "seat": 25
+  },
+  {
+    "student_id": "510584",
+    "name": "陳O恩",
+    "class": "117",
+    "seat": 26
+  },
+  {
+    "student_id": "510585",
+    "name": "彭O逸",
+    "class": "117",
+    "seat": 27
+  },
+  {
+    "student_id": "510586",
+    "name": "辜O嘉",
+    "class": "117",
+    "seat": 28
+  },
+  {
+    "student_id": "510587",
+    "name": "馮O睿",
+    "class": "117",
+    "seat": 29
+  },
+  {
+    "student_id": "510588",
+    "name": "馮O喆",
+    "class": "117",
+    "seat": 30
+  },
+  {
+    "student_id": "510589",
+    "name": "黃O綸",
+    "class": "117",
+    "seat": 31
+  },
+  {
+    "student_id": "510590",
+    "name": "董O傑",
+    "class": "117",
+    "seat": 32
+  },
+  {
+    "student_id": "510591",
+    "name": "劉O鈞",
+    "class": "117",
+    "seat": 33
+  },
+  {
+    "student_id": "510592",
+    "name": "劉O丞",
+    "class": "117",
+    "seat": 34
+  },
+  {
+    "student_id": "510593",
+    "name": "王O安",
+    "class": "118",
+    "seat": 1
+  },
+  {
+    "student_id": "510594",
+    "name": "吳O潔",
+    "class": "118",
+    "seat": 2
+  },
+  {
+    "student_id": "510595",
+    "name": "張O嘉",
+    "class": "118",
+    "seat": 3
+  },
+  {
+    "student_id": "510596",
+    "name": "許O萱",
+    "class": "118",
+    "seat": 4
+  },
+  {
+    "student_id": "510597",
+    "name": "陳O沅",
+    "class": "118",
+    "seat": 5
+  },
+  {
+    "student_id": "510598",
+    "name": "曾O喬",
+    "class": "118",
+    "seat": 6
+  },
+  {
+    "student_id": "510599",
+    "name": "葉O瑜",
+    "class": "118",
+    "seat": 7
+  },
+  {
+    "student_id": "510600",
+    "name": "董O瑋",
+    "class": "118",
+    "seat": 8
+  },
+  {
+    "student_id": "510601",
+    "name": "廖O涵",
+    "class": "118",
+    "seat": 9
+  },
+  {
+    "student_id": "510602",
+    "name": "廖O柔",
+    "class": "118",
+    "seat": 10
+  },
+  {
+    "student_id": "510603",
+    "name": "劉O喬",
+    "class": "118",
+    "seat": 11
+  },
+  {
+    "student_id": "510604",
+    "name": "蔡O蓁",
+    "class": "118",
+    "seat": 12
+  },
+  {
+    "student_id": "510605",
+    "name": "戴O如",
+    "class": "118",
+    "seat": 13
+  },
+  {
+    "student_id": "510606",
+    "name": "簡O翎",
+    "class": "118",
+    "seat": 14
+  },
+  {
+    "student_id": "510607",
+    "name": "羅O芸",
+    "class": "118",
+    "seat": 15
+  },
+  {
+    "student_id": "510608",
+    "name": "余O翰",
+    "class": "118",
+    "seat": 16
+  },
+  {
+    "student_id": "510609",
+    "name": "吳O澤",
+    "class": "118",
+    "seat": 17
+  },
+  {
+    "student_id": "510610",
+    "name": "李O帆",
+    "class": "118",
+    "seat": 18
+  },
+  {
+    "student_id": "510611",
+    "name": "李O洋",
+    "class": "118",
+    "seat": 19
+  },
+  {
+    "student_id": "510612",
+    "name": "李O睿",
+    "class": "118",
+    "seat": 20
+  },
+  {
+    "student_id": "510613",
+    "name": "林O杰",
+    "class": "118",
+    "seat": 21
+  },
+  {
+    "student_id": "510614",
+    "name": "林O愷",
+    "class": "118",
+    "seat": 22
+  },
+  {
+    "student_id": "510615",
+    "name": "林O銘",
+    "class": "118",
+    "seat": 23
+  },
+  {
+    "student_id": "510616",
+    "name": "胡O叡",
+    "class": "118",
+    "seat": 24
+  },
+  {
+    "student_id": "510617",
+    "name": "張O崴",
+    "class": "118",
+    "seat": 25
+  },
+  {
+    "student_id": "510618",
+    "name": "游O穎",
+    "class": "118",
+    "seat": 26
+  },
+  {
+    "student_id": "510619",
+    "name": "馮O霖",
+    "class": "118",
+    "seat": 27
+  },
+  {
+    "student_id": "510620",
+    "name": "黃O豪",
+    "class": "118",
+    "seat": 28
+  },
+  {
+    "student_id": "510621",
+    "name": "葉O希",
+    "class": "118",
+    "seat": 29
+  },
+  {
+    "student_id": "510622",
+    "name": "葉O駿",
+    "class": "118",
+    "seat": 30
+  },
+  {
+    "student_id": "510623",
+    "name": "劉O澔",
+    "class": "118",
+    "seat": 31
+  },
+  {
+    "student_id": "510624",
+    "name": "劉O渝",
+    "class": "118",
+    "seat": 32
+  },
+  {
+    "student_id": "510625",
+    "name": "潘O安",
+    "class": "118",
+    "seat": 33
+  },
+  {
+    "student_id": "510626",
+    "name": "鍾O勒",
+    "class": "118",
+    "seat": 34
+  },
+  {
+    "student_id": "510627",
+    "name": "吳O芯",
+    "class": "119",
+    "seat": 1
+  },
+  {
+    "student_id": "510628",
+    "name": "李O均",
+    "class": "119",
+    "seat": 2
+  },
+  {
+    "student_id": "510629",
+    "name": "李O愛",
+    "class": "119",
+    "seat": 3
+  },
+  {
+    "student_id": "510630",
+    "name": "李O寧",
+    "class": "119",
+    "seat": 4
+  },
+  {
+    "student_id": "510631",
+    "name": "李O",
+    "class": "119",
+    "seat": 5
+  },
+  {
+    "student_id": "510632",
+    "name": "梁O昕",
+    "class": "119",
+    "seat": 6
+  },
+  {
+    "student_id": "510633",
+    "name": "許O漾",
+    "class": "119",
+    "seat": 7
+  },
+  {
+    "student_id": "510634",
+    "name": "游O璇",
+    "class": "119",
+    "seat": 8
+  },
+  {
+    "student_id": "510635",
+    "name": "謝O婕",
+    "class": "119",
+    "seat": 9
+  },
+  {
+    "student_id": "510636",
+    "name": "謝O潔",
+    "class": "119",
+    "seat": 10
+  },
+  {
+    "student_id": "510637",
+    "name": "方O淯",
+    "class": "119",
+    "seat": 11
+  },
+  {
+    "student_id": "510638",
+    "name": "王O誠",
+    "class": "119",
+    "seat": 12
+  },
+  {
+    "student_id": "510639",
+    "name": "王O棠",
+    "class": "119",
+    "seat": 13
+  },
+  {
+    "student_id": "510640",
+    "name": "李O霖",
+    "class": "119",
+    "seat": 14
+  },
+  {
+    "student_id": "510641",
+    "name": "林O哲",
+    "class": "119",
+    "seat": 15
+  },
+  {
+    "student_id": "510642",
+    "name": "張O豪",
+    "class": "119",
+    "seat": 16
+  },
+  {
+    "student_id": "510643",
+    "name": "郭O熙",
+    "class": "119",
+    "seat": 17
+  },
+  {
+    "student_id": "510644",
+    "name": "陳O謙",
+    "class": "119",
+    "seat": 18
+  },
+  {
+    "student_id": "510645",
+    "name": "陳O寰",
+    "class": "119",
+    "seat": 19
+  },
+  {
+    "student_id": "510646",
+    "name": "曾O悅",
+    "class": "119",
+    "seat": 20
+  },
+  {
+    "student_id": "510647",
+    "name": "黃O展",
+    "class": "119",
+    "seat": 21
+  },
+  {
+    "student_id": "510648",
+    "name": "黃O皓",
+    "class": "119",
+    "seat": 22
+  },
+  {
+    "student_id": "510649",
+    "name": "楊O丞",
+    "class": "119",
+    "seat": 23
+  },
+  {
+    "student_id": "510650",
+    "name": "葉O宇",
+    "class": "119",
+    "seat": 24
+  },
+  {
+    "student_id": "510651",
+    "name": "劉O寬",
+    "class": "119",
+    "seat": 25
+  },
+  {
+    "student_id": "510652",
+    "name": "鄭O橙",
+    "class": "119",
+    "seat": 26
+  },
+  {
+    "student_id": "510653",
+    "name": "謝O暘",
+    "class": "119",
+    "seat": 27
+  },
+  {
+    "student_id": "510654",
+    "name": "蘇O恩",
+    "class": "119",
+    "seat": 28
+  },
+  {
+    "student_id": "510655",
+    "name": "王O曦",
+    "class": "120",
+    "seat": 1
+  },
+  {
+    "student_id": "510656",
+    "name": "江O荏",
+    "class": "120",
+    "seat": 2
+  },
+  {
+    "student_id": "510657",
+    "name": "吳O彤",
+    "class": "120",
+    "seat": 3
+  },
+  {
+    "student_id": "510658",
+    "name": "沈O綾",
+    "class": "120",
+    "seat": 4
+  },
+  {
+    "student_id": "510659",
+    "name": "徐O帆",
+    "class": "120",
+    "seat": 5
+  },
+  {
+    "student_id": "510660",
+    "name": "徐O嵐",
+    "class": "120",
+    "seat": 6
+  },
+  {
+    "student_id": "510661",
+    "name": "許O瑀",
+    "class": "120",
+    "seat": 7
+  },
+  {
+    "student_id": "510662",
+    "name": "陳O瑩",
+    "class": "120",
+    "seat": 8
+  },
+  {
+    "student_id": "510663",
+    "name": "陳O霏",
+    "class": "120",
+    "seat": 9
+  },
+  {
+    "student_id": "510664",
+    "name": "彭O蓶",
+    "class": "120",
+    "seat": 10
+  },
+  {
+    "student_id": "510665",
+    "name": "湯O彤",
+    "class": "120",
+    "seat": 11
+  },
+  {
+    "student_id": "510666",
+    "name": "蔡O柔",
+    "class": "120",
+    "seat": 12
+  },
+  {
+    "student_id": "510667",
+    "name": "賴O汝",
+    "class": "120",
+    "seat": 13
+  },
+  {
+    "student_id": "510668",
+    "name": "鍾O彤",
+    "class": "120",
+    "seat": 14
+  },
+  {
+    "student_id": "510669",
+    "name": "龐O勻",
+    "class": "120",
+    "seat": 15
+  },
+  {
+    "student_id": "510670",
+    "name": "周O吉",
+    "class": "120",
+    "seat": 16
+  },
+  {
+    "student_id": "510671",
+    "name": "柯O晨",
+    "class": "120",
+    "seat": 17
+  },
+  {
+    "student_id": "510672",
+    "name": "祝O",
+    "class": "120",
+    "seat": 18
+  },
+  {
+    "student_id": "510673",
+    "name": "翁O瑜",
+    "class": "120",
+    "seat": 19
+  },
+  {
+    "student_id": "510674",
+    "name": "郭O群",
+    "class": "120",
+    "seat": 20
+  },
+  {
+    "student_id": "510675",
+    "name": "游O捷",
+    "class": "120",
+    "seat": 21
+  },
+  {
+    "student_id": "510676",
+    "name": "黃O毅",
+    "class": "120",
+    "seat": 22
+  },
+  {
+    "student_id": "510677",
+    "name": "黃O新",
+    "class": "120",
+    "seat": 23
+  },
+  {
+    "student_id": "510678",
+    "name": "駱O允",
+    "class": "120",
+    "seat": 24
+  },
+  {
+    "student_id": "410001",
+    "name": "王o寧",
+    "class": "201",
+    "seat": 1
+  },
+  {
+    "student_id": "410003",
+    "name": "王o馨",
+    "class": "201",
+    "seat": 2
+  },
+  {
+    "student_id": "410246",
+    "name": "池o柔",
+    "class": "201",
+    "seat": 3
+  },
+  {
+    "student_id": "410430",
+    "name": "李o",
+    "class": "201",
+    "seat": 4
+  },
+  {
+    "student_id": "410109",
+    "name": "李o箴",
+    "class": "201",
+    "seat": 5
+  },
+  {
+    "student_id": "410321",
+    "name": "李o希",
+    "class": "201",
+    "seat": 6
+  },
+  {
+    "student_id": "410431",
+    "name": "芍o明",
+    "class": "201",
+    "seat": 7
+  },
+  {
+    "student_id": "410149",
+    "name": "徐o時",
+    "class": "201",
+    "seat": 8
+  },
+  {
+    "student_id": "410396",
+    "name": "徐o珈",
+    "class": "201",
+    "seat": 9
+  },
+  {
+    "student_id": "410694",
+    "name": "張o穎",
+    "class": "201",
+    "seat": 10
+  },
+  {
+    "student_id": "410434",
+    "name": "張o庭",
+    "class": "201",
+    "seat": 11
+  },
+  {
+    "student_id": "410252",
+    "name": "張o萍",
+    "class": "201",
+    "seat": 12
+  },
+  {
+    "student_id": "410184",
+    "name": "陳o澄",
+    "class": "201",
+    "seat": 13
+  },
+  {
+    "student_id": "410402",
+    "name": "曾o涓",
+    "class": "201",
+    "seat": 14
+  },
+  {
+    "student_id": "410580",
+    "name": "曾o寧",
+    "class": "201",
+    "seat": 15
+  },
+  {
+    "student_id": "410291",
+    "name": "游o姍",
+    "class": "201",
+    "seat": 16
+  },
+  {
+    "student_id": "410222",
+    "name": "楊o婕",
+    "class": "201",
+    "seat": 17
+  },
+  {
+    "student_id": "410367",
+    "name": "楊o晴",
+    "class": "201",
+    "seat": 18
+  },
+  {
+    "student_id": "410224",
+    "name": "龍o蓉",
+    "class": "201",
+    "seat": 19
+  },
+  {
+    "student_id": "410051",
+    "name": "鍾o渝",
+    "class": "201",
+    "seat": 20
+  },
+  {
+    "student_id": "410369",
+    "name": "簡o寧",
+    "class": "201",
+    "seat": 21
+  },
+  {
+    "student_id": "410693",
+    "name": "顏o潔",
+    "class": "201",
+    "seat": 22
+  },
+  {
+    "student_id": "410593",
+    "name": "洪o翔",
+    "class": "201",
+    "seat": 23
+  },
+  {
+    "student_id": "410409",
+    "name": "胡o智",
+    "class": "201",
+    "seat": 24
+  },
+  {
+    "student_id": "410268",
+    "name": "高o恩",
+    "class": "201",
+    "seat": 25
+  },
+  {
+    "student_id": "410199",
+    "name": "張o傑",
+    "class": "201",
+    "seat": 26
+  },
+  {
+    "student_id": "410414",
+    "name": "陳o澔",
+    "class": "201",
+    "seat": 27
+  },
+  {
+    "student_id": "410633",
+    "name": "陳o豪",
+    "class": "201",
+    "seat": 28
+  },
+  {
+    "student_id": "410306",
+    "name": "陳o峻",
+    "class": "201",
+    "seat": 29
+  },
+  {
+    "student_id": "410453",
+    "name": "黃o叡",
+    "class": "201",
+    "seat": 30
+  },
+  {
+    "student_id": "410099",
+    "name": "葉o軒",
+    "class": "201",
+    "seat": 31
+  },
+  {
+    "student_id": "410138",
+    "name": "劉o鑫",
+    "class": "201",
+    "seat": 32
+  },
+  {
+    "student_id": "410315",
+    "name": "賴o軒",
+    "class": "201",
+    "seat": 33
+  },
+  {
+    "student_id": "410105",
+    "name": "鍾o葦",
+    "class": "201",
+    "seat": 34
+  },
+  {
+    "student_id": "410460",
+    "name": "藍o柏",
+    "class": "201",
+    "seat": 35
+  },
+  {
+    "student_id": "410106",
+    "name": "江o秀",
+    "class": "202",
+    "seat": 1
+  },
+  {
+    "student_id": "410390",
+    "name": "何o淇",
+    "class": "202",
+    "seat": 2
+  },
+  {
+    "student_id": "410073",
+    "name": "宋o妤",
+    "class": "202",
+    "seat": 3
+  },
+  {
+    "student_id": "410004",
+    "name": "李o霏",
+    "class": "202",
+    "seat": 4
+  },
+  {
+    "student_id": "410108",
+    "name": "李o彤",
+    "class": "202",
+    "seat": 5
+  },
+  {
+    "student_id": "410320",
+    "name": "李o恩",
+    "class": "202",
+    "seat": 6
+  },
+  {
+    "student_id": "410573",
+    "name": "李o俞",
+    "class": "202",
+    "seat": 7
+  },
+  {
+    "student_id": "410394",
+    "name": "林o瑤",
+    "class": "202",
+    "seat": 8
+  },
+  {
+    "student_id": "410111",
+    "name": "林o萱",
+    "class": "202",
+    "seat": 9
+  },
+  {
+    "student_id": "410614",
+    "name": "金o熙",
+    "class": "202",
+    "seat": 10
+  },
+  {
+    "student_id": "410432",
+    "name": "侯o欣",
+    "class": "202",
+    "seat": 11
+  },
+  {
+    "student_id": "410249",
+    "name": "胡o馨",
+    "class": "202",
+    "seat": 12
+  },
+  {
+    "student_id": "410079",
+    "name": "翁o淇",
+    "class": "202",
+    "seat": 13
+  },
+  {
+    "student_id": "410250",
+    "name": "張o璇",
+    "class": "202",
+    "seat": 14
+  },
+  {
+    "student_id": "410289",
+    "name": "梁o",
+    "class": "202",
+    "seat": 15
+  },
+  {
+    "student_id": "410579",
+    "name": "許o代",
+    "class": "202",
+    "seat": 16
+  },
+  {
+    "student_id": "410542",
+    "name": "陳o潔",
+    "class": "202",
+    "seat": 17
+  },
+  {
+    "student_id": "410152",
+    "name": "陳o儀",
+    "class": "202",
+    "seat": 18
+  },
+  {
+    "student_id": "410543",
+    "name": "漢o晴",
+    "class": "202",
+    "seat": 19
+  },
+  {
+    "student_id": "410046",
+    "name": "劉o頤",
+    "class": "202",
+    "seat": 20
+  },
+  {
+    "student_id": "410441",
+    "name": "劉o瑗",
+    "class": "202",
+    "seat": 21
+  },
+  {
+    "student_id": "410226",
+    "name": "羅o涵",
+    "class": "202",
+    "seat": 22
+  },
+  {
+    "student_id": "410584",
+    "name": "羅o瑄",
+    "class": "202",
+    "seat": 23
+  },
+  {
+    "student_id": "410018",
+    "name": "江o瑞",
+    "class": "202",
+    "seat": 24
+  },
+  {
+    "student_id": "410227",
+    "name": "余o暥",
+    "class": "202",
+    "seat": 25
+  },
+  {
+    "student_id": "410444",
+    "name": "吳o澤",
+    "class": "202",
+    "seat": 26
+  },
+  {
+    "student_id": "410626",
+    "name": "李o祐",
+    "class": "202",
+    "seat": 27
+  },
+  {
+    "student_id": "410127",
+    "name": "施o慷",
+    "class": "202",
+    "seat": 28
+  },
+  {
+    "student_id": "410484",
+    "name": "徐o閎",
+    "class": "202",
+    "seat": 29
+  },
+  {
+    "student_id": "410380",
+    "name": "陳o晟",
+    "class": "202",
+    "seat": 30
+  },
+  {
+    "student_id": "410600",
+    "name": "覃o祐",
+    "class": "202",
+    "seat": 31
+  },
+  {
+    "student_id": "410273",
+    "name": "黃o祐",
+    "class": "202",
+    "seat": 32
+  },
+  {
+    "student_id": "410493",
+    "name": "詹o奕",
+    "class": "202",
+    "seat": 33
+  },
+  {
+    "student_id": "410639",
+    "name": "詹o",
+    "class": "202",
+    "seat": 34
+  },
+  {
+    "student_id": "410494",
+    "name": "劉o妙",
+    "class": "202",
+    "seat": 35
+  },
+  {
+    "student_id": "410496",
+    "name": "戴o炫",
+    "class": "202",
+    "seat": 36
+  },
+  {
+    "student_id": "410318",
+    "name": "文o",
+    "class": "203",
+    "seat": 1
+  },
+  {
+    "student_id": "410427",
+    "name": "江o",
+    "class": "203",
+    "seat": 2
+  },
+  {
+    "student_id": "410571",
+    "name": "李o芳",
+    "class": "203",
+    "seat": 3
+  },
+  {
+    "student_id": "410143",
+    "name": "李o潔",
+    "class": "203",
+    "seat": 4
+  },
+  {
+    "student_id": "410177",
+    "name": "李o庭",
+    "class": "203",
+    "seat": 5
+  },
+  {
+    "student_id": "410179",
+    "name": "周o媛",
+    "class": "203",
+    "seat": 6
+  },
+  {
+    "student_id": "410145",
+    "name": "林o涵",
+    "class": "203",
+    "seat": 7
+  },
+  {
+    "student_id": "410323",
+    "name": "林o樂",
+    "class": "203",
+    "seat": 8
+  },
+  {
+    "student_id": "410006",
+    "name": "邱o巧",
+    "class": "203",
+    "seat": 9
+  },
+  {
+    "student_id": "410575",
+    "name": "邵o葶",
+    "class": "203",
+    "seat": 10
+  },
+  {
+    "student_id": "410115",
+    "name": "涂o涵",
+    "class": "203",
+    "seat": 11
+  },
+  {
+    "student_id": "410041",
+    "name": "張o容",
+    "class": "203",
+    "seat": 12
+  },
+  {
+    "student_id": "410364",
+    "name": "許o珮",
+    "class": "203",
+    "seat": 13
+  },
+  {
+    "student_id": "410399",
+    "name": "許o鈺",
+    "class": "203",
+    "seat": 14
+  },
+  {
+    "student_id": "410400",
+    "name": "陳o頤",
+    "class": "203",
+    "seat": 15
+  },
+  {
+    "student_id": "410472",
+    "name": "陳o熙",
+    "class": "203",
+    "seat": 16
+  },
+  {
+    "student_id": "410219",
+    "name": "陳o",
+    "class": "203",
+    "seat": 17
+  },
+  {
+    "student_id": "410154",
+    "name": "游o馨",
+    "class": "203",
+    "seat": 18
+  },
+  {
+    "student_id": "410185",
+    "name": "黃o郁",
+    "class": "203",
+    "seat": 19
+  },
+  {
+    "student_id": "410509",
+    "name": "詹o妮",
+    "class": "203",
+    "seat": 20
+  },
+  {
+    "student_id": "410190",
+    "name": "蔡o心",
+    "class": "203",
+    "seat": 21
+  },
+  {
+    "student_id": "410511",
+    "name": "蔡o恩",
+    "class": "203",
+    "seat": 22
+  },
+  {
+    "student_id": "410332",
+    "name": "繆o純",
+    "class": "203",
+    "seat": 23
+  },
+  {
+    "student_id": "410156",
+    "name": "瞿o心",
+    "class": "203",
+    "seat": 24
+  },
+  {
+    "student_id": "410696",
+    "name": "蘇o庭",
+    "class": "203",
+    "seat": 25
+  },
+  {
+    "student_id": "410157",
+    "name": "朱o懋",
+    "class": "203",
+    "seat": 26
+  },
+  {
+    "student_id": "410124",
+    "name": "江o豪",
+    "class": "203",
+    "seat": 27
+  },
+  {
+    "student_id": "410556",
+    "name": "林o文",
+    "class": "203",
+    "seat": 28
+  },
+  {
+    "student_id": "410161",
+    "name": "林o恩",
+    "class": "203",
+    "seat": 29
+  },
+  {
+    "student_id": "410486",
+    "name": "徐o軒",
+    "class": "203",
+    "seat": 30
+  },
+  {
+    "student_id": "410449",
+    "name": "張o翊",
+    "class": "203",
+    "seat": 31
+  },
+  {
+    "student_id": "410096",
+    "name": "陳o愷",
+    "class": "203",
+    "seat": 32
+  },
+  {
+    "student_id": "410345",
+    "name": "彭o正",
+    "class": "203",
+    "seat": 33
+  },
+  {
+    "student_id": "410238",
+    "name": "彭o紳",
+    "class": "203",
+    "seat": 34
+  },
+  {
+    "student_id": "410603",
+    "name": "劉o昂",
+    "class": "203",
+    "seat": 35
+  },
+  {
+    "student_id": "410283",
+    "name": "古o柔",
+    "class": "204",
+    "seat": 1
+  },
+  {
+    "student_id": "410247",
+    "name": "余o靚",
+    "class": "204",
+    "seat": 2
+  },
+  {
+    "student_id": "410428",
+    "name": "吳o澐",
+    "class": "204",
+    "seat": 3
+  },
+  {
+    "student_id": "410464",
+    "name": "呂o揚",
+    "class": "204",
+    "seat": 4
+  },
+  {
+    "student_id": "410176",
+    "name": "宋o芮",
+    "class": "204",
+    "seat": 5
+  },
+  {
+    "student_id": "410536",
+    "name": "李o語",
+    "class": "204",
+    "seat": 6
+  },
+  {
+    "student_id": "410212",
+    "name": "李o昕",
+    "class": "204",
+    "seat": 7
+  },
+  {
+    "student_id": "410393",
+    "name": "沈o瑗",
+    "class": "204",
+    "seat": 8
+  },
+  {
+    "student_id": "410501",
+    "name": "周o穎",
+    "class": "204",
+    "seat": 9
+  },
+  {
+    "student_id": "410574",
+    "name": "林o甯",
+    "class": "204",
+    "seat": 10
+  },
+  {
+    "student_id": "410324",
+    "name": "胡o渝",
+    "class": "204",
+    "seat": 11
+  },
+  {
+    "student_id": "410395",
+    "name": "范o恩",
+    "class": "204",
+    "seat": 12
+  },
+  {
+    "student_id": "410216",
+    "name": "徐o潔",
+    "class": "204",
+    "seat": 13
+  },
+  {
+    "student_id": "410577",
+    "name": "徐o萱",
+    "class": "204",
+    "seat": 14
+  },
+  {
+    "student_id": "410578",
+    "name": "張o涵",
+    "class": "204",
+    "seat": 15
+  },
+  {
+    "student_id": "410150",
+    "name": "張o云",
+    "class": "204",
+    "seat": 16
+  },
+  {
+    "student_id": "410217",
+    "name": "莊o淇",
+    "class": "204",
+    "seat": 17
+  },
+  {
+    "student_id": "410505",
+    "name": "許o涵",
+    "class": "204",
+    "seat": 18
+  },
+  {
+    "student_id": "410255",
+    "name": "陳o晴",
+    "class": "204",
+    "seat": 19
+  },
+  {
+    "student_id": "410328",
+    "name": "黃o瑄",
+    "class": "204",
+    "seat": 20
+  },
+  {
+    "student_id": "410329",
+    "name": "黃o臻",
+    "class": "204",
+    "seat": 21
+  },
+  {
+    "student_id": "410620",
+    "name": "蔡o璇",
+    "class": "204",
+    "seat": 22
+  },
+  {
+    "student_id": "410331",
+    "name": "鄭o宜",
+    "class": "204",
+    "seat": 23
+  },
+  {
+    "student_id": "410372",
+    "name": "朱o霖",
+    "class": "204",
+    "seat": 24
+  },
+  {
+    "student_id": "410301",
+    "name": "吳o齊",
+    "class": "204",
+    "seat": 25
+  },
+  {
+    "student_id": "410482",
+    "name": "宋o成",
+    "class": "204",
+    "seat": 26
+  },
+  {
+    "student_id": "410589",
+    "name": "李o亮",
+    "class": "204",
+    "seat": 27
+  },
+  {
+    "student_id": "410303",
+    "name": "卓o",
+    "class": "204",
+    "seat": 28
+  },
+  {
+    "student_id": "410267",
+    "name": "林o安",
+    "class": "204",
+    "seat": 29
+  },
+  {
+    "student_id": "410524",
+    "name": "陳o豪",
+    "class": "204",
+    "seat": 30
+  },
+  {
+    "student_id": "410168",
+    "name": "陳o靖",
+    "class": "204",
+    "seat": 31
+  },
+  {
+    "student_id": "410598",
+    "name": "陳o瑋",
+    "class": "204",
+    "seat": 32
+  },
+  {
+    "student_id": "410312",
+    "name": "楊o翔",
+    "class": "204",
+    "seat": 33
+  },
+  {
+    "student_id": "410420",
+    "name": "蔡o稚",
+    "class": "204",
+    "seat": 34
+  },
+  {
+    "student_id": "410351",
+    "name": "薛o瑾",
+    "class": "204",
+    "seat": 35
+  },
+  {
+    "student_id": "410174",
+    "name": "謝o宸",
+    "class": "204",
+    "seat": 36
+  },
+  {
+    "student_id": "410074",
+    "name": "忻o瑜",
+    "class": "205",
+    "seat": 1
+  },
+  {
+    "student_id": "410178",
+    "name": "李o瑄",
+    "class": "205",
+    "seat": 2
+  },
+  {
+    "student_id": "410359",
+    "name": "林o琪",
+    "class": "205",
+    "seat": 3
+  },
+  {
+    "student_id": "410147",
+    "name": "林o霏",
+    "class": "205",
+    "seat": 4
+  },
+  {
+    "student_id": "410076",
+    "name": "林o芝",
+    "class": "205",
+    "seat": 5
+  },
+  {
+    "student_id": "410469",
+    "name": "張o鈺",
+    "class": "205",
+    "seat": 6
+  },
+  {
+    "student_id": "410437",
+    "name": "傅o庭",
+    "class": "205",
+    "seat": 7
+  },
+  {
+    "student_id": "410153",
+    "name": "曾o",
+    "class": "205",
+    "seat": 8
+  },
+  {
+    "student_id": "410257",
+    "name": "馮o芸",
+    "class": "205",
+    "seat": 9
+  },
+  {
+    "student_id": "410514",
+    "name": "嚴o真",
+    "class": "205",
+    "seat": 10
+  },
+  {
+    "student_id": "410479",
+    "name": "王o毅",
+    "class": "205",
+    "seat": 11
+  },
+  {
+    "student_id": "410515",
+    "name": "吳o峪",
+    "class": "205",
+    "seat": 12
+  },
+  {
+    "student_id": "410516",
+    "name": "吳o宏",
+    "class": "205",
+    "seat": 13
+  },
+  {
+    "student_id": "410588",
+    "name": "李o康",
+    "class": "205",
+    "seat": 14
+  },
+  {
+    "student_id": "410091",
+    "name": "初o軒",
+    "class": "205",
+    "seat": 15
+  },
+  {
+    "student_id": "410629",
+    "name": "林o昀",
+    "class": "205",
+    "seat": 16
+  },
+  {
+    "student_id": "410194",
+    "name": "林o智",
+    "class": "205",
+    "seat": 17
+  },
+  {
+    "student_id": "410378",
+    "name": "胡o睿",
+    "class": "205",
+    "seat": 18
+  },
+  {
+    "student_id": "410163",
+    "name": "范o亘",
+    "class": "205",
+    "seat": 19
+  },
+  {
+    "student_id": "410411",
+    "name": "孫o睿",
+    "class": "205",
+    "seat": 20
+  },
+  {
+    "student_id": "410129",
+    "name": "張o睿",
+    "class": "205",
+    "seat": 21
+  },
+  {
+    "student_id": "410560",
+    "name": "張o瑞",
+    "class": "205",
+    "seat": 22
+  },
+  {
+    "student_id": "410452",
+    "name": "陳o宇",
+    "class": "205",
+    "seat": 23
+  },
+  {
+    "student_id": "410133",
+    "name": "陳o廷",
+    "class": "205",
+    "seat": 24
+  },
+  {
+    "student_id": "410563",
+    "name": "陳o霖",
+    "class": "205",
+    "seat": 25
+  },
+  {
+    "student_id": "410309",
+    "name": "黃o桓",
+    "class": "205",
+    "seat": 26
+  },
+  {
+    "student_id": "410310",
+    "name": "黃o鑫",
+    "class": "205",
+    "seat": 27
+  },
+  {
+    "student_id": "410565",
+    "name": "黃o翔",
+    "class": "205",
+    "seat": 28
+  },
+  {
+    "student_id": "410418",
+    "name": "黃o勛",
+    "class": "205",
+    "seat": 29
+  },
+  {
+    "student_id": "410203",
+    "name": "黃o翔",
+    "class": "205",
+    "seat": 30
+  },
+  {
+    "student_id": "410274",
+    "name": "黃o城",
+    "class": "205",
+    "seat": 31
+  },
+  {
+    "student_id": "410171",
+    "name": "葉o維",
+    "class": "205",
+    "seat": 32
+  },
+  {
+    "student_id": "410602",
+    "name": "趙o毅",
+    "class": "205",
+    "seat": 33
+  },
+  {
+    "student_id": "410530",
+    "name": "劉o誠",
+    "class": "205",
+    "seat": 34
+  },
+  {
+    "student_id": "410423",
+    "name": "賴o叡",
+    "class": "205",
+    "seat": 35
+  },
+  {
+    "student_id": "410209",
+    "name": "羅o勝",
+    "class": "205",
+    "seat": 36
+  },
+  {
+    "student_id": "410071",
+    "name": "江o臻",
+    "class": "206",
+    "seat": 1
+  },
+  {
+    "student_id": "410361",
+    "name": "林o軒",
+    "class": "206",
+    "seat": 2
+  },
+  {
+    "student_id": "410401",
+    "name": "陳o寧",
+    "class": "206",
+    "seat": 3
+  },
+  {
+    "student_id": "410435",
+    "name": "陳o宣",
+    "class": "206",
+    "seat": 4
+  },
+  {
+    "student_id": "410473",
+    "name": "曾o恩",
+    "class": "206",
+    "seat": 5
+  },
+  {
+    "student_id": "410044",
+    "name": "温o菱",
+    "class": "206",
+    "seat": 6
+  },
+  {
+    "student_id": "410365",
+    "name": "黃o媛",
+    "class": "206",
+    "seat": 7
+  },
+  {
+    "student_id": "410047",
+    "name": "劉o弟",
+    "class": "206",
+    "seat": 8
+  },
+  {
+    "student_id": "410155",
+    "name": "蔡o媗",
+    "class": "206",
+    "seat": 9
+  },
+  {
+    "student_id": "410333",
+    "name": "羅o萓",
+    "class": "206",
+    "seat": 10
+  },
+  {
+    "student_id": "410087",
+    "name": "王o睿",
+    "class": "206",
+    "seat": 11
+  },
+  {
+    "student_id": "410262",
+    "name": "王o堯",
+    "class": "206",
+    "seat": 12
+  },
+  {
+    "student_id": "410335",
+    "name": "王o叡",
+    "class": "206",
+    "seat": 13
+  },
+  {
+    "student_id": "410623",
+    "name": "全o晨",
+    "class": "206",
+    "seat": 14
+  },
+  {
+    "student_id": "410407",
+    "name": "朱o韋",
+    "class": "206",
+    "seat": 15
+  },
+  {
+    "student_id": "410624",
+    "name": "何o浩",
+    "class": "206",
+    "seat": 16
+  },
+  {
+    "student_id": "410518",
+    "name": "沈o峰",
+    "class": "206",
+    "seat": 17
+  },
+  {
+    "student_id": "410058",
+    "name": "林o翰",
+    "class": "206",
+    "seat": 18
+  },
+  {
+    "student_id": "410193",
+    "name": "林o均",
+    "class": "206",
+    "seat": 19
+  },
+  {
+    "student_id": "410632",
+    "name": "林o緯",
+    "class": "206",
+    "seat": 20
+  },
+  {
+    "student_id": "410519",
+    "name": "姜o綸",
+    "class": "206",
+    "seat": 21
+  },
+  {
+    "student_id": "410128",
+    "name": "洪o傑",
+    "class": "206",
+    "seat": 22
+  },
+  {
+    "student_id": "410197",
+    "name": "徐o崴",
+    "class": "206",
+    "seat": 23
+  },
+  {
+    "student_id": "410416",
+    "name": "陳o叡",
+    "class": "206",
+    "seat": 24
+  },
+  {
+    "student_id": "410597",
+    "name": "陳o勳",
+    "class": "206",
+    "seat": 25
+  },
+  {
+    "student_id": "410634",
+    "name": "陳o崴",
+    "class": "206",
+    "seat": 26
+  },
+  {
+    "student_id": "410307",
+    "name": "彭o廷",
+    "class": "206",
+    "seat": 27
+  },
+  {
+    "student_id": "410097",
+    "name": "彭o碩",
+    "class": "206",
+    "seat": 28
+  },
+  {
+    "student_id": "410455",
+    "name": "楊o鈞",
+    "class": "206",
+    "seat": 29
+  },
+  {
+    "student_id": "410276",
+    "name": "詹o靖",
+    "class": "206",
+    "seat": 30
+  },
+  {
+    "student_id": "410529",
+    "name": "廖o毅",
+    "class": "206",
+    "seat": 31
+  },
+  {
+    "student_id": "410137",
+    "name": "熊o平",
+    "class": "206",
+    "seat": 32
+  },
+  {
+    "student_id": "410386",
+    "name": "劉o鈞",
+    "class": "206",
+    "seat": 33
+  },
+  {
+    "student_id": "410066",
+    "name": "劉o爲",
+    "class": "206",
+    "seat": 34
+  },
+  {
+    "student_id": "410102",
+    "name": "蔡o韜",
+    "class": "206",
+    "seat": 35
+  },
+  {
+    "student_id": "410208",
+    "name": "鄧o鴻",
+    "class": "206",
+    "seat": 36
+  },
+  {
+    "student_id": "410389",
+    "name": "鍾o彥",
+    "class": "206",
+    "seat": 37
+  },
+  {
+    "student_id": "410037",
+    "name": "李o綾",
+    "class": "207",
+    "seat": 1
+  },
+  {
+    "student_id": "410613",
+    "name": "邱o恩",
+    "class": "207",
+    "seat": 2
+  },
+  {
+    "student_id": "410148",
+    "name": "柯o妤",
+    "class": "207",
+    "seat": 3
+  },
+  {
+    "student_id": "410540",
+    "name": "洪o雯",
+    "class": "207",
+    "seat": 4
+  },
+  {
+    "student_id": "410114",
+    "name": "孫o晴",
+    "class": "207",
+    "seat": 5
+  },
+  {
+    "student_id": "410011",
+    "name": "陳o蓁",
+    "class": "207",
+    "seat": 6
+  },
+  {
+    "student_id": "410403",
+    "name": "楊o菫",
+    "class": "207",
+    "seat": 7
+  },
+  {
+    "student_id": "410545",
+    "name": "趙o芸",
+    "class": "207",
+    "seat": 8
+  },
+  {
+    "student_id": "410619",
+    "name": "齊o晴",
+    "class": "207",
+    "seat": 9
+  },
+  {
+    "student_id": "410405",
+    "name": "劉o晉",
+    "class": "207",
+    "seat": 10
+  },
+  {
+    "student_id": "410056",
+    "name": "李o晉",
+    "class": "207",
+    "seat": 11
+  },
+  {
+    "student_id": "410090",
+    "name": "李o維",
+    "class": "207",
+    "seat": 12
+  },
+  {
+    "student_id": "410057",
+    "name": "李o烽",
+    "class": "207",
+    "seat": 13
+  },
+  {
+    "student_id": "410630",
+    "name": "林o宇",
+    "class": "207",
+    "seat": 14
+  },
+  {
+    "student_id": "410195",
+    "name": "邱o翔",
+    "class": "207",
+    "seat": 15
+  },
+  {
+    "student_id": "410377",
+    "name": "邱o愷",
+    "class": "207",
+    "seat": 16
+  },
+  {
+    "student_id": "410092",
+    "name": "姚o謙",
+    "class": "207",
+    "seat": 17
+  },
+  {
+    "student_id": "410093",
+    "name": "唐o祐",
+    "class": "207",
+    "seat": 18
+  },
+  {
+    "student_id": "410447",
+    "name": "翁o軒",
+    "class": "207",
+    "seat": 19
+  },
+  {
+    "student_id": "410487",
+    "name": "張o佑",
+    "class": "207",
+    "seat": 20
+  },
+  {
+    "student_id": "410413",
+    "name": "莊o勛",
+    "class": "207",
+    "seat": 21
+  },
+  {
+    "student_id": "410269",
+    "name": "陳o瑜",
+    "class": "207",
+    "seat": 22
+  },
+  {
+    "student_id": "410417",
+    "name": "陳o穎",
+    "class": "207",
+    "seat": 23
+  },
+  {
+    "student_id": "410061",
+    "name": "陳o文",
+    "class": "207",
+    "seat": 24
+  },
+  {
+    "student_id": "410062",
+    "name": "游o鈞",
+    "class": "207",
+    "seat": 25
+  },
+  {
+    "student_id": "410241",
+    "name": "黃o凱",
+    "class": "207",
+    "seat": 26
+  },
+  {
+    "student_id": "410136",
+    "name": "詹o錞",
+    "class": "207",
+    "seat": 27
+  },
+  {
+    "student_id": "410100",
+    "name": "劉o勛",
+    "class": "207",
+    "seat": 28
+  },
+  {
+    "student_id": "410348",
+    "name": "劉o學",
+    "class": "207",
+    "seat": 29
+  },
+  {
+    "student_id": "410101",
+    "name": "滕o至",
+    "class": "207",
+    "seat": 30
+  },
+  {
+    "student_id": "410604",
+    "name": "蔡o羽",
+    "class": "207",
+    "seat": 31
+  },
+  {
+    "student_id": "410533",
+    "name": "薛o育",
+    "class": "207",
+    "seat": 32
+  },
+  {
+    "student_id": "410104",
+    "name": "謝o綸",
+    "class": "207",
+    "seat": 33
+  },
+  {
+    "student_id": "410459",
+    "name": "鍾o祖",
+    "class": "207",
+    "seat": 34
+  },
+  {
+    "student_id": "410352",
+    "name": "鍾o諺",
+    "class": "207",
+    "seat": 35
+  },
+  {
+    "student_id": "410280",
+    "name": "鍾o淵",
+    "class": "207",
+    "seat": 36
+  },
+  {
+    "student_id": "410070",
+    "name": "魏o",
+    "class": "207",
+    "seat": 37
+  },
+  {
+    "student_id": "410461",
+    "name": "蘇o誠",
+    "class": "207",
+    "seat": 38
+  },
+  {
+    "student_id": "410285",
+    "name": "呂o霈",
+    "class": "208",
+    "seat": 1
+  },
+  {
+    "student_id": "410466",
+    "name": "林o蓉",
+    "class": "208",
+    "seat": 2
+  },
+  {
+    "student_id": "410110",
+    "name": "林o岑",
+    "class": "208",
+    "seat": 3
+  },
+  {
+    "student_id": "410010",
+    "name": "康o云",
+    "class": "208",
+    "seat": 4
+  },
+  {
+    "student_id": "410151",
+    "name": "符o玲",
+    "class": "208",
+    "seat": 5
+  },
+  {
+    "student_id": "410615",
+    "name": "許o樂",
+    "class": "208",
+    "seat": 6
+  },
+  {
+    "student_id": "410471",
+    "name": "陳o臻",
+    "class": "208",
+    "seat": 7
+  },
+  {
+    "student_id": "410118",
+    "name": "彭o美",
+    "class": "208",
+    "seat": 8
+  },
+  {
+    "student_id": "410512",
+    "name": "賴o恩",
+    "class": "208",
+    "seat": 9
+  },
+  {
+    "student_id": "410050",
+    "name": "謝o潔",
+    "class": "208",
+    "seat": 10
+  },
+  {
+    "student_id": "410443",
+    "name": "王o睿",
+    "class": "208",
+    "seat": 11
+  },
+  {
+    "student_id": "410299",
+    "name": "任o安",
+    "class": "208",
+    "seat": 12
+  },
+  {
+    "student_id": "410089",
+    "name": "吳o宇",
+    "class": "208",
+    "seat": 13
+  },
+  {
+    "student_id": "410586",
+    "name": "吳o鑫",
+    "class": "208",
+    "seat": 14
+  },
+  {
+    "student_id": "410158",
+    "name": "呂o遠",
+    "class": "208",
+    "seat": 15
+  },
+  {
+    "student_id": "410481",
+    "name": "呂o圻",
+    "class": "208",
+    "seat": 16
+  },
+  {
+    "student_id": "410627",
+    "name": "沈o承",
+    "class": "208",
+    "seat": 17
+  },
+  {
+    "student_id": "410517",
+    "name": "沈o愷",
+    "class": "208",
+    "seat": 18
+  },
+  {
+    "student_id": "410628",
+    "name": "周o揚",
+    "class": "208",
+    "seat": 19
+  },
+  {
+    "student_id": "410376",
+    "name": "林o哲",
+    "class": "208",
+    "seat": 20
+  },
+  {
+    "student_id": "410520",
+    "name": "徐o辰",
+    "class": "208",
+    "seat": 21
+  },
+  {
+    "student_id": "410130",
+    "name": "張o軒",
+    "class": "208",
+    "seat": 22
+  },
+  {
+    "student_id": "410488",
+    "name": "張o安",
+    "class": "208",
+    "seat": 23
+  },
+  {
+    "student_id": "410489",
+    "name": "許o煒",
+    "class": "208",
+    "seat": 24
+  },
+  {
+    "student_id": "410024",
+    "name": "許o善",
+    "class": "208",
+    "seat": 25
+  },
+  {
+    "student_id": "410131",
+    "name": "郭o言",
+    "class": "208",
+    "seat": 26
+  },
+  {
+    "student_id": "410525",
+    "name": "陳o鴻",
+    "class": "208",
+    "seat": 27
+  },
+  {
+    "student_id": "410270",
+    "name": "陳o盛",
+    "class": "208",
+    "seat": 28
+  },
+  {
+    "student_id": "410202",
+    "name": "彭o鈞",
+    "class": "208",
+    "seat": 29
+  },
+  {
+    "student_id": "410564",
+    "name": "游o宏",
+    "class": "208",
+    "seat": 30
+  },
+  {
+    "student_id": "410526",
+    "name": "游o鈞",
+    "class": "208",
+    "seat": 31
+  },
+  {
+    "student_id": "410313",
+    "name": "劉o言",
+    "class": "208",
+    "seat": 32
+  },
+  {
+    "student_id": "410139",
+    "name": "劉o成",
+    "class": "208",
+    "seat": 33
+  },
+  {
+    "student_id": "410532",
+    "name": "鄧o軒",
+    "class": "208",
+    "seat": 34
+  },
+  {
+    "student_id": "410421",
+    "name": "鄭o森",
+    "class": "208",
+    "seat": 35
+  },
+  {
+    "student_id": "410103",
+    "name": "賴o均",
+    "class": "208",
+    "seat": 36
+  },
+  {
+    "student_id": "410388",
+    "name": "戴o辰",
+    "class": "208",
+    "seat": 37
+  },
+  {
+    "student_id": "410282",
+    "name": "尤o榕",
+    "class": "209",
+    "seat": 1
+  },
+  {
+    "student_id": "410180",
+    "name": "邱o勻",
+    "class": "209",
+    "seat": 2
+  },
+  {
+    "student_id": "410433",
+    "name": "徐o臻",
+    "class": "209",
+    "seat": 3
+  },
+  {
+    "student_id": "410042",
+    "name": "張o涵",
+    "class": "209",
+    "seat": 4
+  },
+  {
+    "student_id": "410253",
+    "name": "張o心",
+    "class": "209",
+    "seat": 5
+  },
+  {
+    "student_id": "410012",
+    "name": "曾o晴",
+    "class": "209",
+    "seat": 6
+  },
+  {
+    "student_id": "410015",
+    "name": "鄭o琰",
+    "class": "209",
+    "seat": 7
+  },
+  {
+    "student_id": "410547",
+    "name": "鄭o淇",
+    "class": "209",
+    "seat": 8
+  },
+  {
+    "student_id": "410016",
+    "name": "盧o喬",
+    "class": "209",
+    "seat": 9
+  },
+  {
+    "student_id": "410477",
+    "name": "賴o曦",
+    "class": "209",
+    "seat": 10
+  },
+  {
+    "student_id": "410123",
+    "name": "朱o霆",
+    "class": "209",
+    "seat": 11
+  },
+  {
+    "student_id": "410652",
+    "name": "吳o宏",
+    "class": "209",
+    "seat": 12
+  },
+  {
+    "student_id": "410264",
+    "name": "巫o宇",
+    "class": "209",
+    "seat": 13
+  },
+  {
+    "student_id": "410554",
+    "name": "李o頡",
+    "class": "209",
+    "seat": 14
+  },
+  {
+    "student_id": "410590",
+    "name": "易o雋",
+    "class": "209",
+    "seat": 15
+  },
+  {
+    "student_id": "410375",
+    "name": "林o齊",
+    "class": "209",
+    "seat": 16
+  },
+  {
+    "student_id": "410126",
+    "name": "林o軒",
+    "class": "209",
+    "seat": 17
+  },
+  {
+    "student_id": "410483",
+    "name": "胡o睿",
+    "class": "209",
+    "seat": 18
+  },
+  {
+    "student_id": "410305",
+    "name": "張o睿",
+    "class": "209",
+    "seat": 19
+  },
+  {
+    "student_id": "410094",
+    "name": "許o堯",
+    "class": "209",
+    "seat": 20
+  },
+  {
+    "student_id": "410490",
+    "name": "郭o甫",
+    "class": "209",
+    "seat": 21
+  },
+  {
+    "student_id": "410341",
+    "name": "陳o軍",
+    "class": "209",
+    "seat": 22
+  },
+  {
+    "student_id": "410415",
+    "name": "陳o宏",
+    "class": "209",
+    "seat": 23
+  },
+  {
+    "student_id": "410596",
+    "name": "陳o程",
+    "class": "209",
+    "seat": 24
+  },
+  {
+    "student_id": "410382",
+    "name": "陳o桓",
+    "class": "209",
+    "seat": 25
+  },
+  {
+    "student_id": "410342",
+    "name": "陳o德",
+    "class": "209",
+    "seat": 26
+  },
+  {
+    "student_id": "410135",
+    "name": "彭o烽",
+    "class": "209",
+    "seat": 27
+  },
+  {
+    "student_id": "410271",
+    "name": "曾o濬",
+    "class": "209",
+    "seat": 28
+  },
+  {
+    "student_id": "410346",
+    "name": "黃o家",
+    "class": "209",
+    "seat": 29
+  },
+  {
+    "student_id": "410205",
+    "name": "楊o丞",
+    "class": "209",
+    "seat": 30
+  },
+  {
+    "student_id": "410027",
+    "name": "楊o博",
+    "class": "209",
+    "seat": 31
+  },
+  {
+    "student_id": "410028",
+    "name": "葉o均",
+    "class": "209",
+    "seat": 32
+  },
+  {
+    "student_id": "410029",
+    "name": "廖o德",
+    "class": "209",
+    "seat": 33
+  },
+  {
+    "student_id": "410064",
+    "name": "趙o辰",
+    "class": "209",
+    "seat": 34
+  },
+  {
+    "student_id": "410457",
+    "name": "鄧o軒",
+    "class": "209",
+    "seat": 35
+  },
+  {
+    "student_id": "410067",
+    "name": "鄭o淵",
+    "class": "209",
+    "seat": 36
+  },
+  {
+    "student_id": "410458",
+    "name": "蕭o愷",
+    "class": "209",
+    "seat": 37
+  },
+  {
+    "student_id": "410695",
+    "name": "李o婕",
+    "class": "210",
+    "seat": 1
+  },
+  {
+    "student_id": "410611",
+    "name": "林o彤",
+    "class": "210",
+    "seat": 2
+  },
+  {
+    "student_id": "410467",
+    "name": "林o羽",
+    "class": "210",
+    "seat": 3
+  },
+  {
+    "student_id": "410113",
+    "name": "唐o樂",
+    "class": "210",
+    "seat": 4
+  },
+  {
+    "student_id": "410078",
+    "name": "徐o歆",
+    "class": "210",
+    "seat": 5
+  },
+  {
+    "student_id": "410117",
+    "name": "莊o綾",
+    "class": "210",
+    "seat": 6
+  },
+  {
+    "student_id": "410325",
+    "name": "許o瑜",
+    "class": "210",
+    "seat": 7
+  },
+  {
+    "student_id": "410045",
+    "name": "黃o蘋",
+    "class": "210",
+    "seat": 8
+  },
+  {
+    "student_id": "410618",
+    "name": "楊o妗",
+    "class": "210",
+    "seat": 9
+  },
+  {
+    "student_id": "410404",
+    "name": "劉o瑜",
+    "class": "210",
+    "seat": 10
+  },
+  {
+    "student_id": "410406",
+    "name": "劉o彤",
+    "class": "210",
+    "seat": 11
+  },
+  {
+    "student_id": "410263",
+    "name": "吳o宇",
+    "class": "210",
+    "seat": 12
+  },
+  {
+    "student_id": "410552",
+    "name": "吳o睿",
+    "class": "210",
+    "seat": 13
+  },
+  {
+    "student_id": "410587",
+    "name": "宋o",
+    "class": "210",
+    "seat": 14
+  },
+  {
+    "student_id": "410055",
+    "name": "巫o恩",
+    "class": "210",
+    "seat": 15
+  },
+  {
+    "student_id": "410021",
+    "name": "李o勳",
+    "class": "210",
+    "seat": 16
+  },
+  {
+    "student_id": "410266",
+    "name": "林o晟",
+    "class": "210",
+    "seat": 17
+  },
+  {
+    "student_id": "410340",
+    "name": "林o宜",
+    "class": "210",
+    "seat": 18
+  },
+  {
+    "student_id": "410196",
+    "name": "徐o軒",
+    "class": "210",
+    "seat": 19
+  },
+  {
+    "student_id": "410198",
+    "name": "張o碩",
+    "class": "210",
+    "seat": 20
+  },
+  {
+    "student_id": "410522",
+    "name": "張o捷",
+    "class": "210",
+    "seat": 21
+  },
+  {
+    "student_id": "410448",
+    "name": "張o恩",
+    "class": "210",
+    "seat": 22
+  },
+  {
+    "student_id": "410200",
+    "name": "梁o",
+    "class": "210",
+    "seat": 23
+  },
+  {
+    "student_id": "410450",
+    "name": "莊o安",
+    "class": "210",
+    "seat": 24
+  },
+  {
+    "student_id": "410272",
+    "name": "曾o宸",
+    "class": "210",
+    "seat": 25
+  },
+  {
+    "student_id": "410638",
+    "name": "曾o康",
+    "class": "210",
+    "seat": 26
+  },
+  {
+    "student_id": "410308",
+    "name": "曾o寧",
+    "class": "210",
+    "seat": 27
+  },
+  {
+    "student_id": "410385",
+    "name": "黃o宇",
+    "class": "210",
+    "seat": 28
+  },
+  {
+    "student_id": "410065",
+    "name": "劉o諺",
+    "class": "210",
+    "seat": 29
+  },
+  {
+    "student_id": "410456",
+    "name": "歐o旻澤",
+    "class": "210",
+    "seat": 30
+  },
+  {
+    "student_id": "410207",
+    "name": "潘o維",
+    "class": "210",
+    "seat": 31
+  },
+  {
+    "student_id": "410032",
+    "name": "蔡o恩",
+    "class": "210",
+    "seat": 32
+  },
+  {
+    "student_id": "410140",
+    "name": "鄭o翔",
+    "class": "210",
+    "seat": 33
+  },
+  {
+    "student_id": "410569",
+    "name": "鄭o威",
+    "class": "210",
+    "seat": 34
+  },
+  {
+    "student_id": "410279",
+    "name": "賴o哲",
+    "class": "210",
+    "seat": 35
+  },
+  {
+    "student_id": "410068",
+    "name": "鍾o晟",
+    "class": "210",
+    "seat": 36
+  },
+  {
+    "student_id": "410069",
+    "name": "鍾o均",
+    "class": "210",
+    "seat": 37
+  },
+  {
+    "student_id": "410210",
+    "name": "龔o崴",
+    "class": "210",
+    "seat": 38
+  },
+  {
+    "student_id": "410462",
+    "name": "朱o妘",
+    "class": "211",
+    "seat": 1
+  },
+  {
+    "student_id": "410354",
+    "name": "江o",
+    "class": "211",
+    "seat": 2
+  },
+  {
+    "student_id": "410429",
+    "name": "吳o廷",
+    "class": "211",
+    "seat": 3
+  },
+  {
+    "student_id": "410284",
+    "name": "吳o文",
+    "class": "211",
+    "seat": 4
+  },
+  {
+    "student_id": "410107",
+    "name": "李o涵",
+    "class": "211",
+    "seat": 5
+  },
+  {
+    "student_id": "410075",
+    "name": "李o柔",
+    "class": "211",
+    "seat": 6
+  },
+  {
+    "student_id": "410036",
+    "name": "李o妮",
+    "class": "211",
+    "seat": 7
+  },
+  {
+    "student_id": "410144",
+    "name": "李o沂",
+    "class": "211",
+    "seat": 8
+  },
+  {
+    "student_id": "410609",
+    "name": "李o菱",
+    "class": "211",
+    "seat": 9
+  },
+  {
+    "student_id": "410007",
+    "name": "胡o柔",
+    "class": "211",
+    "seat": 10
+  },
+  {
+    "student_id": "410507",
+    "name": "傅o琪",
+    "class": "211",
+    "seat": 11
+  },
+  {
+    "student_id": "410438",
+    "name": "曾o瑄",
+    "class": "211",
+    "seat": 12
+  },
+  {
+    "student_id": "410220",
+    "name": "黃o溱",
+    "class": "211",
+    "seat": 13
+  },
+  {
+    "student_id": "410366",
+    "name": "黃o昀",
+    "class": "211",
+    "seat": 14
+  },
+  {
+    "student_id": "410368",
+    "name": "廖o暄",
+    "class": "211",
+    "seat": 15
+  },
+  {
+    "student_id": "410544",
+    "name": "趙o媗",
+    "class": "211",
+    "seat": 16
+  },
+  {
+    "student_id": "410084",
+    "name": "劉o葳",
+    "class": "211",
+    "seat": 17
+  },
+  {
+    "student_id": "410442",
+    "name": "鄭o臻",
+    "class": "211",
+    "seat": 18
+  },
+  {
+    "student_id": "410476",
+    "name": "盧o溱",
+    "class": "211",
+    "seat": 19
+  },
+  {
+    "student_id": "410551",
+    "name": "毛o淵",
+    "class": "211",
+    "seat": 20
+  },
+  {
+    "student_id": "410122",
+    "name": "王o宇",
+    "class": "211",
+    "seat": 21
+  },
+  {
+    "student_id": "410336",
+    "name": "朱o正",
+    "class": "211",
+    "seat": 22
+  },
+  {
+    "student_id": "410088",
+    "name": "江o恩",
+    "class": "211",
+    "seat": 23
+  },
+  {
+    "student_id": "410229",
+    "name": "李o軒",
+    "class": "211",
+    "seat": 24
+  },
+  {
+    "student_id": "410339",
+    "name": "林o宇",
+    "class": "211",
+    "seat": 25
+  },
+  {
+    "student_id": "410446",
+    "name": "姜o祐",
+    "class": "211",
+    "seat": 26
+  },
+  {
+    "student_id": "410234",
+    "name": "張o華",
+    "class": "211",
+    "seat": 27
+  },
+  {
+    "student_id": "410561",
+    "name": "陳o嘉",
+    "class": "211",
+    "seat": 28
+  },
+  {
+    "student_id": "410527",
+    "name": "楊o",
+    "class": "211",
+    "seat": 29
+  },
+  {
+    "student_id": "410275",
+    "name": "楊o捷",
+    "class": "211",
+    "seat": 30
+  },
+  {
+    "student_id": "410172",
+    "name": "葉o寬",
+    "class": "211",
+    "seat": 31
+  },
+  {
+    "student_id": "410567",
+    "name": "蔡o志",
+    "class": "211",
+    "seat": 32
+  },
+  {
+    "student_id": "410422",
+    "name": "賴o旻",
+    "class": "211",
+    "seat": 33
+  },
+  {
+    "student_id": "410175",
+    "name": "顏o澄",
+    "class": "211",
+    "seat": 34
+  },
+  {
+    "student_id": "410072",
+    "name": "吳o樺",
+    "class": "212",
+    "seat": 1
+  },
+  {
+    "student_id": "410572",
+    "name": "李o羽",
+    "class": "212",
+    "seat": 2
+  },
+  {
+    "student_id": "410248",
+    "name": "周o妤",
+    "class": "212",
+    "seat": 3
+  },
+  {
+    "student_id": "410287",
+    "name": "易o徽",
+    "class": "212",
+    "seat": 4
+  },
+  {
+    "student_id": "410146",
+    "name": "林o妘",
+    "class": "212",
+    "seat": 5
+  },
+  {
+    "student_id": "410612",
+    "name": "林o婕",
+    "class": "212",
+    "seat": 6
+  },
+  {
+    "student_id": "410038",
+    "name": "邱o儀",
+    "class": "212",
+    "seat": 7
+  },
+  {
+    "student_id": "410576",
+    "name": "姜o羽",
+    "class": "212",
+    "seat": 8
+  },
+  {
+    "student_id": "410503",
+    "name": "翁o晨",
+    "class": "212",
+    "seat": 9
+  },
+  {
+    "student_id": "410616",
+    "name": "許o慈",
+    "class": "212",
+    "seat": 10
+  },
+  {
+    "student_id": "410256",
+    "name": "陳o凝",
+    "class": "212",
+    "seat": 11
+  },
+  {
+    "student_id": "410617",
+    "name": "游o綾",
+    "class": "212",
+    "seat": 12
+  },
+  {
+    "student_id": "410327",
+    "name": "湯o翎",
+    "class": "212",
+    "seat": 13
+  },
+  {
+    "student_id": "410082",
+    "name": "馮o安",
+    "class": "212",
+    "seat": 14
+  },
+  {
+    "student_id": "410186",
+    "name": "黃o葳",
+    "class": "212",
+    "seat": 15
+  },
+  {
+    "student_id": "410013",
+    "name": "廖o希",
+    "class": "212",
+    "seat": 16
+  },
+  {
+    "student_id": "410223",
+    "name": "劉o妤",
+    "class": "212",
+    "seat": 17
+  },
+  {
+    "student_id": "410189",
+    "name": "潘o芸",
+    "class": "212",
+    "seat": 18
+  },
+  {
+    "student_id": "410622",
+    "name": "鄧o芯",
+    "class": "212",
+    "seat": 19
+  },
+  {
+    "student_id": "410017",
+    "name": "王o祈",
+    "class": "212",
+    "seat": 20
+  },
+  {
+    "student_id": "410445",
+    "name": "吳o詠",
+    "class": "212",
+    "seat": 21
+  },
+  {
+    "student_id": "410054",
+    "name": "呂o霖",
+    "class": "212",
+    "seat": 22
+  },
+  {
+    "student_id": "410160",
+    "name": "林o淳",
+    "class": "212",
+    "seat": 23
+  },
+  {
+    "student_id": "410162",
+    "name": "姜o智",
+    "class": "212",
+    "seat": 24
+  },
+  {
+    "student_id": "410233",
+    "name": "翁o昌",
+    "class": "212",
+    "seat": 25
+  },
+  {
+    "student_id": "410237",
+    "name": "許o盛",
+    "class": "212",
+    "seat": 26
+  },
+  {
+    "student_id": "410381",
+    "name": "陳o湛",
+    "class": "212",
+    "seat": 27
+  },
+  {
+    "student_id": "410635",
+    "name": "陳o軒",
+    "class": "212",
+    "seat": 28
+  },
+  {
+    "student_id": "410492",
+    "name": "黃o哲",
+    "class": "212",
+    "seat": 29
+  },
+  {
+    "student_id": "410528",
+    "name": "楊o宇",
+    "class": "212",
+    "seat": 30
+  },
+  {
+    "student_id": "410278",
+    "name": "廖o鋒",
+    "class": "212",
+    "seat": 31
+  },
+  {
+    "student_id": "410244",
+    "name": "潘o弘",
+    "class": "212",
+    "seat": 32
+  },
+  {
+    "student_id": "410350",
+    "name": "蔡o宇",
+    "class": "212",
+    "seat": 33
+  },
+  {
+    "student_id": "410424",
+    "name": "謝o桓",
+    "class": "212",
+    "seat": 34
+  },
+  {
+    "student_id": "410425",
+    "name": "譚o傑",
+    "class": "212",
+    "seat": 35
+  },
+  {
+    "student_id": "410570",
+    "name": "吳o萱",
+    "class": "213",
+    "seat": 1
+  },
+  {
+    "student_id": "410319",
+    "name": "呂o琦",
+    "class": "213",
+    "seat": 2
+  },
+  {
+    "student_id": "410286",
+    "name": "李o希",
+    "class": "213",
+    "seat": 3
+  },
+  {
+    "student_id": "410502",
+    "name": "林o威",
+    "class": "213",
+    "seat": 4
+  },
+  {
+    "student_id": "410183",
+    "name": "馬o棻",
+    "class": "213",
+    "seat": 5
+  },
+  {
+    "student_id": "410468",
+    "name": "高o羽",
+    "class": "213",
+    "seat": 6
+  },
+  {
+    "student_id": "410040",
+    "name": "張o潔",
+    "class": "213",
+    "seat": 7
+  },
+  {
+    "student_id": "410363",
+    "name": "張o雅",
+    "class": "213",
+    "seat": 8
+  },
+  {
+    "student_id": "410254",
+    "name": "莊o宜",
+    "class": "213",
+    "seat": 9
+  },
+  {
+    "student_id": "410218",
+    "name": "陳o希",
+    "class": "213",
+    "seat": 10
+  },
+  {
+    "student_id": "410506",
+    "name": "陳o宜",
+    "class": "213",
+    "seat": 11
+  },
+  {
+    "student_id": "410436",
+    "name": "陳o寧",
+    "class": "213",
+    "seat": 12
+  },
+  {
+    "student_id": "410081",
+    "name": "陳o雅",
+    "class": "213",
+    "seat": 13
+  },
+  {
+    "student_id": "410188",
+    "name": "詹o綺",
+    "class": "213",
+    "seat": 14
+  },
+  {
+    "student_id": "410260",
+    "name": "劉o庭",
+    "class": "213",
+    "seat": 15
+  },
+  {
+    "student_id": "410083",
+    "name": "劉o妍",
+    "class": "213",
+    "seat": 16
+  },
+  {
+    "student_id": "410330",
+    "name": "蔡o宸",
+    "class": "213",
+    "seat": 17
+  },
+  {
+    "student_id": "410261",
+    "name": "蕭o潔",
+    "class": "213",
+    "seat": 18
+  },
+  {
+    "student_id": "410086",
+    "name": "謝o芠",
+    "class": "213",
+    "seat": 19
+  },
+  {
+    "student_id": "410300",
+    "name": "余o學",
+    "class": "213",
+    "seat": 20
+  },
+  {
+    "student_id": "410265",
+    "name": "李o源",
+    "class": "213",
+    "seat": 21
+  },
+  {
+    "student_id": "410557",
+    "name": "邱o諭",
+    "class": "213",
+    "seat": 22
+  },
+  {
+    "student_id": "410410",
+    "name": "唐o洋",
+    "class": "213",
+    "seat": 23
+  },
+  {
+    "student_id": "410594",
+    "name": "秦o桀",
+    "class": "213",
+    "seat": 24
+  },
+  {
+    "student_id": "410523",
+    "name": "莊o勛",
+    "class": "213",
+    "seat": 25
+  },
+  {
+    "student_id": "410236",
+    "name": "許o廉",
+    "class": "213",
+    "seat": 26
+  },
+  {
+    "student_id": "410167",
+    "name": "陳o語",
+    "class": "213",
+    "seat": 27
+  },
+  {
+    "student_id": "410562",
+    "name": "陳o恩",
+    "class": "213",
+    "seat": 28
+  },
+  {
+    "student_id": "410343",
+    "name": "陳o翰",
+    "class": "213",
+    "seat": 29
+  },
+  {
+    "student_id": "410239",
+    "name": "黃o賜",
+    "class": "213",
+    "seat": 30
+  },
+  {
+    "student_id": "410311",
+    "name": "黃o曄",
+    "class": "213",
+    "seat": 31
+  },
+  {
+    "student_id": "410454",
+    "name": "楊o順",
+    "class": "213",
+    "seat": 32
+  },
+  {
+    "student_id": "410206",
+    "name": "楊o翔",
+    "class": "213",
+    "seat": 33
+  },
+  {
+    "student_id": "410031",
+    "name": "劉o凡",
+    "class": "213",
+    "seat": 34
+  },
+  {
+    "student_id": "410316",
+    "name": "鍾o佑",
+    "class": "213",
+    "seat": 35
+  },
+  {
+    "student_id": "410499",
+    "name": "王o恩",
+    "class": "214",
+    "seat": 1
+  },
+  {
+    "student_id": "410606",
+    "name": "古o香",
+    "class": "214",
+    "seat": 2
+  },
+  {
+    "student_id": "410534",
+    "name": "余o彤",
+    "class": "214",
+    "seat": 3
+  },
+  {
+    "student_id": "410535",
+    "name": "呂o婕",
+    "class": "214",
+    "seat": 4
+  },
+  {
+    "student_id": "410392",
+    "name": "呂o恩",
+    "class": "214",
+    "seat": 5
+  },
+  {
+    "student_id": "410537",
+    "name": "李o妍",
+    "class": "214",
+    "seat": 6
+  },
+  {
+    "student_id": "410214",
+    "name": "林o瑋",
+    "class": "214",
+    "seat": 7
+  },
+  {
+    "student_id": "410362",
+    "name": "邱o庭",
+    "class": "214",
+    "seat": 8
+  },
+  {
+    "student_id": "410008",
+    "name": "孫o縵",
+    "class": "214",
+    "seat": 9
+  },
+  {
+    "student_id": "410474",
+    "name": "黃o安",
+    "class": "214",
+    "seat": 10
+  },
+  {
+    "student_id": "410440",
+    "name": "劉o薰",
+    "class": "214",
+    "seat": 11
+  },
+  {
+    "student_id": "410014",
+    "name": "劉o涵",
+    "class": "214",
+    "seat": 12
+  },
+  {
+    "student_id": "410119",
+    "name": "蔡o潔",
+    "class": "214",
+    "seat": 13
+  },
+  {
+    "student_id": "410297",
+    "name": "蔡o霏",
+    "class": "214",
+    "seat": 14
+  },
+  {
+    "student_id": "410513",
+    "name": "閻o錞",
+    "class": "214",
+    "seat": 15
+  },
+  {
+    "student_id": "410191",
+    "name": "謝o蓉",
+    "class": "214",
+    "seat": 16
+  },
+  {
+    "student_id": "410225",
+    "name": "羅o晴",
+    "class": "214",
+    "seat": 17
+  },
+  {
+    "student_id": "410480",
+    "name": "朱o沅",
+    "class": "214",
+    "seat": 18
+  },
+  {
+    "student_id": "410337",
+    "name": "李o心",
+    "class": "214",
+    "seat": 19
+  },
+  {
+    "student_id": "410408",
+    "name": "李o儒",
+    "class": "214",
+    "seat": 20
+  },
+  {
+    "student_id": "410159",
+    "name": "李o緯",
+    "class": "214",
+    "seat": 21
+  },
+  {
+    "student_id": "410555",
+    "name": "周o鈞",
+    "class": "214",
+    "seat": 22
+  },
+  {
+    "student_id": "410125",
+    "name": "林o益",
+    "class": "214",
+    "seat": 23
+  },
+  {
+    "student_id": "410059",
+    "name": "邱o辰",
+    "class": "214",
+    "seat": 24
+  },
+  {
+    "student_id": "410485",
+    "name": "徐o豪",
+    "class": "214",
+    "seat": 25
+  },
+  {
+    "student_id": "410232",
+    "name": "徐o謙",
+    "class": "214",
+    "seat": 26
+  },
+  {
+    "student_id": "410559",
+    "name": "徐o承",
+    "class": "214",
+    "seat": 27
+  },
+  {
+    "student_id": "410132",
+    "name": "陳o維",
+    "class": "214",
+    "seat": 28
+  },
+  {
+    "student_id": "410170",
+    "name": "黃o誠",
+    "class": "214",
+    "seat": 29
+  },
+  {
+    "student_id": "410173",
+    "name": "詹o博",
+    "class": "214",
+    "seat": 30
+  },
+  {
+    "student_id": "410347",
+    "name": "廖o凱",
+    "class": "214",
+    "seat": 31
+  },
+  {
+    "student_id": "410314",
+    "name": "劉o淮",
+    "class": "214",
+    "seat": 32
+  },
+  {
+    "student_id": "410497",
+    "name": "謝o宥",
+    "class": "214",
+    "seat": 33
+  },
+  {
+    "student_id": "410353",
+    "name": "龔o樺",
+    "class": "214",
+    "seat": 34
+  },
+  {
+    "student_id": "410141",
+    "name": "王o翎",
+    "class": "215",
+    "seat": 1
+  },
+  {
+    "student_id": "410391",
+    "name": "吳o妍",
+    "class": "215",
+    "seat": 2
+  },
+  {
+    "student_id": "410463",
+    "name": "吳o馨",
+    "class": "215",
+    "seat": 3
+  },
+  {
+    "student_id": "410355",
+    "name": "吳o璇",
+    "class": "215",
+    "seat": 4
+  },
+  {
+    "student_id": "410500",
+    "name": "呂o妤",
+    "class": "215",
+    "seat": 5
+  },
+  {
+    "student_id": "410213",
+    "name": "杜o芝",
+    "class": "215",
+    "seat": 6
+  },
+  {
+    "student_id": "410357",
+    "name": "周o蓁",
+    "class": "215",
+    "seat": 7
+  },
+  {
+    "student_id": "410358",
+    "name": "林o眞",
+    "class": "215",
+    "seat": 8
+  },
+  {
+    "student_id": "410610",
+    "name": "林o妤",
+    "class": "215",
+    "seat": 9
+  },
+  {
+    "student_id": "410181",
+    "name": "邱o涵",
+    "class": "215",
+    "seat": 10
+  },
+  {
+    "student_id": "410215",
+    "name": "洪o妮",
+    "class": "215",
+    "seat": 11
+  },
+  {
+    "student_id": "410009",
+    "name": "高o茜",
+    "class": "215",
+    "seat": 12
+  },
+  {
+    "student_id": "410326",
+    "name": "陸o彤",
+    "class": "215",
+    "seat": 13
+  },
+  {
+    "student_id": "410439",
+    "name": "楊o璿",
+    "class": "215",
+    "seat": 14
+  },
+  {
+    "student_id": "410049",
+    "name": "賴o潼",
+    "class": "215",
+    "seat": 15
+  },
+  {
+    "student_id": "410548",
+    "name": "謝o諾",
+    "class": "215",
+    "seat": 16
+  },
+  {
+    "student_id": "410121",
+    "name": "謝o柔",
+    "class": "215",
+    "seat": 17
+  },
+  {
+    "student_id": "410549",
+    "name": "鍾o庭",
+    "class": "215",
+    "seat": 18
+  },
+  {
+    "student_id": "410370",
+    "name": "藍o茜",
+    "class": "215",
+    "seat": 19
+  },
+  {
+    "student_id": "410373",
+    "name": "李o堯",
+    "class": "215",
+    "seat": 20
+  },
+  {
+    "student_id": "410374",
+    "name": "卓o鞍",
+    "class": "215",
+    "seat": 21
+  },
+  {
+    "student_id": "410023",
+    "name": "周o廷",
+    "class": "215",
+    "seat": 22
+  },
+  {
+    "student_id": "410166",
+    "name": "張o誠",
+    "class": "215",
+    "seat": 23
+  },
+  {
+    "student_id": "410595",
+    "name": "陳o",
+    "class": "215",
+    "seat": 24
+  },
+  {
+    "student_id": "410025",
+    "name": "陳o鳴",
+    "class": "215",
+    "seat": 25
+  },
+  {
+    "student_id": "410201",
+    "name": "陳o明",
+    "class": "215",
+    "seat": 26
+  },
+  {
+    "student_id": "410344",
+    "name": "陳o騏",
+    "class": "215",
+    "seat": 27
+  },
+  {
+    "student_id": "410637",
+    "name": "陳o宇",
+    "class": "215",
+    "seat": 28
+  },
+  {
+    "student_id": "410169",
+    "name": "須o乂",
+    "class": "215",
+    "seat": 29
+  },
+  {
+    "student_id": "410204",
+    "name": "黃o宥",
+    "class": "215",
+    "seat": 30
+  },
+  {
+    "student_id": "410063",
+    "name": "葉o睿",
+    "class": "215",
+    "seat": 31
+  },
+  {
+    "student_id": "410277",
+    "name": "雷o仙",
+    "class": "215",
+    "seat": 32
+  },
+  {
+    "student_id": "410030",
+    "name": "劉o馻",
+    "class": "215",
+    "seat": 33
+  },
+  {
+    "student_id": "410495",
+    "name": "賴o榆",
+    "class": "215",
+    "seat": 34
+  },
+  {
+    "student_id": "410035",
+    "name": "羅o宏",
+    "class": "215",
+    "seat": 35
+  },
+  {
+    "student_id": "410211",
+    "name": "古o諠",
+    "class": "216",
+    "seat": 1
+  },
+  {
+    "student_id": "410426",
+    "name": "朱o縈",
+    "class": "216",
+    "seat": 2
+  },
+  {
+    "student_id": "410142",
+    "name": "吳o廷",
+    "class": "216",
+    "seat": 3
+  },
+  {
+    "student_id": "410356",
+    "name": "呂o靜",
+    "class": "216",
+    "seat": 4
+  },
+  {
+    "student_id": "410322",
+    "name": "辛o綾",
+    "class": "216",
+    "seat": 5
+  },
+  {
+    "student_id": "410465",
+    "name": "林o諾",
+    "class": "216",
+    "seat": 6
+  },
+  {
+    "student_id": "410539",
+    "name": "林o妤",
+    "class": "216",
+    "seat": 7
+  },
+  {
+    "student_id": "410112",
+    "name": "胡o捷",
+    "class": "216",
+    "seat": 8
+  },
+  {
+    "student_id": "410288",
+    "name": "張o鈴",
+    "class": "216",
+    "seat": 9
+  },
+  {
+    "student_id": "410504",
+    "name": "張o維",
+    "class": "216",
+    "seat": 10
+  },
+  {
+    "student_id": "410116",
+    "name": "張o瑄",
+    "class": "216",
+    "seat": 11
+  },
+  {
+    "student_id": "410080",
+    "name": "張o涵",
+    "class": "216",
+    "seat": 12
+  },
+  {
+    "student_id": "410043",
+    "name": "陳o伊",
+    "class": "216",
+    "seat": 13
+  },
+  {
+    "student_id": "410290",
+    "name": "陳o羽",
+    "class": "216",
+    "seat": 14
+  },
+  {
+    "student_id": "410296",
+    "name": "廖o妮",
+    "class": "216",
+    "seat": 15
+  },
+  {
+    "student_id": "410546",
+    "name": "劉o岑",
+    "class": "216",
+    "seat": 16
+  },
+  {
+    "student_id": "410475",
+    "name": "蔡o珊",
+    "class": "216",
+    "seat": 17
+  },
+  {
+    "student_id": "410085",
+    "name": "蔡o庭",
+    "class": "216",
+    "seat": 18
+  },
+  {
+    "student_id": "410371",
+    "name": "王o仁",
+    "class": "216",
+    "seat": 19
+  },
+  {
+    "student_id": "410228",
+    "name": "吳o廣",
+    "class": "216",
+    "seat": 20
+  },
+  {
+    "student_id": "410625",
+    "name": "李o朔",
+    "class": "216",
+    "seat": 21
+  },
+  {
+    "student_id": "410304",
+    "name": "林o佑",
+    "class": "216",
+    "seat": 22
+  },
+  {
+    "student_id": "410631",
+    "name": "林o岑",
+    "class": "216",
+    "seat": 23
+  },
+  {
+    "student_id": "410591",
+    "name": "林o峸",
+    "class": "216",
+    "seat": 24
+  },
+  {
+    "student_id": "410592",
+    "name": "邱o桐",
+    "class": "216",
+    "seat": 25
+  },
+  {
+    "student_id": "410379",
+    "name": "莊o弘",
+    "class": "216",
+    "seat": 26
+  },
+  {
+    "student_id": "410060",
+    "name": "許o睿",
+    "class": "216",
+    "seat": 27
+  },
+  {
+    "student_id": "410451",
+    "name": "郭o安",
+    "class": "216",
+    "seat": 28
+  },
+  {
+    "student_id": "410095",
+    "name": "陳o羽",
+    "class": "216",
+    "seat": 29
+  },
+  {
+    "student_id": "410383",
+    "name": "陳o勛",
+    "class": "216",
+    "seat": 30
+  },
+  {
+    "student_id": "410599",
+    "name": "曾o格",
+    "class": "216",
+    "seat": 31
+  },
+  {
+    "student_id": "410491",
+    "name": "黃o揚",
+    "class": "216",
+    "seat": 32
+  },
+  {
+    "student_id": "410384",
+    "name": "黃o樂",
+    "class": "216",
+    "seat": 33
+  },
+  {
+    "student_id": "410243",
+    "name": "劉o宸",
+    "class": "216",
+    "seat": 34
+  },
+  {
+    "student_id": "410033",
+    "name": "盧o耘",
+    "class": "216",
+    "seat": 35
+  },
+  {
+    "student_id": "410538",
+    "name": "李o涵",
+    "class": "217",
+    "seat": 1
+  },
+  {
+    "student_id": "410005",
+    "name": "林o辰",
+    "class": "217",
+    "seat": 2
+  },
+  {
+    "student_id": "410039",
+    "name": "邱o涵",
+    "class": "217",
+    "seat": 3
+  },
+  {
+    "student_id": "410182",
+    "name": "范o喧",
+    "class": "217",
+    "seat": 4
+  },
+  {
+    "student_id": "410541",
+    "name": "張o芸",
+    "class": "217",
+    "seat": 5
+  },
+  {
+    "student_id": "410508",
+    "name": "湯o淳",
+    "class": "217",
+    "seat": 6
+  },
+  {
+    "student_id": "410258",
+    "name": "黃o榆",
+    "class": "217",
+    "seat": 7
+  },
+  {
+    "student_id": "410292",
+    "name": "黃o淳",
+    "class": "217",
+    "seat": 8
+  },
+  {
+    "student_id": "410293",
+    "name": "黃o璇",
+    "class": "217",
+    "seat": 9
+  },
+  {
+    "student_id": "410221",
+    "name": "楊o溱",
+    "class": "217",
+    "seat": 10
+  },
+  {
+    "student_id": "410582",
+    "name": "楊o婕",
+    "class": "217",
+    "seat": 11
+  },
+  {
+    "student_id": "410294",
+    "name": "廖o涵",
+    "class": "217",
+    "seat": 12
+  },
+  {
+    "student_id": "410295",
+    "name": "廖o嫻",
+    "class": "217",
+    "seat": 13
+  },
+  {
+    "student_id": "410259",
+    "name": "劉o慈",
+    "class": "217",
+    "seat": 14
+  },
+  {
+    "student_id": "410621",
+    "name": "蔡o涵",
+    "class": "217",
+    "seat": 15
+  },
+  {
+    "student_id": "410048",
+    "name": "蕭o純",
+    "class": "217",
+    "seat": 16
+  },
+  {
+    "student_id": "410585",
+    "name": "羅o娟",
+    "class": "217",
+    "seat": 17
+  },
+  {
+    "student_id": "410298",
+    "name": "王o麟",
+    "class": "217",
+    "seat": 18
+  },
+  {
+    "student_id": "410053",
+    "name": "余o宥",
+    "class": "217",
+    "seat": 19
+  },
+  {
+    "student_id": "410192",
+    "name": "吳o華",
+    "class": "217",
+    "seat": 20
+  },
+  {
+    "student_id": "410019",
+    "name": "吳o恩",
+    "class": "217",
+    "seat": 21
+  },
+  {
+    "student_id": "410020",
+    "name": "宋o承",
+    "class": "217",
+    "seat": 22
+  },
+  {
+    "student_id": "410654",
+    "name": "施o劭",
+    "class": "217",
+    "seat": 23
+  },
+  {
+    "student_id": "410231",
+    "name": "洪o晨",
+    "class": "217",
+    "seat": 24
+  },
+  {
+    "student_id": "410521",
+    "name": "涂o軒",
+    "class": "217",
+    "seat": 25
+  },
+  {
+    "student_id": "410235",
+    "name": "莊o庭",
+    "class": "217",
+    "seat": 26
+  },
+  {
+    "student_id": "410636",
+    "name": "陳o宥",
+    "class": "217",
+    "seat": 27
+  },
+  {
+    "student_id": "410134",
+    "name": "傅o恆",
+    "class": "217",
+    "seat": 28
+  },
+  {
+    "student_id": "410026",
+    "name": "彭o彰",
+    "class": "217",
+    "seat": 29
+  },
+  {
+    "student_id": "410240",
+    "name": "黃o維",
+    "class": "217",
+    "seat": 30
+  },
+  {
+    "student_id": "410419",
+    "name": "楊o諺",
+    "class": "217",
+    "seat": 31
+  },
+  {
+    "student_id": "410640",
+    "name": "廖o誠",
+    "class": "217",
+    "seat": 32
+  },
+  {
+    "student_id": "410349",
+    "name": "劉o銨",
+    "class": "217",
+    "seat": 33
+  },
+  {
+    "student_id": "410387",
+    "name": "蔡o洲",
+    "class": "217",
+    "seat": 34
+  },
+  {
+    "student_id": "410498",
+    "name": "王o潔",
+    "class": "218",
+    "seat": 1
+  },
+  {
+    "student_id": "410002",
+    "name": "王o方",
+    "class": "218",
+    "seat": 2
+  },
+  {
+    "student_id": "410608",
+    "name": "巫o",
+    "class": "218",
+    "seat": 3
+  },
+  {
+    "student_id": "410360",
+    "name": "林o妤",
+    "class": "218",
+    "seat": 4
+  },
+  {
+    "student_id": "410077",
+    "name": "林o閔",
+    "class": "218",
+    "seat": 5
+  },
+  {
+    "student_id": "410251",
+    "name": "張o瑜",
+    "class": "218",
+    "seat": 6
+  },
+  {
+    "student_id": "410397",
+    "name": "張o萱",
+    "class": "218",
+    "seat": 7
+  },
+  {
+    "student_id": "410398",
+    "name": "許o希",
+    "class": "218",
+    "seat": 8
+  },
+  {
+    "student_id": "410470",
+    "name": "陳o寧",
+    "class": "218",
+    "seat": 9
+  },
+  {
+    "student_id": "410581",
+    "name": "湯o婷",
+    "class": "218",
+    "seat": 10
+  },
+  {
+    "student_id": "410187",
+    "name": "黃o瑜",
+    "class": "218",
+    "seat": 11
+  },
+  {
+    "student_id": "410510",
+    "name": "劉o伶",
+    "class": "218",
+    "seat": 12
+  },
+  {
+    "student_id": "410120",
+    "name": "蔡o潔",
+    "class": "218",
+    "seat": 13
+  },
+  {
+    "student_id": "410583",
+    "name": "鄭o真",
+    "class": "218",
+    "seat": 14
+  },
+  {
+    "student_id": "410550",
+    "name": "鍾o安",
+    "class": "218",
+    "seat": 15
+  },
+  {
+    "student_id": "410478",
+    "name": "羅o芸",
+    "class": "218",
+    "seat": 16
+  },
+  {
+    "student_id": "410334",
+    "name": "鐘o怡",
+    "class": "218",
+    "seat": 17
+  },
+  {
+    "student_id": "410052",
+    "name": "王o丞",
+    "class": "218",
+    "seat": 18
+  },
+  {
+    "student_id": "410697",
+    "name": "吳o洲",
+    "class": "218",
+    "seat": 19
+  },
+  {
+    "student_id": "410302",
+    "name": "宋o耘",
+    "class": "218",
+    "seat": 20
+  },
+  {
+    "student_id": "410553",
+    "name": "李o強",
+    "class": "218",
+    "seat": 21
+  },
+  {
+    "student_id": "410338",
+    "name": "李o祐",
+    "class": "218",
+    "seat": 22
+  },
+  {
+    "student_id": "410022",
+    "name": "周o勝",
+    "class": "218",
+    "seat": 23
+  },
+  {
+    "student_id": "410230",
+    "name": "林o鋐",
+    "class": "218",
+    "seat": 24
+  },
+  {
+    "student_id": "410558",
+    "name": "徐o御",
+    "class": "218",
+    "seat": 25
+  },
+  {
+    "student_id": "410164",
+    "name": "張o瀚",
+    "class": "218",
+    "seat": 26
+  },
+  {
+    "student_id": "410165",
+    "name": "張o承",
+    "class": "218",
+    "seat": 27
+  },
+  {
+    "student_id": "410412",
+    "name": "張o丞",
+    "class": "218",
+    "seat": 28
+  },
+  {
+    "student_id": "410601",
+    "name": "馮o凡",
+    "class": "218",
+    "seat": 29
+  },
+  {
+    "student_id": "410242",
+    "name": "楊o翰",
+    "class": "218",
+    "seat": 30
+  },
+  {
+    "student_id": "410566",
+    "name": "劉o元",
+    "class": "218",
+    "seat": 31
+  },
+  {
+    "student_id": "410531",
+    "name": "劉o宥",
+    "class": "218",
+    "seat": 32
+  },
+  {
+    "student_id": "410034",
+    "name": "簡o淇",
+    "class": "218",
+    "seat": 33
+  },
+  {
+    "student_id": "410245",
+    "name": "羅o哲",
+    "class": "218",
+    "seat": 34
+  },
+  {
+    "student_id": "410642",
+    "name": "林o蓉",
+    "class": "219",
+    "seat": 1
+  },
+  {
+    "student_id": "410643",
+    "name": "張o緹",
+    "class": "219",
+    "seat": 2
+  },
+  {
+    "student_id": "410644",
+    "name": "郭o彤",
+    "class": "219",
+    "seat": 3
+  },
+  {
+    "student_id": "410645",
+    "name": "馮o雲",
+    "class": "219",
+    "seat": 4
+  },
+  {
+    "student_id": "410646",
+    "name": "鄒o慈",
+    "class": "219",
+    "seat": 5
+  },
+  {
+    "student_id": "410647",
+    "name": "鐘o恩",
+    "class": "219",
+    "seat": 6
+  },
+  {
+    "student_id": "410648",
+    "name": "方o偉",
+    "class": "219",
+    "seat": 7
+  },
+  {
+    "student_id": "410649",
+    "name": "王o丞",
+    "class": "219",
+    "seat": 8
+  },
+  {
+    "student_id": "410650",
+    "name": "王o謀",
+    "class": "219",
+    "seat": 9
+  },
+  {
+    "student_id": "410651",
+    "name": "吳o毅",
+    "class": "219",
+    "seat": 10
+  },
+  {
+    "student_id": "410653",
+    "name": "林o宇",
+    "class": "219",
+    "seat": 12
+  },
+  {
+    "student_id": "410655",
+    "name": "張o啟",
+    "class": "219",
+    "seat": 14
+  },
+  {
+    "student_id": "410656",
+    "name": "曹o宸",
+    "class": "219",
+    "seat": 15
+  },
+  {
+    "student_id": "410657",
+    "name": "許o齊",
+    "class": "219",
+    "seat": 16
+  },
+  {
+    "student_id": "410658",
+    "name": "郭o翔",
+    "class": "219",
+    "seat": 17
+  },
+  {
+    "student_id": "410659",
+    "name": "陳o禾",
+    "class": "219",
+    "seat": 18
+  },
+  {
+    "student_id": "410660",
+    "name": "陳o翰",
+    "class": "219",
+    "seat": 19
+  },
+  {
+    "student_id": "410661",
+    "name": "陳o錡",
+    "class": "219",
+    "seat": 20
+  },
+  {
+    "student_id": "410662",
+    "name": "單o誠",
+    "class": "219",
+    "seat": 21
+  },
+  {
+    "student_id": "410663",
+    "name": "曾o恩",
+    "class": "219",
+    "seat": 22
+  },
+  {
+    "student_id": "410664",
+    "name": "黃o恆",
+    "class": "219",
+    "seat": 23
+  },
+  {
+    "student_id": "410665",
+    "name": "劉o凱",
+    "class": "219",
+    "seat": 24
+  },
+  {
+    "student_id": "410666",
+    "name": "潘o穎",
+    "class": "219",
+    "seat": 25
+  },
+  {
+    "student_id": "410667",
+    "name": "蔡o恩",
+    "class": "219",
+    "seat": 26
+  },
+  {
+    "student_id": "410668",
+    "name": "謝o恩",
+    "class": "219",
+    "seat": 27
+  },
+  {
+    "student_id": "410669",
+    "name": "鍾o翰",
+    "class": "219",
+    "seat": 28
+  },
+  {
+    "student_id": "410670",
+    "name": "龔o鈞",
+    "class": "219",
+    "seat": 29
+  },
+  {
+    "student_id": "410671",
+    "name": "孔o硯",
+    "class": "220",
+    "seat": 1
+  },
+  {
+    "student_id": "410672",
+    "name": "尤o恬",
+    "class": "220",
+    "seat": 2
+  },
+  {
+    "student_id": "410673",
+    "name": "方o蓉",
+    "class": "220",
+    "seat": 3
+  },
+  {
+    "student_id": "410674",
+    "name": "吳o穎",
+    "class": "220",
+    "seat": 4
+  },
+  {
+    "student_id": "410675",
+    "name": "呂o芯",
+    "class": "220",
+    "seat": 5
+  },
+  {
+    "student_id": "410676",
+    "name": "邱o岑",
+    "class": "220",
+    "seat": 6
+  },
+  {
+    "student_id": "410677",
+    "name": "范o瑄",
+    "class": "220",
+    "seat": 7
+  },
+  {
+    "student_id": "410678",
+    "name": "張o涵",
+    "class": "220",
+    "seat": 8
+  },
+  {
+    "student_id": "410679",
+    "name": "陳o娜",
+    "class": "220",
+    "seat": 9
+  },
+  {
+    "student_id": "410680",
+    "name": "陳o蓁",
+    "class": "220",
+    "seat": 10
+  },
+  {
+    "student_id": "410682",
+    "name": "楊o萁",
+    "class": "220",
+    "seat": 12
+  },
+  {
+    "student_id": "410683",
+    "name": "葉o昕",
+    "class": "220",
+    "seat": 13
+  },
+  {
+    "student_id": "410684",
+    "name": "蔡o婷",
+    "class": "220",
+    "seat": 14
+  },
+  {
+    "student_id": "410685",
+    "name": "魯o",
+    "class": "220",
+    "seat": 15
+  },
+  {
+    "student_id": "410686",
+    "name": "賴o而",
+    "class": "220",
+    "seat": 16
+  },
+  {
+    "student_id": "410687",
+    "name": "王o丞",
+    "class": "220",
+    "seat": 17
+  },
+  {
+    "student_id": "410688",
+    "name": "吳o杰",
+    "class": "220",
+    "seat": 18
+  },
+  {
+    "student_id": "410689",
+    "name": "林o澤",
+    "class": "220",
+    "seat": 19
+  },
+  {
+    "student_id": "410690",
+    "name": "林o翔",
+    "class": "220",
+    "seat": 20
+  },
+  {
+    "student_id": "410691",
+    "name": "張o陽",
+    "class": "220",
+    "seat": 21
+  },
+  {
+    "student_id": "410692",
+    "name": "黃o",
+    "class": "220",
+    "seat": 22
+  },
+  {
+    "student_id": "310445",
+    "name": "王O甯",
+    "class": "301",
+    "seat": 1
+  },
+  {
+    "student_id": "310519",
+    "name": "王O華",
+    "class": "301",
+    "seat": 2
+  },
+  {
+    "student_id": "310260",
+    "name": "石O璇",
+    "class": "301",
+    "seat": 3
+  },
+  {
+    "student_id": "310224",
+    "name": "吳O琪",
+    "class": "301",
+    "seat": 4
+  },
+  {
+    "student_id": "310226",
+    "name": "林O紜",
+    "class": "301",
+    "seat": 5
+  },
+  {
+    "student_id": "310228",
+    "name": "林O",
+    "class": "301",
+    "seat": 6
+  },
+  {
+    "student_id": "310080",
+    "name": "邱O筠",
+    "class": "301",
+    "seat": 7
+  },
+  {
+    "student_id": "310265",
+    "name": "邱O翎",
+    "class": "301",
+    "seat": 8
+  },
+  {
+    "student_id": "310526",
+    "name": "洪O蓁",
+    "class": "301",
+    "seat": 9
+  },
+  {
+    "student_id": "310450",
+    "name": "張O語",
+    "class": "301",
+    "seat": 10
+  },
+  {
+    "student_id": "310379",
+    "name": "張O涵",
+    "class": "301",
+    "seat": 11
+  },
+  {
+    "student_id": "310007",
+    "name": "陳O蓁",
+    "class": "301",
+    "seat": 12
+  },
+  {
+    "student_id": "310382",
+    "name": "陳O涵",
+    "class": "301",
+    "seat": 13
+  },
+  {
+    "student_id": "310196",
+    "name": "曾O芯",
+    "class": "301",
+    "seat": 14
+  },
+  {
+    "student_id": "310571",
+    "name": "黃O予",
+    "class": "301",
+    "seat": 15
+  },
+  {
+    "student_id": "310347",
+    "name": "劉O凌",
+    "class": "301",
+    "seat": 16
+  },
+  {
+    "student_id": "310162",
+    "name": "劉O姍",
+    "class": "301",
+    "seat": 17
+  },
+  {
+    "student_id": "310386",
+    "name": "賴O芹",
+    "class": "301",
+    "seat": 18
+  },
+  {
+    "student_id": "310201",
+    "name": "賴O祺",
+    "class": "301",
+    "seat": 19
+  },
+  {
+    "student_id": "310612",
+    "name": "簡O芯",
+    "class": "301",
+    "seat": 20
+  },
+  {
+    "student_id": "310314",
+    "name": "文O磊",
+    "class": "301",
+    "seat": 21
+  },
+  {
+    "student_id": "310391",
+    "name": "吳O穆",
+    "class": "301",
+    "seat": 22
+  },
+  {
+    "student_id": "310500",
+    "name": "呂O賢",
+    "class": "301",
+    "seat": 23
+  },
+  {
+    "student_id": "310548",
+    "name": "張O彥",
+    "class": "301",
+    "seat": 24
+  },
+  {
+    "student_id": "310136",
+    "name": "許O奕",
+    "class": "301",
+    "seat": 25
+  },
+  {
+    "student_id": "310399",
+    "name": "郭O廷",
+    "class": "301",
+    "seat": 26
+  },
+  {
+    "student_id": "310434",
+    "name": "游O翔",
+    "class": "301",
+    "seat": 27
+  },
+  {
+    "student_id": "310551",
+    "name": "黃O謙",
+    "class": "301",
+    "seat": 28
+  },
+  {
+    "student_id": "310069",
+    "name": "黃O文",
+    "class": "301",
+    "seat": 29
+  },
+  {
+    "student_id": "310627",
+    "name": "葉O穎",
+    "class": "301",
+    "seat": 30
+  },
+  {
+    "student_id": "310287",
+    "name": "廖O銓",
+    "class": "301",
+    "seat": 31
+  },
+  {
+    "student_id": "310075",
+    "name": "方O甄",
+    "class": "302",
+    "seat": 1
+  },
+  {
+    "student_id": "310448",
+    "name": "吳O珊",
+    "class": "302",
+    "seat": 2
+  },
+  {
+    "student_id": "310633",
+    "name": "吳O寧",
+    "class": "302",
+    "seat": 3
+  },
+  {
+    "student_id": "310263",
+    "name": "李O萱",
+    "class": "302",
+    "seat": 4
+  },
+  {
+    "student_id": "310635",
+    "name": "李O穎",
+    "class": "302",
+    "seat": 5
+  },
+  {
+    "student_id": "310482",
+    "name": "林O婷",
+    "class": "302",
+    "seat": 6
+  },
+  {
+    "student_id": "310525",
+    "name": "邱O甯",
+    "class": "302",
+    "seat": 7
+  },
+  {
+    "student_id": "310412",
+    "name": "姜O涵",
+    "class": "302",
+    "seat": 8
+  },
+  {
+    "student_id": "310566",
+    "name": "徐O希",
+    "class": "302",
+    "seat": 9
+  },
+  {
+    "student_id": "310378",
+    "name": "張O",
+    "class": "302",
+    "seat": 10
+  },
+  {
+    "student_id": "310414",
+    "name": "張O婕",
+    "class": "302",
+    "seat": 11
+  },
+  {
+    "student_id": "310269",
+    "name": "莊O茵",
+    "class": "302",
+    "seat": 12
+  },
+  {
+    "student_id": "310082",
+    "name": "許O安",
+    "class": "302",
+    "seat": 13
+  },
+  {
+    "student_id": "310010",
+    "name": "陳O芸",
+    "class": "302",
+    "seat": 14
+  },
+  {
+    "student_id": "310048",
+    "name": "陳O",
+    "class": "302",
+    "seat": 15
+  },
+  {
+    "student_id": "310605",
+    "name": "黃O盈",
+    "class": "302",
+    "seat": 16
+  },
+  {
+    "student_id": "310126",
+    "name": "鄧O恩",
+    "class": "302",
+    "seat": 17
+  },
+  {
+    "student_id": "310165",
+    "name": "鍾O妤",
+    "class": "302",
+    "seat": 18
+  },
+  {
+    "student_id": "310276",
+    "name": "鍾O玹",
+    "class": "302",
+    "seat": 19
+  },
+  {
+    "student_id": "310351",
+    "name": "呂O麒",
+    "class": "302",
+    "seat": 20
+  },
+  {
+    "student_id": "310468",
+    "name": "李O澄",
+    "class": "302",
+    "seat": 21
+  },
+  {
+    "student_id": "310061",
+    "name": "林O鈞",
+    "class": "302",
+    "seat": 22
+  },
+  {
+    "student_id": "310502",
+    "name": "洪O豪",
+    "class": "302",
+    "seat": 23
+  },
+  {
+    "student_id": "310473",
+    "name": "張O宥",
+    "class": "302",
+    "seat": 24
+  },
+  {
+    "student_id": "310504",
+    "name": "張O顯",
+    "class": "302",
+    "seat": 25
+  },
+  {
+    "student_id": "310400",
+    "name": "陳O庭",
+    "class": "302",
+    "seat": 26
+  },
+  {
+    "student_id": "310363",
+    "name": "陳O凱",
+    "class": "302",
+    "seat": 27
+  },
+  {
+    "student_id": "310292",
+    "name": "賴O宇",
+    "class": "302",
+    "seat": 28
+  },
+  {
+    "student_id": "310630",
+    "name": "戴O祐",
+    "class": "302",
+    "seat": 29
+  },
+  {
+    "student_id": "310480",
+    "name": "鍾O諺",
+    "class": "302",
+    "seat": 30
+  },
+  {
+    "student_id": "310146",
+    "name": "鍾O宸",
+    "class": "302",
+    "seat": 31
+  },
+  {
+    "student_id": "310446",
+    "name": "王O媄",
+    "class": "303",
+    "seat": 1
+  },
+  {
+    "student_id": "310632",
+    "name": "古O琪",
+    "class": "303",
+    "seat": 2
+  },
+  {
+    "student_id": "310041",
+    "name": "何O儒",
+    "class": "303",
+    "seat": 3
+  },
+  {
+    "student_id": "310151",
+    "name": "吳O水",
+    "class": "303",
+    "seat": 4
+  },
+  {
+    "student_id": "310337",
+    "name": "李O臻",
+    "class": "303",
+    "seat": 5
+  },
+  {
+    "student_id": "310560",
+    "name": "李O禎",
+    "class": "303",
+    "seat": 6
+  },
+  {
+    "student_id": "310563",
+    "name": "林O",
+    "class": "303",
+    "seat": 7
+  },
+  {
+    "student_id": "310306",
+    "name": "郭O涵",
+    "class": "303",
+    "seat": 8
+  },
+  {
+    "student_id": "310117",
+    "name": "陳O婷",
+    "class": "303",
+    "seat": 9
+  },
+  {
+    "student_id": "310531",
+    "name": "曾O",
+    "class": "303",
+    "seat": 10
+  },
+  {
+    "student_id": "310458",
+    "name": "温O",
+    "class": "303",
+    "seat": 11
+  },
+  {
+    "student_id": "310642",
+    "name": "黃O畇",
+    "class": "303",
+    "seat": 12
+  },
+  {
+    "student_id": "310643",
+    "name": "黃O穎",
+    "class": "303",
+    "seat": 13
+  },
+  {
+    "student_id": "310494",
+    "name": "黃O曦",
+    "class": "303",
+    "seat": 14
+  },
+  {
+    "student_id": "310607",
+    "name": "楊O喬",
+    "class": "303",
+    "seat": 15
+  },
+  {
+    "student_id": "310383",
+    "name": "楊O鈞",
+    "class": "303",
+    "seat": 16
+  },
+  {
+    "student_id": "310461",
+    "name": "葉O伶",
+    "class": "303",
+    "seat": 17
+  },
+  {
+    "student_id": "310385",
+    "name": "董O宜",
+    "class": "303",
+    "seat": 18
+  },
+  {
+    "student_id": "310572",
+    "name": "蔡O蓁",
+    "class": "303",
+    "seat": 19
+  },
+  {
+    "student_id": "310127",
+    "name": "謝O軒",
+    "class": "303",
+    "seat": 20
+  },
+  {
+    "student_id": "310316",
+    "name": "田O奇",
+    "class": "303",
+    "seat": 21
+  },
+  {
+    "student_id": "310203",
+    "name": "吳O均",
+    "class": "303",
+    "seat": 22
+  },
+  {
+    "student_id": "310578",
+    "name": "呂O顥",
+    "class": "303",
+    "seat": 23
+  },
+  {
+    "student_id": "310432",
+    "name": "馬O均",
+    "class": "303",
+    "seat": 24
+  },
+  {
+    "student_id": "310503",
+    "name": "張O緒",
+    "class": "303",
+    "seat": 25
+  },
+  {
+    "student_id": "310101",
+    "name": "章O瑋",
+    "class": "303",
+    "seat": 26
+  },
+  {
+    "student_id": "310067",
+    "name": "程O元",
+    "class": "303",
+    "seat": 27
+  },
+  {
+    "student_id": "310591",
+    "name": "黃O豪",
+    "class": "303",
+    "seat": 28
+  },
+  {
+    "student_id": "310068",
+    "name": "黃O縉",
+    "class": "303",
+    "seat": 29
+  },
+  {
+    "student_id": "310368",
+    "name": "詹O靖",
+    "class": "303",
+    "seat": 30
+  },
+  {
+    "student_id": "310592",
+    "name": "詹O翰",
+    "class": "303",
+    "seat": 31
+  },
+  {
+    "student_id": "310372",
+    "name": "王O月",
+    "class": "304",
+    "seat": 1
+  },
+  {
+    "student_id": "310559",
+    "name": "吳O綸",
+    "class": "304",
+    "seat": 2
+  },
+  {
+    "student_id": "310521",
+    "name": "呂O緣",
+    "class": "304",
+    "seat": 3
+  },
+  {
+    "student_id": "310411",
+    "name": "林O庭",
+    "class": "304",
+    "seat": 4
+  },
+  {
+    "student_id": "310266",
+    "name": "施O婕",
+    "class": "304",
+    "seat": 5
+  },
+  {
+    "student_id": "310005",
+    "name": "徐O薰",
+    "class": "304",
+    "seat": 6
+  },
+  {
+    "student_id": "310342",
+    "name": "莊O云",
+    "class": "304",
+    "seat": 7
+  },
+  {
+    "student_id": "310193",
+    "name": "郭O綺",
+    "class": "304",
+    "seat": 8
+  },
+  {
+    "student_id": "310194",
+    "name": "陳O潔",
+    "class": "304",
+    "seat": 9
+  },
+  {
+    "student_id": "310419",
+    "name": "陳O禎",
+    "class": "304",
+    "seat": 10
+  },
+  {
+    "student_id": "310009",
+    "name": "陳O欣",
+    "class": "304",
+    "seat": 11
+  },
+  {
+    "student_id": "310012",
+    "name": "陳O珊",
+    "class": "304",
+    "seat": 12
+  },
+  {
+    "student_id": "310421",
+    "name": "黃O寧",
+    "class": "304",
+    "seat": 13
+  },
+  {
+    "student_id": "310644",
+    "name": "黃O璇",
+    "class": "304",
+    "seat": 14
+  },
+  {
+    "student_id": "310570",
+    "name": "黃O琹",
+    "class": "304",
+    "seat": 15
+  },
+  {
+    "student_id": "310645",
+    "name": "黃O湲",
+    "class": "304",
+    "seat": 16
+  },
+  {
+    "student_id": "310423",
+    "name": "楊O彤",
+    "class": "304",
+    "seat": 17
+  },
+  {
+    "student_id": "310311",
+    "name": "劉O語",
+    "class": "304",
+    "seat": 18
+  },
+  {
+    "student_id": "310164",
+    "name": "賴O妤",
+    "class": "304",
+    "seat": 19
+  },
+  {
+    "student_id": "310317",
+    "name": "白O東",
+    "class": "304",
+    "seat": 20
+  },
+  {
+    "student_id": "310499",
+    "name": "吳O澄",
+    "class": "304",
+    "seat": 21
+  },
+  {
+    "student_id": "310060",
+    "name": "孟O耘",
+    "class": "304",
+    "seat": 22
+  },
+  {
+    "student_id": "310209",
+    "name": "邱O儒",
+    "class": "304",
+    "seat": 23
+  },
+  {
+    "student_id": "310177",
+    "name": "徐O宸",
+    "class": "304",
+    "seat": 24
+  },
+  {
+    "student_id": "310100",
+    "name": "曹O杰",
+    "class": "304",
+    "seat": 25
+  },
+  {
+    "student_id": "310325",
+    "name": "許O翔",
+    "class": "304",
+    "seat": 26
+  },
+  {
+    "student_id": "310511",
+    "name": "陳O程",
+    "class": "304",
+    "seat": 27
+  },
+  {
+    "student_id": "310105",
+    "name": "黃O天",
+    "class": "304",
+    "seat": 28
+  },
+  {
+    "student_id": "310072",
+    "name": "葉O淵",
+    "class": "304",
+    "seat": 29
+  },
+  {
+    "student_id": "310664",
+    "name": "詹O宥",
+    "class": "304",
+    "seat": 30
+  },
+  {
+    "student_id": "310443",
+    "name": "羅O均",
+    "class": "304",
+    "seat": 31
+  },
+  {
+    "student_id": "310076",
+    "name": "王O瑛",
+    "class": "305",
+    "seat": 1
+  },
+  {
+    "student_id": "310557",
+    "name": "何O萱",
+    "class": "305",
+    "seat": 2
+  },
+  {
+    "student_id": "310447",
+    "name": "余O沂",
+    "class": "305",
+    "seat": 3
+  },
+  {
+    "student_id": "310449",
+    "name": "吳O潁",
+    "class": "305",
+    "seat": 4
+  },
+  {
+    "student_id": "310262",
+    "name": "呂O筑",
+    "class": "305",
+    "seat": 5
+  },
+  {
+    "student_id": "310374",
+    "name": "李O芹",
+    "class": "305",
+    "seat": 6
+  },
+  {
+    "student_id": "310190",
+    "name": "徐O宸",
+    "class": "305",
+    "seat": 7
+  },
+  {
+    "student_id": "310045",
+    "name": "許O雅",
+    "class": "305",
+    "seat": 8
+  },
+  {
+    "student_id": "310343",
+    "name": "陳O晴",
+    "class": "305",
+    "seat": 9
+  },
+  {
+    "student_id": "310011",
+    "name": "陳O彤",
+    "class": "305",
+    "seat": 10
+  },
+  {
+    "student_id": "310118",
+    "name": "曾O瑄",
+    "class": "305",
+    "seat": 11
+  },
+  {
+    "student_id": "310195",
+    "name": "曾O晴",
+    "class": "305",
+    "seat": 12
+  },
+  {
+    "student_id": "310119",
+    "name": "曾O茹",
+    "class": "305",
+    "seat": 13
+  },
+  {
+    "student_id": "310460",
+    "name": "葉O",
+    "class": "305",
+    "seat": 14
+  },
+  {
+    "student_id": "310495",
+    "name": "葉O熏",
+    "class": "305",
+    "seat": 15
+  },
+  {
+    "student_id": "310609",
+    "name": "鄒O溱",
+    "class": "305",
+    "seat": 16
+  },
+  {
+    "student_id": "310275",
+    "name": "蔡O誼",
+    "class": "305",
+    "seat": 17
+  },
+  {
+    "student_id": "310497",
+    "name": "蔡O文",
+    "class": "305",
+    "seat": 18
+  },
+  {
+    "student_id": "310089",
+    "name": "謝O芸",
+    "class": "305",
+    "seat": 19
+  },
+  {
+    "student_id": "310128",
+    "name": "顏O潔",
+    "class": "305",
+    "seat": 20
+  },
+  {
+    "student_id": "310313",
+    "name": "蘇O瑀",
+    "class": "305",
+    "seat": 21
+  },
+  {
+    "student_id": "310389",
+    "name": "王O鈞",
+    "class": "305",
+    "seat": 22
+  },
+  {
+    "student_id": "310429",
+    "name": "吳O恩",
+    "class": "305",
+    "seat": 23
+  },
+  {
+    "student_id": "310205",
+    "name": "李O翔",
+    "class": "305",
+    "seat": 24
+  },
+  {
+    "student_id": "310430",
+    "name": "紀O任",
+    "class": "305",
+    "seat": 25
+  },
+  {
+    "student_id": "310544",
+    "name": "孫O",
+    "class": "305",
+    "seat": 26
+  },
+  {
+    "student_id": "310505",
+    "name": "莊O曄",
+    "class": "305",
+    "seat": 27
+  },
+  {
+    "student_id": "310587",
+    "name": "陳O仁",
+    "class": "305",
+    "seat": 28
+  },
+  {
+    "student_id": "310590",
+    "name": "彭O璀",
+    "class": "305",
+    "seat": 29
+  },
+  {
+    "student_id": "310285",
+    "name": "游O豪",
+    "class": "305",
+    "seat": 30
+  },
+  {
+    "student_id": "310253",
+    "name": "楊O展",
+    "class": "305",
+    "seat": 31
+  },
+  {
+    "student_id": "310219",
+    "name": "蔡O凱",
+    "class": "305",
+    "seat": 32
+  },
+  {
+    "student_id": "310296",
+    "name": "簡O呈",
+    "class": "305",
+    "seat": 33
+  },
+  {
+    "student_id": "310258",
+    "name": "鎨O奈",
+    "class": "305",
+    "seat": 34
+  },
+  {
+    "student_id": "310077",
+    "name": "王O琪",
+    "class": "306",
+    "seat": 1
+  },
+  {
+    "student_id": "310558",
+    "name": "吳O筠",
+    "class": "306",
+    "seat": 2
+  },
+  {
+    "student_id": "310298",
+    "name": "李O璇",
+    "class": "306",
+    "seat": 3
+  },
+  {
+    "student_id": "310599",
+    "name": "林O孺",
+    "class": "306",
+    "seat": 4
+  },
+  {
+    "student_id": "310114",
+    "name": "林O辰",
+    "class": "306",
+    "seat": 5
+  },
+  {
+    "student_id": "310530",
+    "name": "陳O霏",
+    "class": "306",
+    "seat": 6
+  },
+  {
+    "student_id": "310050",
+    "name": "黃O庭",
+    "class": "306",
+    "seat": 7
+  },
+  {
+    "student_id": "310273",
+    "name": "劉O蕎",
+    "class": "306",
+    "seat": 8
+  },
+  {
+    "student_id": "310534",
+    "name": "鄭O芸",
+    "class": "306",
+    "seat": 9
+  },
+  {
+    "student_id": "310088",
+    "name": "鄭O煖",
+    "class": "306",
+    "seat": 10
+  },
+  {
+    "student_id": "310463",
+    "name": "成O謙",
+    "class": "306",
+    "seat": 11
+  },
+  {
+    "student_id": "310170",
+    "name": "呂O銘",
+    "class": "306",
+    "seat": 12
+  },
+  {
+    "student_id": "310467",
+    "name": "李O樂",
+    "class": "306",
+    "seat": 13
+  },
+  {
+    "student_id": "310172",
+    "name": "李O頡",
+    "class": "306",
+    "seat": 14
+  },
+  {
+    "student_id": "310580",
+    "name": "李O旭",
+    "class": "306",
+    "seat": 15
+  },
+  {
+    "student_id": "310582",
+    "name": "沈O理",
+    "class": "306",
+    "seat": 16
+  },
+  {
+    "student_id": "310019",
+    "name": "林O辰",
+    "class": "306",
+    "seat": 17
+  },
+  {
+    "student_id": "310020",
+    "name": "林O廷",
+    "class": "306",
+    "seat": 18
+  },
+  {
+    "student_id": "310173",
+    "name": "林O漢",
+    "class": "306",
+    "seat": 19
+  },
+  {
+    "student_id": "310617",
+    "name": "洪O緯",
+    "class": "306",
+    "seat": 20
+  },
+  {
+    "student_id": "310062",
+    "name": "紀O恩",
+    "class": "306",
+    "seat": 21
+  },
+  {
+    "student_id": "310211",
+    "name": "張O路",
+    "class": "306",
+    "seat": 22
+  },
+  {
+    "student_id": "310249",
+    "name": "張O棠",
+    "class": "306",
+    "seat": 23
+  },
+  {
+    "student_id": "310037",
+    "name": "許O崴",
+    "class": "306",
+    "seat": 24
+  },
+  {
+    "student_id": "310403",
+    "name": "曾O廷",
+    "class": "306",
+    "seat": 25
+  },
+  {
+    "student_id": "310251",
+    "name": "游O瑋",
+    "class": "306",
+    "seat": 26
+  },
+  {
+    "student_id": "310365",
+    "name": "黃O鈞",
+    "class": "306",
+    "seat": 27
+  },
+  {
+    "student_id": "310218",
+    "name": "楊O傑",
+    "class": "306",
+    "seat": 28
+  },
+  {
+    "student_id": "310071",
+    "name": "葉O融",
+    "class": "306",
+    "seat": 29
+  },
+  {
+    "student_id": "310439",
+    "name": "鄧O峻",
+    "class": "306",
+    "seat": 30
+  },
+  {
+    "student_id": "310330",
+    "name": "鄭O倫",
+    "class": "306",
+    "seat": 31
+  },
+  {
+    "student_id": "310479",
+    "name": "蕭O宸",
+    "class": "306",
+    "seat": 32
+  },
+  {
+    "student_id": "310295",
+    "name": "鍾O祐",
+    "class": "306",
+    "seat": 33
+  },
+  {
+    "student_id": "310108",
+    "name": "簡O成",
+    "class": "306",
+    "seat": 34
+  },
+  {
+    "student_id": "310407",
+    "name": "魏O頡",
+    "class": "306",
+    "seat": 35
+  },
+  {
+    "student_id": "310222",
+    "name": "羅O宇",
+    "class": "306",
+    "seat": 36
+  },
+  {
+    "student_id": "310039",
+    "name": "王O咏",
+    "class": "307",
+    "seat": 1
+  },
+  {
+    "student_id": "310003",
+    "name": "吳O芯",
+    "class": "307",
+    "seat": 2
+  },
+  {
+    "student_id": "310562",
+    "name": "林O妘",
+    "class": "307",
+    "seat": 3
+  },
+  {
+    "student_id": "310230",
+    "name": "翁O甄",
+    "class": "307",
+    "seat": 4
+  },
+  {
+    "student_id": "310044",
+    "name": "張O萱",
+    "class": "307",
+    "seat": 5
+  },
+  {
+    "student_id": "310454",
+    "name": "許O源",
+    "class": "307",
+    "seat": 6
+  },
+  {
+    "student_id": "310532",
+    "name": "楊O彤",
+    "class": "307",
+    "seat": 7
+  },
+  {
+    "student_id": "310496",
+    "name": "劉O晴",
+    "class": "307",
+    "seat": 8
+  },
+  {
+    "student_id": "310533",
+    "name": "潘O晴",
+    "class": "307",
+    "seat": 9
+  },
+  {
+    "student_id": "310125",
+    "name": "蔡O玶",
+    "class": "307",
+    "seat": 10
+  },
+  {
+    "student_id": "310427",
+    "name": "何O漢",
+    "class": "307",
+    "seat": 11
+  },
+  {
+    "student_id": "310055",
+    "name": "何O瑋",
+    "class": "307",
+    "seat": 12
+  },
+  {
+    "student_id": "310171",
+    "name": "呂O碩",
+    "class": "307",
+    "seat": 13
+  },
+  {
+    "student_id": "310539",
+    "name": "李O慶",
+    "class": "307",
+    "seat": 14
+  },
+  {
+    "student_id": "310175",
+    "name": "施O益",
+    "class": "307",
+    "seat": 15
+  },
+  {
+    "student_id": "310279",
+    "name": "倪O偉",
+    "class": "307",
+    "seat": 16
+  },
+  {
+    "student_id": "310433",
+    "name": "張O家",
+    "class": "307",
+    "seat": 17
+  },
+  {
+    "student_id": "310026",
+    "name": "張O嵐",
+    "class": "307",
+    "seat": 18
+  },
+  {
+    "student_id": "310282",
+    "name": "陳O泰",
+    "class": "307",
+    "seat": 19
+  },
+  {
+    "student_id": "310401",
+    "name": "陳O堯",
+    "class": "307",
+    "seat": 20
+  },
+  {
+    "student_id": "310139",
+    "name": "陳O旭",
+    "class": "307",
+    "seat": 21
+  },
+  {
+    "student_id": "310140",
+    "name": "湯O楷",
+    "class": "307",
+    "seat": 22
+  },
+  {
+    "student_id": "310435",
+    "name": "黃O愷",
+    "class": "307",
+    "seat": 23
+  },
+  {
+    "student_id": "310367",
+    "name": "黃O暘",
+    "class": "307",
+    "seat": 24
+  },
+  {
+    "student_id": "310070",
+    "name": "楊O豐",
+    "class": "307",
+    "seat": 25
+  },
+  {
+    "student_id": "310255",
+    "name": "雷O翰",
+    "class": "307",
+    "seat": 26
+  },
+  {
+    "student_id": "310666",
+    "name": "趙O維",
+    "class": "307",
+    "seat": 27
+  },
+  {
+    "student_id": "310106",
+    "name": "歐O可",
+    "class": "307",
+    "seat": 28
+  },
+  {
+    "student_id": "310073",
+    "name": "鄭O睿",
+    "class": "307",
+    "seat": 29
+  },
+  {
+    "student_id": "310294",
+    "name": "薛O庭",
+    "class": "307",
+    "seat": 30
+  },
+  {
+    "student_id": "310331",
+    "name": "鍾O宸",
+    "class": "307",
+    "seat": 31
+  },
+  {
+    "student_id": "310256",
+    "name": "鍾O宸",
+    "class": "307",
+    "seat": 32
+  },
+  {
+    "student_id": "310257",
+    "name": "簡O睿",
+    "class": "307",
+    "seat": 33
+  },
+  {
+    "student_id": "310442",
+    "name": "簡O詰",
+    "class": "307",
+    "seat": 34
+  },
+  {
+    "student_id": "310109",
+    "name": "魏O銘",
+    "class": "307",
+    "seat": 35
+  },
+  {
+    "student_id": "310667",
+    "name": "羅O原",
+    "class": "307",
+    "seat": 36
+  },
+  {
+    "student_id": "310001",
+    "name": "王O亭",
+    "class": "308",
+    "seat": 1
+  },
+  {
+    "student_id": "310079",
+    "name": "李O璇",
+    "class": "308",
+    "seat": 2
+  },
+  {
+    "student_id": "310042",
+    "name": "林O蓁",
+    "class": "308",
+    "seat": 3
+  },
+  {
+    "student_id": "310486",
+    "name": "邱O壬",
+    "class": "308",
+    "seat": 4
+  },
+  {
+    "student_id": "310233",
+    "name": "張O愛",
+    "class": "308",
+    "seat": 5
+  },
+  {
+    "student_id": "310452",
+    "name": "張O云",
+    "class": "308",
+    "seat": 6
+  },
+  {
+    "student_id": "310049",
+    "name": "黄O庭",
+    "class": "308",
+    "seat": 7
+  },
+  {
+    "student_id": "310086",
+    "name": "曾O緰",
+    "class": "308",
+    "seat": 8
+  },
+  {
+    "student_id": "310124",
+    "name": "劉O瑜",
+    "class": "308",
+    "seat": 9
+  },
+  {
+    "student_id": "310647",
+    "name": "鄧O穎",
+    "class": "308",
+    "seat": 10
+  },
+  {
+    "student_id": "310614",
+    "name": "江O宇",
+    "class": "308",
+    "seat": 11
+  },
+  {
+    "student_id": "310577",
+    "name": "何O毓",
+    "class": "308",
+    "seat": 12
+  },
+  {
+    "student_id": "310536",
+    "name": "吳O育",
+    "class": "308",
+    "seat": 13
+  },
+  {
+    "student_id": "310242",
+    "name": "李O賢",
+    "class": "308",
+    "seat": 14
+  },
+  {
+    "student_id": "310095",
+    "name": "李O鈞",
+    "class": "308",
+    "seat": 15
+  },
+  {
+    "student_id": "310208",
+    "name": "林O丞",
+    "class": "308",
+    "seat": 16
+  },
+  {
+    "student_id": "310210",
+    "name": "洪O鈞",
+    "class": "308",
+    "seat": 17
+  },
+  {
+    "student_id": "310176",
+    "name": "孫O綸",
+    "class": "308",
+    "seat": 18
+  },
+  {
+    "student_id": "310280",
+    "name": "徐O輔",
+    "class": "308",
+    "seat": 19
+  },
+  {
+    "student_id": "310063",
+    "name": "徐O原",
+    "class": "308",
+    "seat": 20
+  },
+  {
+    "student_id": "310545",
+    "name": "徐O樂",
+    "class": "308",
+    "seat": 21
+  },
+  {
+    "student_id": "310358",
+    "name": "徐O綸",
+    "class": "308",
+    "seat": 22
+  },
+  {
+    "student_id": "310547",
+    "name": "張O威",
+    "class": "308",
+    "seat": 23
+  },
+  {
+    "student_id": "310247",
+    "name": "張O鏇",
+    "class": "308",
+    "seat": 24
+  },
+  {
+    "student_id": "310619",
+    "name": "張O博",
+    "class": "308",
+    "seat": 25
+  },
+  {
+    "student_id": "310549",
+    "name": "張O期",
+    "class": "308",
+    "seat": 26
+  },
+  {
+    "student_id": "310359",
+    "name": "許O賢",
+    "class": "308",
+    "seat": 27
+  },
+  {
+    "student_id": "310064",
+    "name": "許O元",
+    "class": "308",
+    "seat": 28
+  },
+  {
+    "student_id": "310178",
+    "name": "陳O笙",
+    "class": "308",
+    "seat": 29
+  },
+  {
+    "student_id": "310402",
+    "name": "陳O尉",
+    "class": "308",
+    "seat": 30
+  },
+  {
+    "student_id": "310065",
+    "name": "陳O宸",
+    "class": "308",
+    "seat": 31
+  },
+  {
+    "student_id": "310104",
+    "name": "黃O諺",
+    "class": "308",
+    "seat": 32
+  },
+  {
+    "student_id": "310369",
+    "name": "劉O弘",
+    "class": "308",
+    "seat": 33
+  },
+  {
+    "student_id": "310329",
+    "name": "潘O星",
+    "class": "308",
+    "seat": 34
+  },
+  {
+    "student_id": "310441",
+    "name": "盧O丰",
+    "class": "308",
+    "seat": 35
+  },
+  {
+    "student_id": "310185",
+    "name": "謝O翰",
+    "class": "308",
+    "seat": 36
+  },
+  {
+    "student_id": "310259",
+    "name": "羅O淞",
+    "class": "308",
+    "seat": 37
+  },
+  {
+    "student_id": "310038",
+    "name": "方O之",
+    "class": "309",
+    "seat": 1
+  },
+  {
+    "student_id": "310380",
+    "name": "郭O妘",
+    "class": "309",
+    "seat": 2
+  },
+  {
+    "student_id": "310008",
+    "name": "陳O伊",
+    "class": "309",
+    "seat": 3
+  },
+  {
+    "student_id": "310345",
+    "name": "馮O岑",
+    "class": "309",
+    "seat": 4
+  },
+  {
+    "student_id": "310158",
+    "name": "黃O綺",
+    "class": "309",
+    "seat": 5
+  },
+  {
+    "student_id": "310122",
+    "name": "楊O涵",
+    "class": "309",
+    "seat": 6
+  },
+  {
+    "student_id": "310051",
+    "name": "劉O萱",
+    "class": "309",
+    "seat": 7
+  },
+  {
+    "student_id": "310274",
+    "name": "蔡O妮",
+    "class": "309",
+    "seat": 8
+  },
+  {
+    "student_id": "310163",
+    "name": "鄧O瑜",
+    "class": "309",
+    "seat": 9
+  },
+  {
+    "student_id": "310649",
+    "name": "鄭O茵",
+    "class": "309",
+    "seat": 10
+  },
+  {
+    "student_id": "310315",
+    "name": "古O軒",
+    "class": "309",
+    "seat": 11
+  },
+  {
+    "student_id": "310318",
+    "name": "何O鈞",
+    "class": "309",
+    "seat": 12
+  },
+  {
+    "student_id": "310092",
+    "name": "何O泰",
+    "class": "309",
+    "seat": 13
+  },
+  {
+    "student_id": "310392",
+    "name": "呂O吉",
+    "class": "309",
+    "seat": 14
+  },
+  {
+    "student_id": "310059",
+    "name": "卓O毅",
+    "class": "309",
+    "seat": 15
+  },
+  {
+    "student_id": "310395",
+    "name": "林O傑",
+    "class": "309",
+    "seat": 16
+  },
+  {
+    "student_id": "310207",
+    "name": "林O雍",
+    "class": "309",
+    "seat": 17
+  },
+  {
+    "student_id": "310353",
+    "name": "林O仲",
+    "class": "309",
+    "seat": 18
+  },
+  {
+    "student_id": "310021",
+    "name": "林O",
+    "class": "309",
+    "seat": 19
+  },
+  {
+    "student_id": "310397",
+    "name": "高O辰",
+    "class": "309",
+    "seat": 20
+  },
+  {
+    "student_id": "310624",
+    "name": "陳O桓",
+    "class": "309",
+    "seat": 21
+  },
+  {
+    "student_id": "310326",
+    "name": "陳O富",
+    "class": "309",
+    "seat": 22
+  },
+  {
+    "student_id": "310364",
+    "name": "彭O愷",
+    "class": "309",
+    "seat": 23
+  },
+  {
+    "student_id": "310214",
+    "name": "游O諺",
+    "class": "309",
+    "seat": 24
+  },
+  {
+    "student_id": "310215",
+    "name": "湯O丞",
+    "class": "309",
+    "seat": 25
+  },
+  {
+    "student_id": "310625",
+    "name": "黃O堯",
+    "class": "309",
+    "seat": 26
+  },
+  {
+    "student_id": "310217",
+    "name": "楊O修",
+    "class": "309",
+    "seat": 27
+  },
+  {
+    "student_id": "310406",
+    "name": "楊O恩",
+    "class": "309",
+    "seat": 28
+  },
+  {
+    "student_id": "310438",
+    "name": "楊O鈞",
+    "class": "309",
+    "seat": 29
+  },
+  {
+    "student_id": "310143",
+    "name": "葉O茗",
+    "class": "309",
+    "seat": 30
+  },
+  {
+    "student_id": "310254",
+    "name": "葛O恩",
+    "class": "309",
+    "seat": 31
+  },
+  {
+    "student_id": "310327",
+    "name": "劉O凱",
+    "class": "309",
+    "seat": 32
+  },
+  {
+    "student_id": "310515",
+    "name": "鄭O廷",
+    "class": "309",
+    "seat": 33
+  },
+  {
+    "student_id": "310221",
+    "name": "鍾O元",
+    "class": "309",
+    "seat": 34
+  },
+  {
+    "student_id": "310148",
+    "name": "顏O安",
+    "class": "309",
+    "seat": 35
+  },
+  {
+    "student_id": "310111",
+    "name": "蘇O謙",
+    "class": "309",
+    "seat": 36
+  },
+  {
+    "student_id": "310300",
+    "name": "李O蓁",
+    "class": "310",
+    "seat": 1
+  },
+  {
+    "student_id": "310081",
+    "name": "洪O軒",
+    "class": "310",
+    "seat": 2
+  },
+  {
+    "student_id": "310565",
+    "name": "洪O綾",
+    "class": "310",
+    "seat": 3
+  },
+  {
+    "student_id": "310115",
+    "name": "曹O玲",
+    "class": "310",
+    "seat": 4
+  },
+  {
+    "student_id": "310234",
+    "name": "彭O錤",
+    "class": "310",
+    "seat": 5
+  },
+  {
+    "student_id": "310197",
+    "name": "曾O誼",
+    "class": "310",
+    "seat": 6
+  },
+  {
+    "student_id": "310236",
+    "name": "詹O嫻",
+    "class": "310",
+    "seat": 7
+  },
+  {
+    "student_id": "310199",
+    "name": "劉O晶",
+    "class": "310",
+    "seat": 8
+  },
+  {
+    "student_id": "310052",
+    "name": "蔡O渝",
+    "class": "310",
+    "seat": 9
+  },
+  {
+    "student_id": "310650",
+    "name": "文O",
+    "class": "310",
+    "seat": 10
+  },
+  {
+    "student_id": "310426",
+    "name": "江O樂",
+    "class": "310",
+    "seat": 11
+  },
+  {
+    "student_id": "310241",
+    "name": "江O珺",
+    "class": "310",
+    "seat": 12
+  },
+  {
+    "student_id": "310464",
+    "name": "吳O潁",
+    "class": "310",
+    "seat": 13
+  },
+  {
+    "student_id": "310204",
+    "name": "吳O丞",
+    "class": "310",
+    "seat": 14
+  },
+  {
+    "student_id": "310243",
+    "name": "李O恩",
+    "class": "310",
+    "seat": 15
+  },
+  {
+    "student_id": "310393",
+    "name": "李O緯",
+    "class": "310",
+    "seat": 16
+  },
+  {
+    "student_id": "310320",
+    "name": "李O恩",
+    "class": "310",
+    "seat": 17
+  },
+  {
+    "student_id": "310540",
+    "name": "沈O憲",
+    "class": "310",
+    "seat": 18
+  },
+  {
+    "student_id": "310322",
+    "name": "林O陞",
+    "class": "310",
+    "seat": 19
+  },
+  {
+    "student_id": "310246",
+    "name": "洪O威",
+    "class": "310",
+    "seat": 20
+  },
+  {
+    "student_id": "310281",
+    "name": "徐O鈞",
+    "class": "310",
+    "seat": 21
+  },
+  {
+    "student_id": "310396",
+    "name": "徐O昇",
+    "class": "310",
+    "seat": 22
+  },
+  {
+    "student_id": "310620",
+    "name": "許O皓",
+    "class": "310",
+    "seat": 23
+  },
+  {
+    "student_id": "310286",
+    "name": "黃O恩",
+    "class": "310",
+    "seat": 24
+  },
+  {
+    "student_id": "310141",
+    "name": "黃O廷",
+    "class": "310",
+    "seat": 25
+  },
+  {
+    "student_id": "310252",
+    "name": "黃O宏",
+    "class": "310",
+    "seat": 26
+  },
+  {
+    "student_id": "310142",
+    "name": "黃O華",
+    "class": "310",
+    "seat": 27
+  },
+  {
+    "student_id": "310552",
+    "name": "楊O軒",
+    "class": "310",
+    "seat": 28
+  },
+  {
+    "student_id": "310034",
+    "name": "劉O鈞",
+    "class": "310",
+    "seat": 29
+  },
+  {
+    "student_id": "310183",
+    "name": "劉O宥",
+    "class": "310",
+    "seat": 30
+  },
+  {
+    "student_id": "310370",
+    "name": "蔡O泓",
+    "class": "310",
+    "seat": 31
+  },
+  {
+    "student_id": "310555",
+    "name": "鄭O鴻",
+    "class": "310",
+    "seat": 32
+  },
+  {
+    "student_id": "310074",
+    "name": "鍾O希",
+    "class": "310",
+    "seat": 33
+  },
+  {
+    "student_id": "310147",
+    "name": "顏O軒",
+    "class": "310",
+    "seat": 34
+  },
+  {
+    "student_id": "310332",
+    "name": "羅O睿",
+    "class": "310",
+    "seat": 35
+  },
+  {
+    "student_id": "310668",
+    "name": "蘇O禹",
+    "class": "310",
+    "seat": 36
+  },
+  {
+    "student_id": "310335",
+    "name": "王O扉",
+    "class": "311",
+    "seat": 1
+  },
+  {
+    "student_id": "310187",
+    "name": "李O妍",
+    "class": "311",
+    "seat": 2
+  },
+  {
+    "student_id": "310638",
+    "name": "林O媜",
+    "class": "311",
+    "seat": 3
+  },
+  {
+    "student_id": "310524",
+    "name": "邱O榕",
+    "class": "311",
+    "seat": 4
+  },
+  {
+    "student_id": "310123",
+    "name": "楊O亘",
+    "class": "311",
+    "seat": 5
+  },
+  {
+    "student_id": "310648",
+    "name": "鄧O云",
+    "class": "311",
+    "seat": 6
+  },
+  {
+    "student_id": "310053",
+    "name": "駱O庭",
+    "class": "311",
+    "seat": 7
+  },
+  {
+    "student_id": "310387",
+    "name": "簡O茵",
+    "class": "311",
+    "seat": 8
+  },
+  {
+    "student_id": "310611",
+    "name": "簡O甯",
+    "class": "311",
+    "seat": 9
+  },
+  {
+    "student_id": "310724",
+    "name": "欒O盉",
+    "class": "311",
+    "seat": 10
+  },
+  {
+    "student_id": "310615",
+    "name": "吳O",
+    "class": "311",
+    "seat": 11
+  },
+  {
+    "student_id": "310057",
+    "name": "呂O緯",
+    "class": "311",
+    "seat": 12
+  },
+  {
+    "student_id": "310466",
+    "name": "李O承",
+    "class": "311",
+    "seat": 13
+  },
+  {
+    "student_id": "310206",
+    "name": "李O展",
+    "class": "311",
+    "seat": 14
+  },
+  {
+    "student_id": "310244",
+    "name": "李O",
+    "class": "311",
+    "seat": 15
+  },
+  {
+    "student_id": "310278",
+    "name": "卓O澄",
+    "class": "311",
+    "seat": 16
+  },
+  {
+    "student_id": "310096",
+    "name": "林O翔",
+    "class": "311",
+    "seat": 17
+  },
+  {
+    "student_id": "310470",
+    "name": "姜O淮",
+    "class": "311",
+    "seat": 18
+  },
+  {
+    "student_id": "310541",
+    "name": "施O叡",
+    "class": "311",
+    "seat": 19
+  },
+  {
+    "student_id": "310471",
+    "name": "高O瑋",
+    "class": "311",
+    "seat": 20
+  },
+  {
+    "student_id": "310098",
+    "name": "康O智",
+    "class": "311",
+    "seat": 21
+  },
+  {
+    "student_id": "310102",
+    "name": "許O華",
+    "class": "311",
+    "seat": 22
+  },
+  {
+    "student_id": "310360",
+    "name": "連O愷",
+    "class": "311",
+    "seat": 23
+  },
+  {
+    "student_id": "310508",
+    "name": "陳O翔",
+    "class": "311",
+    "seat": 24
+  },
+  {
+    "student_id": "310283",
+    "name": "陳O礽",
+    "class": "311",
+    "seat": 25
+  },
+  {
+    "student_id": "310103",
+    "name": "陳O中",
+    "class": "311",
+    "seat": 26
+  },
+  {
+    "student_id": "310029",
+    "name": "湯O熙",
+    "class": "311",
+    "seat": 27
+  },
+  {
+    "student_id": "310513",
+    "name": "黃O庭",
+    "class": "311",
+    "seat": 28
+  },
+  {
+    "student_id": "310437",
+    "name": "楊O寬",
+    "class": "311",
+    "seat": 29
+  },
+  {
+    "student_id": "310144",
+    "name": "葉O隆",
+    "class": "311",
+    "seat": 30
+  },
+  {
+    "student_id": "310553",
+    "name": "詹O閎",
+    "class": "311",
+    "seat": 31
+  },
+  {
+    "student_id": "310288",
+    "name": "廖O洋",
+    "class": "311",
+    "seat": 32
+  },
+  {
+    "student_id": "310514",
+    "name": "蔡O哲",
+    "class": "311",
+    "seat": 33
+  },
+  {
+    "student_id": "310628",
+    "name": "盧O謙",
+    "class": "311",
+    "seat": 34
+  },
+  {
+    "student_id": "310293",
+    "name": "賴O洋",
+    "class": "311",
+    "seat": 35
+  },
+  {
+    "student_id": "310220",
+    "name": "鍾O恩",
+    "class": "311",
+    "seat": 36
+  },
+  {
+    "student_id": "310110",
+    "name": "魏O峻",
+    "class": "311",
+    "seat": 37
+  },
+  {
+    "student_id": "310261",
+    "name": "吳O萱",
+    "class": "312",
+    "seat": 1
+  },
+  {
+    "student_id": "310150",
+    "name": "吳O榕",
+    "class": "312",
+    "seat": 2
+  },
+  {
+    "student_id": "310598",
+    "name": "李O喻",
+    "class": "312",
+    "seat": 3
+  },
+  {
+    "student_id": "310377",
+    "name": "周O妮",
+    "class": "312",
+    "seat": 4
+  },
+  {
+    "student_id": "310339",
+    "name": "季O安",
+    "class": "312",
+    "seat": 5
+  },
+  {
+    "student_id": "310636",
+    "name": "林O緹",
+    "class": "312",
+    "seat": 6
+  },
+  {
+    "student_id": "310637",
+    "name": "林O彤",
+    "class": "312",
+    "seat": 7
+  },
+  {
+    "student_id": "310301",
+    "name": "林O潔",
+    "class": "312",
+    "seat": 8
+  },
+  {
+    "student_id": "310523",
+    "name": "林O甄",
+    "class": "312",
+    "seat": 9
+  },
+  {
+    "student_id": "310485",
+    "name": "邱O妍",
+    "class": "312",
+    "seat": 10
+  },
+  {
+    "student_id": "310527",
+    "name": "徐O汶",
+    "class": "312",
+    "seat": 11
+  },
+  {
+    "student_id": "310416",
+    "name": "梁O矜",
+    "class": "312",
+    "seat": 12
+  },
+  {
+    "student_id": "310723",
+    "name": "許O熙",
+    "class": "312",
+    "seat": 13
+  },
+  {
+    "student_id": "310455",
+    "name": "許O芸",
+    "class": "312",
+    "seat": 14
+  },
+  {
+    "student_id": "310456",
+    "name": "陳O心",
+    "class": "312",
+    "seat": 15
+  },
+  {
+    "student_id": "310641",
+    "name": "陳O恩",
+    "class": "312",
+    "seat": 16
+  },
+  {
+    "student_id": "310603",
+    "name": "彭O鈺",
+    "class": "312",
+    "seat": 17
+  },
+  {
+    "student_id": "310161",
+    "name": "黃O霏",
+    "class": "312",
+    "seat": 18
+  },
+  {
+    "student_id": "310198",
+    "name": "趙O璇",
+    "class": "312",
+    "seat": 19
+  },
+  {
+    "student_id": "310310",
+    "name": "劉O璇",
+    "class": "312",
+    "seat": 20
+  },
+  {
+    "student_id": "310200",
+    "name": "鄭O萱",
+    "class": "312",
+    "seat": 21
+  },
+  {
+    "student_id": "310573",
+    "name": "黎O涵",
+    "class": "312",
+    "seat": 22
+  },
+  {
+    "student_id": "310575",
+    "name": "方O",
+    "class": "312",
+    "seat": 23
+  },
+  {
+    "student_id": "310167",
+    "name": "王O睿",
+    "class": "312",
+    "seat": 24
+  },
+  {
+    "student_id": "310018",
+    "name": "吳O佑",
+    "class": "312",
+    "seat": 25
+  },
+  {
+    "student_id": "310352",
+    "name": "李O翰",
+    "class": "312",
+    "seat": 26
+  },
+  {
+    "student_id": "310394",
+    "name": "李O樂",
+    "class": "312",
+    "seat": 27
+  },
+  {
+    "student_id": "310354",
+    "name": "林O洺",
+    "class": "312",
+    "seat": 28
+  },
+  {
+    "student_id": "310174",
+    "name": "林O呈",
+    "class": "312",
+    "seat": 29
+  },
+  {
+    "student_id": "310543",
+    "name": "范O豪",
+    "class": "312",
+    "seat": 30
+  },
+  {
+    "student_id": "310546",
+    "name": "翁O均",
+    "class": "312",
+    "seat": 31
+  },
+  {
+    "student_id": "310584",
+    "name": "許O祐",
+    "class": "312",
+    "seat": 32
+  },
+  {
+    "student_id": "310507",
+    "name": "郭O佑",
+    "class": "312",
+    "seat": 33
+  },
+  {
+    "student_id": "310137",
+    "name": "陳O恩",
+    "class": "312",
+    "seat": 34
+  },
+  {
+    "student_id": "310660",
+    "name": "陳O宥",
+    "class": "312",
+    "seat": 35
+  },
+  {
+    "student_id": "310366",
+    "name": "黃O承",
+    "class": "312",
+    "seat": 36
+  },
+  {
+    "student_id": "310182",
+    "name": "賈O悅",
+    "class": "312",
+    "seat": 37
+  },
+  {
+    "student_id": "310328",
+    "name": "歐O亨",
+    "class": "312",
+    "seat": 38
+  },
+  {
+    "student_id": "310290",
+    "name": "蔡O宸",
+    "class": "312",
+    "seat": 39
+  },
+  {
+    "student_id": "310516",
+    "name": "鄭O勛",
+    "class": "312",
+    "seat": 40
+  },
+  {
+    "student_id": "310593",
+    "name": "鍾O豪",
+    "class": "312",
+    "seat": 41
+  },
+  {
+    "student_id": "310002",
+    "name": "江O可",
+    "class": "313",
+    "seat": 1
+  },
+  {
+    "student_id": "310561",
+    "name": "李O喬",
+    "class": "313",
+    "seat": 2
+  },
+  {
+    "student_id": "310410",
+    "name": "沈O榆",
+    "class": "313",
+    "seat": 3
+  },
+  {
+    "student_id": "310522",
+    "name": "林O鈺",
+    "class": "313",
+    "seat": 4
+  },
+  {
+    "student_id": "310484",
+    "name": "林O婷",
+    "class": "313",
+    "seat": 5
+  },
+  {
+    "student_id": "310413",
+    "name": "郝O鈴",
+    "class": "313",
+    "seat": 6
+  },
+  {
+    "student_id": "310415",
+    "name": "張O溱",
+    "class": "313",
+    "seat": 7
+  },
+  {
+    "student_id": "310567",
+    "name": "張O瑜",
+    "class": "313",
+    "seat": 8
+  },
+  {
+    "student_id": "310487",
+    "name": "張O心",
+    "class": "313",
+    "seat": 9
+  },
+  {
+    "student_id": "310304",
+    "name": "莊O華",
+    "class": "313",
+    "seat": 10
+  },
+  {
+    "student_id": "310417",
+    "name": "許O寧",
+    "class": "313",
+    "seat": 11
+  },
+  {
+    "student_id": "310307",
+    "name": "陳O彣",
+    "class": "313",
+    "seat": 12
+  },
+  {
+    "student_id": "310084",
+    "name": "陳O蓉",
+    "class": "313",
+    "seat": 13
+  },
+  {
+    "student_id": "310568",
+    "name": "陳O蓁",
+    "class": "313",
+    "seat": 14
+  },
+  {
+    "student_id": "310116",
+    "name": "陳O岑",
+    "class": "313",
+    "seat": 15
+  },
+  {
+    "student_id": "310420",
+    "name": "陳O茵",
+    "class": "313",
+    "seat": 16
+  },
+  {
+    "student_id": "310492",
+    "name": "黃O瑄",
+    "class": "313",
+    "seat": 17
+  },
+  {
+    "student_id": "310493",
+    "name": "黃O荃",
+    "class": "313",
+    "seat": 18
+  },
+  {
+    "student_id": "310384",
+    "name": "葉O妤",
+    "class": "313",
+    "seat": 19
+  },
+  {
+    "student_id": "310350",
+    "name": "簡O羽",
+    "class": "313",
+    "seat": 20
+  },
+  {
+    "student_id": "310238",
+    "name": "藍O潔",
+    "class": "313",
+    "seat": 21
+  },
+  {
+    "student_id": "310202",
+    "name": "魏O淇",
+    "class": "313",
+    "seat": 22
+  },
+  {
+    "student_id": "310388",
+    "name": "尤O辰",
+    "class": "313",
+    "seat": 23
+  },
+  {
+    "student_id": "310462",
+    "name": "王O凱",
+    "class": "313",
+    "seat": 24
+  },
+  {
+    "student_id": "310651",
+    "name": "成O廷",
+    "class": "313",
+    "seat": 25
+  },
+  {
+    "student_id": "310129",
+    "name": "余O均",
+    "class": "313",
+    "seat": 26
+  },
+  {
+    "student_id": "310169",
+    "name": "吳O兌",
+    "class": "313",
+    "seat": 27
+  },
+  {
+    "student_id": "310538",
+    "name": "吳O誼",
+    "class": "313",
+    "seat": 28
+  },
+  {
+    "student_id": "310132",
+    "name": "周O奎",
+    "class": "313",
+    "seat": 29
+  },
+  {
+    "student_id": "310097",
+    "name": "邱O宥",
+    "class": "313",
+    "seat": 30
+  },
+  {
+    "student_id": "310431",
+    "name": "胡O斌",
+    "class": "313",
+    "seat": 31
+  },
+  {
+    "student_id": "310475",
+    "name": "陳O穎",
+    "class": "313",
+    "seat": 32
+  },
+  {
+    "student_id": "310657",
+    "name": "陳O佑",
+    "class": "313",
+    "seat": 33
+  },
+  {
+    "student_id": "310586",
+    "name": "陳O銘",
+    "class": "313",
+    "seat": 34
+  },
+  {
+    "student_id": "310213",
+    "name": "陳O亨",
+    "class": "313",
+    "seat": 35
+  },
+  {
+    "student_id": "310027",
+    "name": "陳O軒",
+    "class": "313",
+    "seat": 36
+  },
+  {
+    "student_id": "310138",
+    "name": "陳O逢",
+    "class": "313",
+    "seat": 37
+  },
+  {
+    "student_id": "310662",
+    "name": "黃O濂",
+    "class": "313",
+    "seat": 38
+  },
+  {
+    "student_id": "310626",
+    "name": "楊O程",
+    "class": "313",
+    "seat": 39
+  },
+  {
+    "student_id": "310033",
+    "name": "楊O豪",
+    "class": "313",
+    "seat": 40
+  },
+  {
+    "student_id": "310665",
+    "name": "廖O閔",
+    "class": "313",
+    "seat": 41
+  },
+  {
+    "student_id": "310596",
+    "name": "甘O嫚",
+    "class": "314",
+    "seat": 1
+  },
+  {
+    "student_id": "310336",
+    "name": "吳O儀",
+    "class": "314",
+    "seat": 2
+  },
+  {
+    "student_id": "310409",
+    "name": "吳O妤",
+    "class": "314",
+    "seat": 3
+  },
+  {
+    "student_id": "310186",
+    "name": "吳O伶",
+    "class": "314",
+    "seat": 4
+  },
+  {
+    "student_id": "310152",
+    "name": "李O璇",
+    "class": "314",
+    "seat": 5
+  },
+  {
+    "student_id": "310189",
+    "name": "沈O渝",
+    "class": "314",
+    "seat": 6
+  },
+  {
+    "student_id": "310338",
+    "name": "辛O瑄",
+    "class": "314",
+    "seat": 7
+  },
+  {
+    "student_id": "310376",
+    "name": "周O佑",
+    "class": "314",
+    "seat": 8
+  },
+  {
+    "student_id": "310340",
+    "name": "邱O雅",
+    "class": "314",
+    "seat": 9
+  },
+  {
+    "student_id": "310191",
+    "name": "許O恆",
+    "class": "314",
+    "seat": 10
+  },
+  {
+    "student_id": "310192",
+    "name": "郭O妤",
+    "class": "314",
+    "seat": 11
+  },
+  {
+    "student_id": "310156",
+    "name": "陳O芸",
+    "class": "314",
+    "seat": 12
+  },
+  {
+    "student_id": "310640",
+    "name": "陳O容",
+    "class": "314",
+    "seat": 13
+  },
+  {
+    "student_id": "310488",
+    "name": "陳O晴",
+    "class": "314",
+    "seat": 14
+  },
+  {
+    "student_id": "310046",
+    "name": "陳O蓁",
+    "class": "314",
+    "seat": 15
+  },
+  {
+    "student_id": "310422",
+    "name": "黃O璇",
+    "class": "314",
+    "seat": 16
+  },
+  {
+    "student_id": "310608",
+    "name": "楊O卉",
+    "class": "314",
+    "seat": 17
+  },
+  {
+    "student_id": "310272",
+    "name": "劉O妤",
+    "class": "314",
+    "seat": 18
+  },
+  {
+    "student_id": "310237",
+    "name": "謝O頤",
+    "class": "314",
+    "seat": 19
+  },
+  {
+    "student_id": "310610",
+    "name": "謝O倫",
+    "class": "314",
+    "seat": 20
+  },
+  {
+    "student_id": "310498",
+    "name": "謝O靜",
+    "class": "314",
+    "seat": 21
+  },
+  {
+    "student_id": "310054",
+    "name": "羅O瑜",
+    "class": "314",
+    "seat": 22
+  },
+  {
+    "student_id": "310652",
+    "name": "李O洲",
+    "class": "314",
+    "seat": 23
+  },
+  {
+    "student_id": "310579",
+    "name": "李O澄",
+    "class": "314",
+    "seat": 24
+  },
+  {
+    "student_id": "310321",
+    "name": "沈O承",
+    "class": "314",
+    "seat": 25
+  },
+  {
+    "student_id": "310323",
+    "name": "邱O鈐",
+    "class": "314",
+    "seat": 26
+  },
+  {
+    "student_id": "310616",
+    "name": "邱O擎",
+    "class": "314",
+    "seat": 27
+  },
+  {
+    "student_id": "310024",
+    "name": "胡O傑",
+    "class": "314",
+    "seat": 28
+  },
+  {
+    "student_id": "310472",
+    "name": "崔O睿",
+    "class": "314",
+    "seat": 29
+  },
+  {
+    "student_id": "310099",
+    "name": "張O維",
+    "class": "314",
+    "seat": 30
+  },
+  {
+    "student_id": "310474",
+    "name": "張O傑",
+    "class": "314",
+    "seat": 31
+  },
+  {
+    "student_id": "310398",
+    "name": "郭O德",
+    "class": "314",
+    "seat": 32
+  },
+  {
+    "student_id": "310659",
+    "name": "陳O翔",
+    "class": "314",
+    "seat": 33
+  },
+  {
+    "student_id": "310284",
+    "name": "曾O秦",
+    "class": "314",
+    "seat": 34
+  },
+  {
+    "student_id": "310179",
+    "name": "黃O辰",
+    "class": "314",
+    "seat": 35
+  },
+  {
+    "student_id": "310216",
+    "name": "黃O維",
+    "class": "314",
+    "seat": 36
+  },
+  {
+    "student_id": "310031",
+    "name": "黃O鈞",
+    "class": "314",
+    "seat": 37
+  },
+  {
+    "student_id": "310663",
+    "name": "黃O凱",
+    "class": "314",
+    "seat": 38
+  },
+  {
+    "student_id": "310436",
+    "name": "黃O詠",
+    "class": "314",
+    "seat": 39
+  },
+  {
+    "student_id": "310631",
+    "name": "謝O奇",
+    "class": "314",
+    "seat": 40
+  },
+  {
+    "student_id": "310517",
+    "name": "譚O鴻",
+    "class": "314",
+    "seat": 41
+  },
+  {
+    "student_id": "310371",
+    "name": "王O可",
+    "class": "315",
+    "seat": 1
+  },
+  {
+    "student_id": "310669",
+    "name": "王O寗",
+    "class": "315",
+    "seat": 2
+  },
+  {
+    "student_id": "310223",
+    "name": "王O甄",
+    "class": "315",
+    "seat": 3
+  },
+  {
+    "student_id": "310408",
+    "name": "吳O妮",
+    "class": "315",
+    "seat": 4
+  },
+  {
+    "student_id": "310113",
+    "name": "林O儀",
+    "class": "315",
+    "seat": 5
+  },
+  {
+    "student_id": "310043",
+    "name": "林O葳",
+    "class": "315",
+    "seat": 6
+  },
+  {
+    "student_id": "310483",
+    "name": "林O涵",
+    "class": "315",
+    "seat": 7
+  },
+  {
+    "student_id": "310227",
+    "name": "林O璇",
+    "class": "315",
+    "seat": 8
+  },
+  {
+    "student_id": "310564",
+    "name": "邱O菀",
+    "class": "315",
+    "seat": 9
+  },
+  {
+    "student_id": "310267",
+    "name": "徐O涵",
+    "class": "315",
+    "seat": 10
+  },
+  {
+    "student_id": "310231",
+    "name": "張O妮",
+    "class": "315",
+    "seat": 11
+  },
+  {
+    "student_id": "310232",
+    "name": "張O穎",
+    "class": "315",
+    "seat": 12
+  },
+  {
+    "student_id": "310600",
+    "name": "張O昀",
+    "class": "315",
+    "seat": 13
+  },
+  {
+    "student_id": "310270",
+    "name": "陳O蓁",
+    "class": "315",
+    "seat": 14
+  },
+  {
+    "student_id": "310529",
+    "name": "陳O晴",
+    "class": "315",
+    "seat": 15
+  },
+  {
+    "student_id": "310308",
+    "name": "陳O妤",
+    "class": "315",
+    "seat": 16
+  },
+  {
+    "student_id": "310235",
+    "name": "楊O晴",
+    "class": "315",
+    "seat": 17
+  },
+  {
+    "student_id": "310312",
+    "name": "蕭O喻",
+    "class": "315",
+    "seat": 18
+  },
+  {
+    "student_id": "310574",
+    "name": "謝O晴",
+    "class": "315",
+    "seat": 19
+  },
+  {
+    "student_id": "310349",
+    "name": "簡O芮",
+    "class": "315",
+    "seat": 20
+  },
+  {
+    "student_id": "310239",
+    "name": "魏O涵",
+    "class": "315",
+    "seat": 21
+  },
+  {
+    "student_id": "310166",
+    "name": "王O民",
+    "class": "315",
+    "seat": 22
+  },
+  {
+    "student_id": "310613",
+    "name": "朱O",
+    "class": "315",
+    "seat": 23
+  },
+  {
+    "student_id": "310537",
+    "name": "吳O祐",
+    "class": "315",
+    "seat": 24
+  },
+  {
+    "student_id": "310130",
+    "name": "吳O",
+    "class": "315",
+    "seat": 25
+  },
+  {
+    "student_id": "310653",
+    "name": "李O宏",
+    "class": "315",
+    "seat": 26
+  },
+  {
+    "student_id": "310501",
+    "name": "金O霖",
+    "class": "315",
+    "seat": 27
+  },
+  {
+    "student_id": "310025",
+    "name": "馬O謙",
+    "class": "315",
+    "seat": 28
+  },
+  {
+    "student_id": "310656",
+    "name": "張O瑋",
+    "class": "315",
+    "seat": 29
+  },
+  {
+    "student_id": "310324",
+    "name": "張O祐",
+    "class": "315",
+    "seat": 30
+  },
+  {
+    "student_id": "310506",
+    "name": "許O晧",
+    "class": "315",
+    "seat": 31
+  },
+  {
+    "student_id": "310212",
+    "name": "郭O雋",
+    "class": "315",
+    "seat": 32
+  },
+  {
+    "student_id": "310658",
+    "name": "陳O豪",
+    "class": "315",
+    "seat": 33
+  },
+  {
+    "student_id": "310362",
+    "name": "陳O誠",
+    "class": "315",
+    "seat": 34
+  },
+  {
+    "student_id": "310476",
+    "name": "陳O元",
+    "class": "315",
+    "seat": 35
+  },
+  {
+    "student_id": "310066",
+    "name": "陳O睿",
+    "class": "315",
+    "seat": 36
+  },
+  {
+    "student_id": "310512",
+    "name": "温O翔",
+    "class": "315",
+    "seat": 37
+  },
+  {
+    "student_id": "310035",
+    "name": "劉O宇",
+    "class": "315",
+    "seat": 38
+  },
+  {
+    "student_id": "310291",
+    "name": "鄭O喆",
+    "class": "315",
+    "seat": 39
+  },
+  {
+    "student_id": "310107",
+    "name": "賴O辰",
+    "class": "315",
+    "seat": 40
+  },
+  {
+    "student_id": "310481",
+    "name": "魏OO",
+    "class": "315",
+    "seat": 41
+  },
+  {
+    "student_id": "310149",
+    "name": "王O亦",
+    "class": "316",
+    "seat": 1
+  },
+  {
+    "student_id": "310373",
+    "name": "古O瑄",
+    "class": "316",
+    "seat": 2
+  },
+  {
+    "student_id": "310297",
+    "name": "余O軒",
+    "class": "316",
+    "seat": 3
+  },
+  {
+    "student_id": "310299",
+    "name": "李O鈴",
+    "class": "316",
+    "seat": 4
+  },
+  {
+    "student_id": "310153",
+    "name": "李O瑈",
+    "class": "316",
+    "seat": 5
+  },
+  {
+    "student_id": "310341",
+    "name": "范O宴",
+    "class": "316",
+    "seat": 6
+  },
+  {
+    "student_id": "310155",
+    "name": "馬O彤",
+    "class": "316",
+    "seat": 7
+  },
+  {
+    "student_id": "310528",
+    "name": "張O涵",
+    "class": "316",
+    "seat": 8
+  },
+  {
+    "student_id": "310381",
+    "name": "陳O賢",
+    "class": "316",
+    "seat": 9
+  },
+  {
+    "student_id": "310569",
+    "name": "陳O榆",
+    "class": "316",
+    "seat": 10
+  },
+  {
+    "student_id": "310489",
+    "name": "陳O誼",
+    "class": "316",
+    "seat": 11
+  },
+  {
+    "student_id": "310013",
+    "name": "曾O芸",
+    "class": "316",
+    "seat": 12
+  },
+  {
+    "student_id": "310344",
+    "name": "游O霈",
+    "class": "316",
+    "seat": 13
+  },
+  {
+    "student_id": "310014",
+    "name": "游O亞",
+    "class": "316",
+    "seat": 14
+  },
+  {
+    "student_id": "310459",
+    "name": "湯O熙",
+    "class": "316",
+    "seat": 15
+  },
+  {
+    "student_id": "310160",
+    "name": "黃O珊",
+    "class": "316",
+    "seat": 16
+  },
+  {
+    "student_id": "310120",
+    "name": "黃O瑜",
+    "class": "316",
+    "seat": 17
+  },
+  {
+    "student_id": "310606",
+    "name": "黃O涵",
+    "class": "316",
+    "seat": 18
+  },
+  {
+    "student_id": "310348",
+    "name": "蔡O彤",
+    "class": "316",
+    "seat": 19
+  },
+  {
+    "student_id": "310424",
+    "name": "賴O兒",
+    "class": "316",
+    "seat": 20
+  },
+  {
+    "student_id": "310240",
+    "name": "王O勲",
+    "class": "316",
+    "seat": 21
+  },
+  {
+    "student_id": "310425",
+    "name": "王O洋",
+    "class": "316",
+    "seat": 22
+  },
+  {
+    "student_id": "310168",
+    "name": "吳O軒",
+    "class": "316",
+    "seat": 23
+  },
+  {
+    "student_id": "310094",
+    "name": "呂O頡",
+    "class": "316",
+    "seat": 24
+  },
+  {
+    "student_id": "310581",
+    "name": "杜O綸",
+    "class": "316",
+    "seat": 25
+  },
+  {
+    "student_id": "310022",
+    "name": "林O秦",
+    "class": "316",
+    "seat": 26
+  },
+  {
+    "student_id": "310135",
+    "name": "張O凡",
+    "class": "316",
+    "seat": 27
+  },
+  {
+    "student_id": "310618",
+    "name": "張O豪",
+    "class": "316",
+    "seat": 28
+  },
+  {
+    "student_id": "310621",
+    "name": "郭O愷",
+    "class": "316",
+    "seat": 29
+  },
+  {
+    "student_id": "310250",
+    "name": "陳O羲",
+    "class": "316",
+    "seat": 30
+  },
+  {
+    "student_id": "310623",
+    "name": "陳O宏",
+    "class": "316",
+    "seat": 31
+  },
+  {
+    "student_id": "310661",
+    "name": "曾O宸",
+    "class": "316",
+    "seat": 32
+  },
+  {
+    "student_id": "310030",
+    "name": "黃O杰",
+    "class": "316",
+    "seat": 33
+  },
+  {
+    "student_id": "310405",
+    "name": "黃O勳",
+    "class": "316",
+    "seat": 34
+  },
+  {
+    "student_id": "310181",
+    "name": "黃O翔",
+    "class": "316",
+    "seat": 35
+  },
+  {
+    "student_id": "310032",
+    "name": "楊O翰",
+    "class": "316",
+    "seat": 36
+  },
+  {
+    "student_id": "310289",
+    "name": "劉O廷",
+    "class": "316",
+    "seat": 37
+  },
+  {
+    "student_id": "310554",
+    "name": "樊O宇",
+    "class": "316",
+    "seat": 38
+  },
+  {
+    "student_id": "310629",
+    "name": "賴O銘",
+    "class": "316",
+    "seat": 39
+  },
+  {
+    "student_id": "310184",
+    "name": "謝O敬",
+    "class": "316",
+    "seat": 40
+  },
+  {
+    "student_id": "310040",
+    "name": "朱O安",
+    "class": "317",
+    "seat": 1
+  },
+  {
+    "student_id": "310520",
+    "name": "吳O安",
+    "class": "317",
+    "seat": 2
+  },
+  {
+    "student_id": "310634",
+    "name": "呂O歆",
+    "class": "317",
+    "seat": 3
+  },
+  {
+    "student_id": "310375",
+    "name": "李O庭",
+    "class": "317",
+    "seat": 4
+  },
+  {
+    "student_id": "310188",
+    "name": "李O慈",
+    "class": "317",
+    "seat": 5
+  },
+  {
+    "student_id": "310154",
+    "name": "邱O瑄",
+    "class": "317",
+    "seat": 6
+  },
+  {
+    "student_id": "310268",
+    "name": "梁O庭",
+    "class": "317",
+    "seat": 7
+  },
+  {
+    "student_id": "310083",
+    "name": "許O榆",
+    "class": "317",
+    "seat": 8
+  },
+  {
+    "student_id": "310006",
+    "name": "陳O緹",
+    "class": "317",
+    "seat": 9
+  },
+  {
+    "student_id": "310601",
+    "name": "陳O璇",
+    "class": "317",
+    "seat": 10
+  },
+  {
+    "student_id": "310602",
+    "name": "陳O妍",
+    "class": "317",
+    "seat": 11
+  },
+  {
+    "student_id": "310047",
+    "name": "陳O欣",
+    "class": "317",
+    "seat": 12
+  },
+  {
+    "student_id": "310309",
+    "name": "曾O君",
+    "class": "317",
+    "seat": 13
+  },
+  {
+    "student_id": "310346",
+    "name": "黃O芸",
+    "class": "317",
+    "seat": 14
+  },
+  {
+    "student_id": "310159",
+    "name": "黃O婕",
+    "class": "317",
+    "seat": 15
+  },
+  {
+    "student_id": "310604",
+    "name": "黃O妤",
+    "class": "317",
+    "seat": 16
+  },
+  {
+    "student_id": "310087",
+    "name": "黃O蓁",
+    "class": "317",
+    "seat": 17
+  },
+  {
+    "student_id": "310646",
+    "name": "黃O穎",
+    "class": "317",
+    "seat": 18
+  },
+  {
+    "student_id": "310121",
+    "name": "楊O珊",
+    "class": "317",
+    "seat": 19
+  },
+  {
+    "student_id": "310271",
+    "name": "楊O沂",
+    "class": "317",
+    "seat": 20
+  },
+  {
+    "student_id": "310017",
+    "name": "鄭O潔",
+    "class": "317",
+    "seat": 21
+  },
+  {
+    "student_id": "310576",
+    "name": "王O文",
+    "class": "317",
+    "seat": 22
+  },
+  {
+    "student_id": "310390",
+    "name": "石O行",
+    "class": "317",
+    "seat": 23
+  },
+  {
+    "student_id": "310428",
+    "name": "何O辰",
+    "class": "317",
+    "seat": 24
+  },
+  {
+    "student_id": "310093",
+    "name": "吳O諄",
+    "class": "317",
+    "seat": 25
+  },
+  {
+    "student_id": "310319",
+    "name": "吳O翔",
+    "class": "317",
+    "seat": 26
+  },
+  {
+    "student_id": "310465",
+    "name": "宋O叡",
+    "class": "317",
+    "seat": 27
+  },
+  {
+    "student_id": "310131",
+    "name": "宋O樟",
+    "class": "317",
+    "seat": 28
+  },
+  {
+    "student_id": "310058",
+    "name": "李O泰",
+    "class": "317",
+    "seat": 29
+  },
+  {
+    "student_id": "310133",
+    "name": "林O晨",
+    "class": "317",
+    "seat": 30
+  },
+  {
+    "student_id": "310654",
+    "name": "林O鴻",
+    "class": "317",
+    "seat": 31
+  },
+  {
+    "student_id": "310355",
+    "name": "林O宇",
+    "class": "317",
+    "seat": 32
+  },
+  {
+    "student_id": "310023",
+    "name": "邱O侑",
+    "class": "317",
+    "seat": 33
+  },
+  {
+    "student_id": "310357",
+    "name": "邱O蔚",
+    "class": "317",
+    "seat": 34
+  },
+  {
+    "student_id": "310542",
+    "name": "施O任",
+    "class": "317",
+    "seat": 35
+  },
+  {
+    "student_id": "310622",
+    "name": "陳O龍",
+    "class": "317",
+    "seat": 36
+  },
+  {
+    "student_id": "310404",
+    "name": "童O祐",
+    "class": "317",
+    "seat": 37
+  },
+  {
+    "student_id": "310477",
+    "name": "黃O謙",
+    "class": "317",
+    "seat": 38
+  },
+  {
+    "student_id": "310478",
+    "name": "楊O儒",
+    "class": "317",
+    "seat": 39
+  },
+  {
+    "student_id": "310145",
+    "name": "管O豪",
+    "class": "317",
+    "seat": 40
+  },
+  {
+    "student_id": "310036",
+    "name": "蕭O軒",
+    "class": "317",
+    "seat": 41
+  },
+  {
+    "student_id": "310334",
+    "name": "王O妡",
+    "class": "318",
+    "seat": 1
+  },
+  {
+    "student_id": "310595",
+    "name": "王O馨",
+    "class": "318",
+    "seat": 2
+  },
+  {
+    "student_id": "310597",
+    "name": "何O涵",
+    "class": "318",
+    "seat": 3
+  },
+  {
+    "student_id": "310670",
+    "name": "何O瑀",
+    "class": "318",
+    "seat": 4
+  },
+  {
+    "student_id": "310078",
+    "name": "吳O葳",
+    "class": "318",
+    "seat": 5
+  },
+  {
+    "student_id": "310112",
+    "name": "呂O",
+    "class": "318",
+    "seat": 6
+  },
+  {
+    "student_id": "310264",
+    "name": "李O庭",
+    "class": "318",
+    "seat": 7
+  },
+  {
+    "student_id": "310225",
+    "name": "林O岑",
+    "class": "318",
+    "seat": 8
+  },
+  {
+    "student_id": "310302",
+    "name": "林O羽",
+    "class": "318",
+    "seat": 9
+  },
+  {
+    "student_id": "310303",
+    "name": "施O妤",
+    "class": "318",
+    "seat": 10
+  },
+  {
+    "student_id": "310451",
+    "name": "張O萐",
+    "class": "318",
+    "seat": 11
+  },
+  {
+    "student_id": "310453",
+    "name": "梁O晴",
+    "class": "318",
+    "seat": 12
+  },
+  {
+    "student_id": "310305",
+    "name": "許O涵",
+    "class": "318",
+    "seat": 13
+  },
+  {
+    "student_id": "310418",
+    "name": "連O軒",
+    "class": "318",
+    "seat": 14
+  },
+  {
+    "student_id": "310085",
+    "name": "陳O瑄",
+    "class": "318",
+    "seat": 15
+  },
+  {
+    "student_id": "310457",
+    "name": "陳O妤",
+    "class": "318",
+    "seat": 16
+  },
+  {
+    "student_id": "310157",
+    "name": "曾O婕",
+    "class": "318",
+    "seat": 17
+  },
+  {
+    "student_id": "310491",
+    "name": "曾O秀",
+    "class": "318",
+    "seat": 18
+  },
+  {
+    "student_id": "310016",
+    "name": "黃O玲",
+    "class": "318",
+    "seat": 19
+  },
+  {
+    "student_id": "310090",
+    "name": "羅O喬",
+    "class": "318",
+    "seat": 20
+  },
+  {
+    "student_id": "310535",
+    "name": "羅O婷",
+    "class": "318",
+    "seat": 21
+  },
+  {
+    "student_id": "310056",
+    "name": "余O程",
+    "class": "318",
+    "seat": 22
+  },
+  {
+    "student_id": "310277",
+    "name": "巫O綸",
+    "class": "318",
+    "seat": 23
+  },
+  {
+    "student_id": "310469",
+    "name": "林O叡",
+    "class": "318",
+    "seat": 24
+  },
+  {
+    "student_id": "310356",
+    "name": "邱O豪",
+    "class": "318",
+    "seat": 25
+  },
+  {
+    "student_id": "310655",
+    "name": "凃O皓",
+    "class": "318",
+    "seat": 26
+  },
+  {
+    "student_id": "310583",
+    "name": "胡O強",
+    "class": "318",
+    "seat": 27
+  },
+  {
+    "student_id": "310134",
+    "name": "康O謙",
+    "class": "318",
+    "seat": 28
+  },
+  {
+    "student_id": "310248",
+    "name": "張O笙",
+    "class": "318",
+    "seat": 29
+  },
+  {
+    "student_id": "310509",
+    "name": "陳O軒",
+    "class": "318",
+    "seat": 30
+  },
+  {
+    "student_id": "310585",
+    "name": "陳O睿",
+    "class": "318",
+    "seat": 31
+  },
+  {
+    "student_id": "310361",
+    "name": "陳O宇",
+    "class": "318",
+    "seat": 32
+  },
+  {
+    "student_id": "310510",
+    "name": "陳O州",
+    "class": "318",
+    "seat": 33
+  },
+  {
+    "student_id": "310588",
+    "name": "陳O宇",
+    "class": "318",
+    "seat": 34
+  },
+  {
+    "student_id": "310028",
+    "name": "陳O勳",
+    "class": "318",
+    "seat": 35
+  },
+  {
+    "student_id": "310589",
+    "name": "彭O誠",
+    "class": "318",
+    "seat": 36
+  },
+  {
+    "student_id": "310180",
+    "name": "黃O麒",
+    "class": "318",
+    "seat": 37
+  },
+  {
+    "student_id": "310440",
+    "name": "鄭O宸",
+    "class": "318",
+    "seat": 38
+  },
+  {
+    "student_id": "310444",
+    "name": "羅O韋",
+    "class": "318",
+    "seat": 39
+  },
+  {
+    "student_id": "310333",
+    "name": "羅O宇",
+    "class": "318",
+    "seat": 40
+  },
+  {
+    "student_id": "310518",
+    "name": "蘇O瑋",
+    "class": "318",
+    "seat": 41
+  }
+]

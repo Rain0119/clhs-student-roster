@@ -33,7 +33,7 @@ student-roster lookup 410001 --data "自己的名單.json"
 [
   {
     "student_id": "001234",
-    "name": "王O明",
+    "name": "王〇明",
     "class": "209",
     "seat": 1
   }
@@ -41,7 +41,7 @@ student-roster lookup 410001 --data "自己的名單.json"
 ```
 
 - `student_id`：ASCII 數字字串，保留前導零。
-- `name`：保留來源姓名與遮蔽字元，不推測完整姓名，不統一 `O`、`o` 等字元。
+- `name`：保留可辨識姓名，不推測完整姓名；遮蔽字元 `O`、`o`、`Ｏ`、`ｏ`、`○`、`◯` 統一為 `〇`（U+3007）。此規則同樣適用於 PDF 轉換、自訂 JSON／CSV 載入及匯出。
 - `class`：三碼字串，例如 `209`。
 - `seat`：正整數，來源的 `01` 正規化成 `1`。
 
@@ -128,7 +128,7 @@ student-roster list --class 209 --output "209.json" --yes --overwrite
 
 來源為使用者提供的 `115高一編班公告.pdf`、`115高二編班公告.pdf`、`115高三編班公告.pdf`；高三來源的 2xx 依明確指示轉為 3xx。原始 PDF 留在本機，Git 忽略 `*.pdf`，不隨專案發布。
 
-高三來源第 12 頁的學號 `310481` 姓名為不可擷取的內容，使用者已明確指定為 **魏OO**。這筆人工確認值保存在獨立的 `student_roster/data/name-overrides.json`，重建時必須明確傳入；工具不會自動對別人的 PDF 套用此修正。來源報告會記錄修正學號、姓名、來源頁與行號。
+高三來源第 12 頁的學號 `310481` 姓名為不可擷取的內容，使用者已明確指定為 **魏〇〇**。這筆人工確認值保存在獨立的 `student_roster/data/name-overrides.json`，重建時必須明確傳入；工具不會自動對別人的 PDF 套用此修正。來源報告會記錄修正學號、姓名、來源頁與行號。
 
 在本專案目前的資料夾配置中，完整重建指令為：
 
@@ -137,7 +137,7 @@ python -m student_roster convert --source grade1 "../編班公告/115高一編�
 python -m student_roster list --output student_roster/data/students.csv --yes --overwrite
 ```
 
-若自己的來源也有需人工確認的姓名，可提供相同格式的 JSON 修正檔，例如 `{"001234": "王O明"}`，以 `--name-overrides` 明確指定。不存在於此次來源的修正學號會報錯，避免用錯檔案。修正不能用來忽略其他缺欄、合併列、衝突或掃描頁問題。
+若自己的來源也有需人工確認的姓名，可提供相同格式的 JSON 修正檔，例如 `{"001234": "王〇明"}`，以 `--name-overrides` 明確指定。不存在於此次來源的修正學號會報錯，避免用錯檔案。修正不能用來忽略其他缺欄、合併列、衝突或掃描頁問題。
 
 替換方式：先轉換自己的 PDF 並檢查報告，再用輸出的 JSON／CSV 取代內建同名檔案；或每次以 `--data` 指向自己的名單。修改套件內建資料後，需重新執行 `python -m pip install .`，讓安裝版本取得更新。
 

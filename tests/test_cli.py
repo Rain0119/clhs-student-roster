@@ -15,8 +15,8 @@ class CLITests(unittest.TestCase):
         self.addCleanup(self.tmp.cleanup)
         self.root = Path(self.tmp.name)
         self.data = self.root / 'students.json'
-        self.rows = [{'student_id': '001234', 'name': '王o明', 'class': '209', 'seat': 1},
-                     {'student_id': '001235', 'name': '李O安', 'class': '309', 'seat': 2}]
+        self.rows = [{'student_id': '001234', 'name': '王〇明', 'class': '209', 'seat': 1},
+                     {'student_id': '001235', 'name': '李〇安', 'class': '309', 'seat': 2}]
         self.data.write_text(json.dumps(self.rows, ensure_ascii=False), encoding='utf-8')
 
     def run_cli(self, *args, input_text=''):
@@ -77,7 +77,7 @@ class CLITests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stderr)
         rows = json.loads(output.read_text(encoding='utf-8'))
         self.assertEqual(len(rows), 2)
-        self.assertEqual(rows[0], {'student_id': '001234', 'name': 'WangO', 'class': '209', 'seat': 1})
+        self.assertEqual(rows[0], {'student_id': '001234', 'name': 'Wang〇', 'class': '209', 'seat': 1})
 
     def test_failed_pdf_reports_problem_and_does_not_write_partial_roster(self):
         source = self.root / 'partial.pdf'
@@ -110,8 +110,8 @@ class CLITests(unittest.TestCase):
         result = self.run_cli('convert', '--source', 'grade3', source, '--name-overrides', corrections,
                               '--output', output, '--report', report, '--yes')
         self.assertEqual(result.returncode, 0, result.stderr)
-        self.assertEqual(json.loads(output.read_text(encoding='utf-8'))[0]['name'], '魏OO')
-        self.assertEqual(json.loads(report.read_text(encoding='utf-8'))['sources'][0]['name_corrections'][0]['name'], '魏OO')
+        self.assertEqual(json.loads(output.read_text(encoding='utf-8'))[0]['name'], '魏〇〇')
+        self.assertEqual(json.loads(report.read_text(encoding='utf-8'))['sources'][0]['name_corrections'][0]['name'], '魏〇〇')
 
     def test_unknown_correction_id_blocks_export(self):
         source = self.root / 'sample.pdf'

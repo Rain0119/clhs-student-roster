@@ -24,7 +24,8 @@ def normalize_student(student_id, name, class_code, seat, *, promote=False):
             class_code = '3' + class_code[1:]
         elif not class_code.startswith('3'):
             raise RosterError('高三來源只接受 2xx 或 3xx 班級。')
-    return dict(zip(FIELDS, (student_id.strip(), name.strip(), class_code, int(seat))))
+    name = re.sub(r'[OoＯｏ○◯]', '〇', name.strip())
+    return dict(zip(FIELDS, (student_id.strip(), name, class_code, int(seat))))
 
 
 def validate_roster(records):

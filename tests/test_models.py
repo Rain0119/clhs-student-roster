@@ -5,14 +5,14 @@ from student_roster.models import RosterError, lookup, normalize_student, valida
 
 class ModelTests(unittest.TestCase):
     def setUp(self):
-        self.row = {'student_id': '001234', 'name': '王o明', 'class': '209', 'seat': 1}
+        self.row = {'student_id': '001234', 'name': '王〇明', 'class': '209', 'seat': 1}
 
     def test_four_fields_and_leading_zero(self):
-        self.assertEqual(normalize_student('001234', ' 王o明 ', '209', '01'), self.row)
+        self.assertEqual(normalize_student('001234', ' 王〇明 ', '209', '01'), self.row)
 
     def test_grade3_promotion_is_explicit(self):
-        self.assertEqual(normalize_student('001234', '王o明', '209', 1, promote=True)['class'], '309')
-        self.assertEqual(normalize_student('001234', '王o明', '309', 1, promote=True)['class'], '309')
+        self.assertEqual(normalize_student('001234', '王〇明', '209', 1, promote=True)['class'], '309')
+        self.assertEqual(normalize_student('001234', '王〇明', '309', 1, promote=True)['class'], '309')
         with self.assertRaises(RosterError):
             normalize_student('001234', '王o明', '109', 1, promote=True)
 
@@ -38,7 +38,7 @@ class ModelTests(unittest.TestCase):
             validate_roster([{**self.row, 'group': 'A'}])
 
     def test_sort_order_and_name_preservation(self):
-        other = {'student_id': '002345', 'name': '李O𠮷', 'class': '109', 'seat': 12}
+        other = {'student_id': '002345', 'name': '李〇𠮷', 'class': '109', 'seat': 12}
         self.assertEqual(validate_roster([self.row, other]), [other, self.row])
 
     def test_lookup_id_and_verified_format_email(self):

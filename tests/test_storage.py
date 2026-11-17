@@ -13,7 +13,7 @@ class StorageTests(unittest.TestCase):
         self.tmp = tempfile.TemporaryDirectory()
         self.addCleanup(self.tmp.cleanup)
         self.root = Path(self.tmp.name)
-        self.rows = [{'student_id': '001234', 'name': '王o明', 'class': '209', 'seat': 1}]
+        self.rows = [{'student_id': '001234', 'name': '王〇明', 'class': '209', 'seat': 1}]
 
     def test_json_and_csv_roundtrip_with_only_four_fields(self):
         for suffix in ['json', 'csv']:

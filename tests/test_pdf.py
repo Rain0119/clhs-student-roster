@@ -11,7 +11,7 @@ class PDFTests(unittest.TestCase):
     def test_grade1_column_order(self):
         result = parse_pages(['報到序號 班級 座號 學號 姓名\n001 109 01 001234 王O明'], 'grade1', source='a.pdf')
         result.require_valid()
-        self.assertEqual(result.students, [{'student_id': '001234', 'name': '王O明', 'class': '109', 'seat': 1}])
+        self.assertEqual(result.students, [{'student_id': '001234', 'name': '王〇明', 'class': '109', 'seat': 1}])
 
     def test_optional_extra_columns_and_repeated_header(self):
         result = parse_pages(['學號 姓名 班級 座號 班群 數學\n410001 王o寧 209 01 B 數A',
@@ -19,7 +19,7 @@ class PDFTests(unittest.TestCase):
         result.require_valid()
         self.assertEqual(len(result.students), 2)
         self.assertEqual([p['students'] for p in result.pages], [1, 1])
-        self.assertEqual(result.students[0]['name'], '王o寧')
+        self.assertEqual(result.students[0]['name'], '王〇寧')
 
     def test_grade3_only_promotes_its_profile(self):
         for profile, expected in [('grade2', '209'), ('grade3', '309')]:
@@ -44,7 +44,7 @@ class PDFTests(unittest.TestCase):
     def test_explicit_name_correction_recovers_image_name_with_audit(self):
         result = parse_pages(['310481 215 41 C'], 'grade3', source='image-name.pdf', name_overrides={'310481': '魏OO'})
         result.require_valid()
-        self.assertEqual(result.students, [{'student_id': '310481', 'name': '魏OO', 'class': '315', 'seat': 41}])
+        self.assertEqual(result.students, [{'student_id': '310481', 'name': '魏〇〇', 'class': '315', 'seat': 41}])
         self.assertEqual(result.report()['name_corrections'][0]['student_id'], '310481')
         self.assertEqual(result.report()['name_corrections'][0]['page'], 1)
 
